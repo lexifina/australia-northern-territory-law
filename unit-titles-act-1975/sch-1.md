@@ -2,7 +2,7 @@
 section 76
 1. In these articles, unless the contrary intention appears:
 Act means the Unit Titles Act.
-authorised agent means a person authorised by the corporation;
+authorised agent means a person authorised by the corporation.
 2. (1) Subject to this article, an authorised agent may, at all reasonable times:
 (a) inspect a unit for the purpose of ascertaining whether or not the Act and these articles are being observed;
 (b) carry out in, on or to a unit any maintenance, repairs or work that the corporation is, by the Act or these articles, required to carry out in, on or to the unit;
