@@ -1,6 +1,6 @@
 ## Schedule 1
 section 3(1)
-Compulsory imprisonment offences under Criminal Code
+Property offences
 1 An offence against section 210 of the Criminal Code, except where:
 (a) the offence occurred at premises, or a place, where goods are sold;
 (b) the offence was not part of a single criminal enterprise during which the offender committed an offence against Part VI of the Criminal Code;
