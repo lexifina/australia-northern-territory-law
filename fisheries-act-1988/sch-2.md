@@ -2,6 +2,7 @@
 section 25(1)
 2. A fishery management plan may:
 (a) designate areas, within the fishery management area where, and the periods when, fishing for certain species of fish or aquatic life shall be prohibited or restricted, or permitted only by specified types of vessels or by specified methods or persons, or with specified types or quantities of fishing gear, or subject to such other conditions as may be specified;
+(aa) specify the methods or practices to be used by a class of persons in the supervision of operations conducted for the purposes of a licence or permit;
 (ba) specify the species of fish that may or shall not be taken and/or the restrictions (if any) that apply in relation to the taking of any species of fish;
 (bb) specify the number of licences that may be issued in relation to an area or a fishery, as the case requires, and prohibit or regulate the transfer of licences in respect of a fishery;
 (b) specify ports or places or circumstances where fish or aquatic life may be landed or trans-shipped at sea;
