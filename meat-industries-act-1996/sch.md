@@ -1,6 +1,5 @@
-## Schedule
+## Schedule Acts repealed
 section 75
-ACTS REPEALED
 Number and year | Short title
 No. 46, 1973 | Abattoirs and Slaughtering Ordinance 1973
 No. 88, 1974 | Abattoirs and Slaughtering Ordinance 1974

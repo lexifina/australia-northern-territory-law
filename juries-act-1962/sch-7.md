@@ -5,7 +5,7 @@ the Administrator
 the Administrator's official secretary
 the secretary of the Executive Council
 a person who holds, or has, within the previous 10 years, held, a judicial office
-the spouse of a Judge
+a spouse or a de facto partner of a Judge
 a member of the Legislative Assembly
 the Ombudsman, and an employee within the meaning of the Public Sector Employment and Management Act who is employed in the Office of the Ombudsman
 a person regularly employed on duties on board aircraft used in aerial ambulance services
