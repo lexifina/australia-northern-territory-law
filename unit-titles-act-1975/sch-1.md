@@ -1,8 +1,8 @@
 ## Schedule 1 Articles
 section 76
 1. In these articles, unless the contrary intention appears:
-Act means the Unit Titles Act.
-authorised agent means a person authorised by the corporation.
+Act means the Unit Titles Act;
+authorised agent means a person authorised by the corporation;
 2. (1) Subject to this article, an authorised agent may, at all reasonable times:
 (a) inspect a unit for the purpose of ascertaining whether or not the Act and these articles are being observed;
 (b) carry out in, on or to a unit any maintenance, repairs or work that the corporation is, by the Act or these articles, required to carry out in, on or to the unit;
@@ -30,6 +30,6 @@ The proprietor or occupier of a unit shall not:
 (a) damage any lawn, garden, tree, shrub, plant or flower being part of or on common property; or
 (b) use for his own purposes as a garden a portion of the common property.
 4. DAMAGE TO COMMON PROPERTY
-The proprietor or occupier of a unit shall not mark, paint, drive nails or screws or the like into, or otherwise damage or deface, a structure that forms part of the common property without the approval in writing of the corporation, but this by-law does not prevent a proprietor or person authorised by him from installing –
+The proprietor or occupier of a unit shall not mark, paint, drive nails or screws or the like into, or otherwise damage or deface, a structure that forms part of the common property without the approval in writing of the corporation, but this by-law does not prevent a proprietor or person authorised by him from installing:
 (a) a locking or other safety device for protection of his unit against intruders; or
 (b) a screen or other device to prevent entry of animals or insects into his unit.
