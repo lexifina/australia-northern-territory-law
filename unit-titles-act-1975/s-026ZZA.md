@@ -1,4 +1,4 @@
-# 26ZZA By-laws
+# 26ZZA By-laws relating to building development
 (1) A building management corporation may, by special resolution, in respect of its building development, make by-laws, not inconsistent with this or any other law of the Territory, relating to:
 (a) the management, use and maintenance of the building development;
 (aa) the health and safety of persons;
