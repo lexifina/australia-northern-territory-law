@@ -1,5 +1,5 @@
 ## Schedule 3 Savings and transitional provisions
-section 239
+section 340
 1. Application of Interpretation Act
 The provisions of this Schedule do not prejudice the operation in relation to the repeals effected by this Act of section 12 of the Interpretation Act so far as that section is consistent with those provisions.
 2. Consumer Protection

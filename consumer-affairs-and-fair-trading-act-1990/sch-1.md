@@ -18,14 +18,14 @@ Part I Members of the Council
 2. Filling of casual vacancies
 Where a vacancy occurs in the office of a member of the Council otherwise than by the expiry of the term for which the member was appointed, the Minister shall by notice in the Gazette appoint a person to fill the vacancy, and the person so appointed shall hold office as a member for the unexpired period of office of the member in whose stead he or she is appointed.
 Part II Meetings and Proceedings of the Council and its Committees
-3. Convening and frequency of council meetings
+3. Convening and frequency of Council meetings
 (1) The Chairman of the Council shall convene such meetings of the Council as are necessary for the exercise of its powers and the performance of its functions, and so that the interval between one meeting and the next does not exceed 6 months.
 (2) The Chairman shall convene a meeting of the Council whenever requested by the Minister to do so.
 (3) The Chairman shall convene a meeting by notice in writing to the other members of the Council specifying the time and place at which the meeting is to be held.
-4. Presiding at council meetings
+4. Presiding at Council meetings
 (1) The Chairman of the Council or, in the absence of the Chairman, its Deputy Chairman (if present) shall preside at meetings of the Council.
 (2) If the Chairman and the Deputy Chairman are both absent from a meeting, the members of the Council present at the meeting shall elect one of their number to preside for so long as both continue to be absent, and the person elected has during that time all the powers of the Chairman.
-5. Procedure at council meetings
+5. Procedure at Council meetings
 (1) At a meeting of the Council:
 (a) 50% of the members of the Council for the time being holding office constitute a quorum;
 (b) questions arising shall be decided by a majority of the votes of the members present and voting; and

@@ -1,5 +1,5 @@
 ## Schedule 2 Repeals
-section 238
+section 339
 1. Consumer Protection
 Consumer Protection Ordinance 1978 No. 41, 1978
 Consumer Protection Amendment Act 1983 No. 17, 1983
