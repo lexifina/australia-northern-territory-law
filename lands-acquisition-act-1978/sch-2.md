@@ -80,3 +80,8 @@ to purchase land to be used as a principal place of residence providing accommod
 (ii) the claimant and his spouse or de facto partner cease to use the land as a principal place of residence; or
 (iii) if both the claimant and his spouse or de facto partner have died; and
 (b) shall contain such other terms and conditions as the Minister thinks fit to secure the repayment of the loan.
+12 Interpretation
+(1) In rules 9 and 11, a reference to a claimant includes a reference to a claimant's spouse and his de facto partner if any.
+(2) In this Schedule, de facto partner means:
+(a) in relation to a man – a woman who is living with him as his wife on a bona fide domestic basis although not married to him; and
+(b) in relation to a woman – a man who is living with her as her husband on a bona fide domestic basis although not married to her.
