@@ -1,0 +1,27 @@
+## Schedule 2
+section 212
+PART A
+The Real Property Act, 1886 (1886, No. 380)
+The Real Property Amendment Act, 1893 (1893, No. 569)
+PART B
+Real Property Ordinance 1918 (No. 13 of 1918)
+Real Property Ordinance 1926 (No. 12 of 1926)
+Real Property Ordinance 1932 (No. 11 of 1932)
+Real Property Ordinance 1965 (No. 15 of 1965)
+Real Property Ordinance 1969 (No. 2 of 1969)
+Real Property Ordinance 1973 (No. 63 of 1973)
+Real Property Act 1978 (No. 93 of 1978)
+Real Property Amendment Act 1981 (No. 48 of 1981)
+Real Property Amendment Act 1982 (No. 67 of 1982)
+Real Property Amendment Act (No. 2) 1982 (No. 83 of 1982)
+Real Property Amendment Act 1983 (No. 8 of 1983)
+Real Property Amendment Act 1984 (No. 17 of 1984)
+Real Property Amendment Act 1986 (No. 27 of 1986)
+Real Property Amendment Act 1988 (No. 38 of 1988)
+Real Property Amendment Act 1989 (No. 59 of 1989)
+Real Property Amendment Act (No. 2) 1989 (No. 66 of 1989)
+Real Property Amendment Act 1991 (No. 32 of 1991)
+Real Property Amendment Act (No. 2) 1991 (No. 53 of 1991)
+Real Property Amendment Act 1993 (No. 19 of 1993)
+Real Property Amendment Act (No. 2) 1993 (No. 76 of 1993)
+Real Property Amendment Act 1999 (No. 17 of 1999)
