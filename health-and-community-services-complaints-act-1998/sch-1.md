@@ -1,0 +1,40 @@
+## Schedule 1
+section 9
+1. Limitations on appointment of Commissioner
+(1) A person cannot be appointed Commissioner if he or she is:
+(a) a registered provider; or
+(b) a member of a professional association of health service providers.
+(2) A professional association of health services providers does not include:
+(a) an industrial organisation; and
+(b) an association of health administrators.
+(3) The Ombudsman may be appointed Commissioner.
+2. Term of appointment
+The Commissioner holds office for the term, not longer than 5 years, that is specified in his or her appointment, but is eligible to be re-appointed.
+3. Conditions of appointment
+(1) The Commissioner:
+(a) holds office on terms and conditions, not inconsistent with this Act; and
+(b) is to be paid remuneration, expenses and allowances,
+as the Administrator determines from time to time.
+(2) The Minister must table in the Legislative Assembly a copy of:
+(a) the appointment of the Commissioner under section 9; and
+(b) a determination made under subclause (1),
+within 6 sitting days of the Assembly after it is made.
+(3) If an employee, within the meaning of the Public Sector Employment and Management Act, is appointed Commissioner, the employee retains all his or her existing and accruing rights as if service as Commissioner were a continuation of service as an employee.
+(4) If a person ceases to be Commissioner and becomes an employee, within the meaning of the Public Sector Employment and Management Act, service as Commissioner is service in the Public Service of the Northern Territory for the purpose of determining his or her rights as an employee.
+(5) The Commissioner must not engage in remunerative employment outside the duties of his or her office under this Act unless he or she has obtained the consent of the Minister in writing.
+4. Leave of absence
+The Minister may grant leave of absence to the Commissioner on terms and conditions that the Minister determines.
+5. Resignation
+The Commissioner may resign his or her office by written notice to the Minister.
+6. Retirement
+The Minister may, with the consent of the Commissioner, retire the Commissioner on the ground of incapacity.
+7. Termination or suspension of appointment
+(1) The Administrator may terminate or suspend the appointment of the Commissioner on the grounds that the Commissioner:
+(a) is physically or mentally incapable of continuing as Commissioner;
+(b) has been guilty of misbehaviour or misconduct; or
+(c) becomes bankrupt, applies to take the benefit of the law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of his or her remuneration or estate for their benefit.
+(2) If the Commissioner is suspended from office, the Commissioner is restored to office if:
+(a) a statement specifying the reasons for the suspension is not tabled in the Legislative Assembly within 6 sitting days of the Assembly after the suspension; or
+(b) the Legislative Assembly does not pass a resolution accepting the statement within 6 sitting days of the Assembly after the statement is tabled in the Assembly.
+(3) The suspension of the Commissioner does not affect his or her entitlement to be paid any remuneration, expenses and allowances.
+(4) For the purposes of inquiring into a matter that may warrant terminating the appointment of a person as Commissioner, the Administrator may suspend the person's appointment for not longer than 6 months.
