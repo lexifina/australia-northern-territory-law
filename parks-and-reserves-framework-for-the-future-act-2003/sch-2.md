@@ -1,0 +1,8 @@
+## Schedule 2
+sections 8, 10, 12, 13 and 14
+Parks and reserves over which park freehold title is to be granted
+Dulcie Range National Park
+Keep River National Park
+Kuyunba Conservation Reserve
+Native Gap Conservation Reserve
+Watarrka National Park
