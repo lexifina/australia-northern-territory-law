@@ -1,2 +1,2 @@
-CROWN LANDS ACT 1992
+CROWN LANDS ACT
 An Act relating to Crown lands
