@@ -105,8 +105,10 @@ Hydromorphone | 2.00 g | 100.00 g
 B-Hydroxyfentanyl | 0.005 g | 0.25 g
 B-Hydroxy-3-methylfentanyl | 0.005 g | 0.25 g
 Hydroxypethidine | 5.00 g | 250.00 g
+4-Hydroxybutanoic acid | 2.00g | 100.00g
 Isomethadone | 2.00 g | 100.00 g
 Ketobemidone | 2.00 g | 100.00 g
+Ketamine | 0.002g | 0.10 g
 Khat leaf | 250.00 g | 5.00 kg
 Levamphetamine | 2.00 g | 100.00 g
 Levomethamphetamine | 2.00 g | 100.00 g
