@@ -1,2 +1,2 @@
-utilities commission act 2000
+utilities commission act
 An Act to establish the Utilities Commission and for related purposes
