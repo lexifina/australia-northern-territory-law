@@ -1,4 +1,4 @@
-National Environment Protection Council (Northern Territory) Act
+NATIONAL ENVIRONMENT PROTECTION COUNCIL (NORTHERN TERRITORY) act 1994
 An Act to provide for the establishment of a National Environment Protection Council, and for related purposes
 WHEREAS:
 1. The Commonwealth, the States, the Australian Capital Territory, the Northern Territory and the Australian Local Government Association have entered into an Agreement known as the Intergovernmental Agreement on the Environment setting out certain responsibilities of each party in relation to the environment.

@@ -1,6 +1,5 @@
-## Schedule
+## Schedule Intergovernmental agreement of the movement
 section 6
-INTERGOVERNMENTAL AGREEMENT ON THE ENVIRONMENT
 AN AGREEMENT made the 1st day of May one thousand nine hundred and ninety two
 BETWEEN
 THE COMMONWEALTH OF AUSTRALIA of the first part,
@@ -25,7 +24,7 @@ ACKNOWLEDGE the important role of the Commonwealth and the States in relation to
 RECOGNISE that environmental concerns and impacts respect neither physical nor political boundaries and are increasingly taking on interjurisdictional, international and global significance in a way that was not contemplated by those who framed the Australian Constitution;
 RECOGNISE that the concept of ecologically sustainable development including proper resource accounting provides potential for the integration of environmental and economic considerations in decision making and for balancing the interests of current and future generations;
 RECOGNISE that it is vital to develop and continue land use programs and co-operative arrangements to achieve sustainable land use and to conserve and improve Australia's biota, and soil and water resources which are basic to the maintenance of essential ecological processes and the production of food, fibre and shelter;
-ACKNOWLEDGE that the efficiency and effectiveness of administrative and political processes and systems for the development and implementation of environmental policy in a Federal system will be a direct function of:-
+ACKNOWLEDGE that the efficiency and effectiveness of administrative and political processes and systems for the development and implementation of environmental policy in a Federal system will be a direct function of:–
 (i) the extent to which roles and responsibilities of the different levels of Government can be clearly and unambiguously defined;
 (ii) the extent to which duplication of functions between different levels of Government can be avoided;
 (iii) the extent to which the total benefits and costs of decisions to the community are explicit and transparent;
@@ -67,7 +66,7 @@ SECTION 2 – ROLES OF THE PARTIES – RESPONSIBILITIES AND INTERESTS
 2.4.2 Local Government units have an interest in the environment of their localities and in the environments to which they are linked.
 2.4.3 Local Government also has an interest in the development and implementation of regional, Statewide and national policies, programs and mechanisms which affect more than one Local Government unit.
 2.5 ACCOMMODATION OF INTERESTS
-2.5.1 Between the States and the Commonwealth
+2.5.1 Between the States and the Commonwealth.
 2.5.1.1 Where there is a Commonwealth interest in an environmental matter which involves one or more States, that interest will be accommodated as follows:
 (i) the Commonwealth and the affected States will cooperatively set outcomes or standards and periodically review progress in meeting those standards or achieving those outcomes; or
 (ii) where outcomes or standards are impractical or inappropriate, the Commonwealth may approve or accredit a State's practices, procedures, and processes; or
@@ -145,15 +144,13 @@ SIGNED by the Honourable RAYMOND JOHN GROOM, Premier of the State of Tasmania | 
 SIGNED by ROSEMARY FOLLETT Chief Minister of the Australian Capital Territory | ) ) *Signature omitted )
 SIGNED by the Honourable MARSHALL BRUCE PERRON, Chief Minister of the Northern Territory ACCEPTANCE OF THE AGREEMENT BY THE NORTHERN TERRITORY IS SUBJECT TO THE RESERVATIONS SET OUT IN ANNEXURE A OF THIS AGREEMENT | ) ) *Signature omitted )
 SIGNED by Councillor GRAEME BLATCHFORD FRECKER, President of the AUSTRALIAN LOCAL GOVERNMENT ASSOCIATION | ) ) *Signature omitted )
-Schedule 1
-DATA COLLECTION AND HANDLING
+Schedule 1 Data collection and handling
 1. The parties agree that the collection, maintenance and integration of environmental data will assist in efficient and effective environmental management and monitoring.
 2. The development of consistent standards for the description and exchange of all land-related information will be coordinated and fostered by the Australian Land Information Council in conjunction with Standards Australia and specialist groups where needed.
 3. In order to avoid overlap and duplication in the collection and maintenance of all land-related data, the Australian Land Information Council will facilitate the coordination of intergovernmental arrangements (including appropriate financial arrangements) and provide mechanisms to make the data more accessible across all levels of government and the private sector. Any arrangements entered into will detail the circumstances in which the exchange and ongoing sharing of data is appropriate. The intergovernmental arrangements will be submitted to First Ministers for their approval no later than twelve months after the execution of this Agreement.
 4. The collection of data on natural resources should, where possible, be integrated from the outset, in order to avoid the difficulties inherent in collating data collected with different methodologies and in different conditions.
 5. The Australian Land Information Council, (through the National Resources Information Centre and the Environmental Resources Information Network where appropriate) will consult with the relevant national co-ordination bodies and, through its members, with Commonwealth and State jurisdictions, to ensure the development and maintenance of comprehensive directories of natural resource and environmental spatial datasets and to develop and maintain national natural resource data standards.
-Schedule 2
-RESOURCE ASSESSMENT, LAND USE DECISIONS AND APPROVAL PROCESSES
+Schedule 2 Resource assessment, land use decisions and approval processes
 1. The parties agree that the concept of ecologically sustainable development should be used by all levels of Government in the assessment of natural resources, land use decisions and approval processes.
 2. The parties agree that it is the role of government to establish the policy, legislative and administrative framework to determine the permissibility of any land use, resource use or development proposal having regard to the appropriate, efficient and ecologically sustainable use of natural resources (including land, coastal and marine resources).
 3. The parties agree that policy, legislative and administrative frameworks to determine the permissibility of land use, resource use or development proposals should provide for:
@@ -170,8 +167,7 @@ RESOURCE ASSESSMENT, LAND USE DECISIONS AND APPROVAL PROCESSES
 7. A State will consult Local Government where appropriate, when undertaking any review of its land and resource use planning systems and/or development approval processes pursuant to this Agreement.
 8. Where the Commonwealth has accredited a system or process within a State, the Commonwealth will give full faith and credit to the results of that system or process when exercising Commonwealth responsibilities.
 9. Within twelve months of the execution of this Agreement, the parties agree to reconsider the matters contained in this Schedule with a view to incorporating any relevant findings of the ecologically sustainable development process.
-Schedule 3
-ENVIRONMENTAL IMPACT ASSESSMENT
+Schedule 3 Environmental impact assessment
 1. The parties agree that it is desirable to establish certainty about the application, procedures and function of the environmental impact assessment process, to improve the consistency of the approach applied by all levels of Government, to avoid duplication of process where more than one Government or level of Government is involved and interested in the subject matter of an assessment and to avoid delays in the process.
 2. The parties agree that impact assessment in relation to a project, program or policy should include, where appropriate, assessment of environmental, cultural, economic, social and health factors.
 3. The parties agree that all levels of Government will ensure that their environmental impact assessment processes are based on the following:
@@ -189,10 +185,9 @@ ENVIRONMENTAL IMPACT ASSESSMENT
 (xii) the environmental impact assessment process will provide a basis for setting environmental conditions, and establishing environmental monitoring and management programs (including arrangements for review) and developing industry guidelines for application in specific cases.
 4. A general framework agreement between the Commonwealth and the States on the administration of the environmental impact assessment process will be negotiated to avoid duplication and to ensure that proposals affecting more than one of them are assessed in accordance with agreed arrangements.
 5. The Commonwealth and the States may approve or accredit their respective environmental impact assessment processes either generally or for specific purposes. Where such approval or accreditation has been given, the Commonwealth and the States agree that they will give full faith and credit to the results of such processes when exercising their responsibilities.
-Schedule 4
-NATIONAL ENVIRONMENT PROTECTION MEASURES
+Schedule 4 National environment protection measures
 General Purpose
-1. The Commonwealth and the States acknowledge that there is benefit to the people of Australia in establishing national environment protection standards, guidelines, goals and associated protocols (hereinafter referred to as `measures') with the objectives of ensuring:
+1. The Commonwealth and the States acknowledge that there is benefit to the people of Australia in establishing national environment protection standards, guidelines, goals and associated protocols (hereinafter referred to as measures) with the objectives of ensuring:
 (i) that people enjoy the benefit of equivalent protection from air, water and soil pollution and from noise, wherever they live;
 (ii) that decisions by business are not distorted and markets are not fragmented by variations between jurisdictions in relation to the adoption or implementation of major environment protection measures.
 Any proposed measures must be examined to identify economic and social impacts and to ensure simplicity, efficiency and effectiveness in administration.
@@ -250,8 +245,7 @@ Definitions
 (ii) a goal is a desired environmental outcome adopted to guide the formulation of strategies for the management of human activities which may affect the environment;
 (iii) a guideline provides guidance on possible means of meeting desired environmental outcomes. Guidelines are not mandatory;
 (iv) a protocol is the description of a process to be followed in measuring environmental characteristics to determine whether a standard or goal is being achieved or the extent of the differential between the measured characteristic and a standard or goal.
-Schedule 5
-CLIMATE CHANGE
+Schedule 5 Climate change
 1. The parties acknowledge the potentially significant impact of greenhouse enhanced climate change on Australia's natural, social and working environment, as well as on the global community and global environments. The parties accept and support the need for Australia to participate in the development of an effective international response to meet the challenge of greenhouse enhanced climate change and note Australia's participation in the development of an international convention on climate change.
 2. The parties note their endorsement of the decision to adopt an interim planning target to stabilise greenhouse gas emissions (not controlled by the Montreal Protocol on Substances that Deplete the Ozone Layer) based on 1988 levels, by the year 2000 and reducing these emissions by 20% by the year 2005. The parties reiterate their support, as agreed in October 1990, for the interim planning target to form the basis of development of the National Greenhouse Response Strategy, subject to Australia not implementing response measures that would have net adverse economic impacts nationally or on Australia's trade competitiveness, in the absence of similar action by major greenhouse gas producing countries. The parties agree that assessment of the implementation of the National Greenhouse Response Strategy against this agreed objective will be reviewed at Special Premiers' Conferences.
 3. The parties reiterate that a National Greenhouse Response Strategy based on the interim planning target must include positive measures for:
@@ -269,8 +263,7 @@ The parties also agree that such a strategy should include measures for auditing
 (iii) to encourage development of the strategy in areas where it is not being handled elsewhere;
 (iv) to present the Strategy to First Ministers for consideration/adoption;
 (v) to recommend to First Ministers requirements for further development of the Strategy as implementation proceeds.
-Schedule 6
-BIOLOGICAL DIVERSITY
+Schedule 6 Biological diversity
 1. The parties acknowledge that biological diversity is a major and valuable component of the environment and should be protected.
 2. The parties note that the Commonwealth Government is currently preparing a draft national strategy for the conservation of biological diversity which is being pursued through the Biological Diversity Advisory Committee which has wide ranging representation, including the States.
 3. The parties note that the Commonwealth is responsible for the negotiation, ratification and ensuring implementation of the proposed Biological Diversity Convention.
@@ -288,11 +281,10 @@ Australian Forestry Council;
 Australian Fisheries Council;
 Australian and New Zealand Mineral and Energy Council; and
 Australian Industry and Technology Council.
-Schedule 7
-NATIONAL ESTATE
+Schedule 7 National Estate
 1. The parties acknowledge that the primary role of the Australian Heritage Commission is to identify the National Estate and advise the Commonwealth on its conservation.
 2. The parties further acknowledge that primary responsibility for land use and resource planning decisions rests with States.
-3. The parties agree that the register of the National Estate is one of the factors that the States may consider when making land use and resource planning decisions and that Section 30 of the Australian Heritage Commission Act 1975 applies only to decisions of the Commonwealth Ministers, Departments and Authorities. The parties recognise however that some applications of s.30 of the Act may have significant land and resource use planning implications.
+3. The parties agree that the register of the National Estate is one of the factors that the States may consider when making land use and resource planning decisions and that Section 30 of the Australian Heritage Commission Act 1975 applies only to decisions of the Commonwealth Ministers, Departments and Authorities. The parties recognise however that some applications of s. 30 of the Act may have significant land and resource use planning implications.
 4. The Commonwealth supports the current practice whereby the Australian Heritage Commission provides information on all places nominated to the Register of the National Estate or which are identified by studies, to the designated agencies in the relevant State. The Commonwealth agrees to support the current practice whereby the Commission seeks and considers the views of the relevant State on all nominated places before making a decision on interim listing.
 5. Each State agrees to establish and advise the Australian Heritage Commission on appropriate channels of communication, the persons responsible for consultation and the persons responsible for coordination of responses to the Australian Heritage Commission on matters related to National Estate nominations and listings.
 6. The Commonwealth supports the current practice whereby the Australian Heritage Commission provides information to the relevant local government body on places to be given interim listings status at least two months prior to any public notification of that interim listing.
@@ -302,21 +294,19 @@ NATIONAL ESTATE
 10. The Commonwealth and the States agree that there will be consultation and agreement wherever possible on the timing of Australian Heritage Commission and State assessment processes.
 11. Where there is an accredited or joint assessment of national estate values of the Commonwealth and/or the States will give full faith and credit to the results of such assessment when exercising their responsibilities.
 12. The Commonwealth and the States note that where there is an accredited or joint assessment of national estate values the Australian Heritage Commission will generally not, and in any event will not without consultation with the States, reconsider that assessment except where new and significant information is produced.
-Schedule 8
-WORLD HERITAGE
-1. The States recognise that the Commonwealth has an international obligation as a party to the World Heritage Convention to ensure the identification, protection, conservation, presentation and transmission to future generations of Australia's natural and cultural heritage of `outstanding universal value'.
+Schedule 8 World Heritage
+1. The States recognise that the Commonwealth has an international obligation as a party to the World Heritage Convention to ensure the identification, protection, conservation, presentation and transmission to future generations of Australia's natural and cultural heritage of outstanding universal value.
 2. The Commonwealth will consult the States and use its best endeavours to obtain their agreement on the compilation of an indicative list of World Heritage properties. The States agree to consult the relevant local government bodies and interested groups (including conservation and industry groups) on properties for inclusion on the indicative list prior to submission to the Commonwealth. Should conservation or any other groups or individuals make suggestions on an indicative list direct to the Commonwealth these will be referred to the relevant State for comment.
 3. The Commonwealth will consult with the relevant State or States, and use its best endeavours to obtain their agreement, on nominations to the World Heritage List.
 4. Where the relevant State or States have agreed to a nomination, the preparation of that nomination for World Heritage listing will be the primary responsibility of the relevant State or States and will be undertaken in close consultation with the Commonwealth. In the case of properties that transcend State boundaries, the Commonwealth will coordinate preparation of the nomination. The Commonwealth is responsible for ensuring the nomination is in accordance with the World Heritage Convention and Guidelines and submitting the nomination to UNESCO.
 5. Arrangements for the management of a property will be determined as far as practicable prior to the nomination. The management arrangements will take into consideration the continuation of the State's management responsibilities for the property while preserving the Commonwealth's responsibilities under the World Heritage Convention.
-Schedule 9
-NATURE CONSERVATION
+Schedule 9 Nature conservation
 1. The parties agree that each level of Government has responsibilities for the protection of flora and fauna and should use their best endeavours to ensure the survival of species and ecological communities, both terrestrial and aquatic, that make up Australia's biota. The parties recognise that the protection and sound management of natural habitats is of fundamental importance to this aim and that all levels of Government should use their best endeavours to conserve areas critical to the protection of Australia's flora and fauna and the maintenance of ecological processes that ensure biological productivity and stability.
 2. The parties recognise that the States have primary responsibility in the general area of nature conservation.
 3. The parties recognise that the Commonwealth has a particular responsibility in the area of nature conservation in relation to:
-- management of areas that lie within its own jurisdiction including the external territories and the Jervis Bay Territory, Commonwealth places and marine areas;
-- Australia's obligations under international law including under treaties;
-- exports, imports and quarantine.
+management of areas that lie within its own jurisdiction including the external territories and the Jervis Bay Territory, Commonwealth places and marine areas;
+Australia's obligations under international law including under treaties;
+exports, imports and quarantine.
 The Commonwealth also has a particular interests in facilitating the effective and efficient co-ordination of nature conservation across all jurisdictions.
 4. The parties agree that a national approach should be taken to rare, vulnerable and endangered species given that the distribution of these species and their habitats is not confined or determined by State or Commonwealth borders and that a national approach is desirable to avoid duplication of effort, to ensure appropriate outcomes and to maximise the effectiveness of available resources.
 5 The parties agree that environmental management and resource use decisions taken by all levels of Government should have regard to the national distribution of species and other agreed national nature conservation considerations.
@@ -338,7 +328,6 @@ The Commonwealth also has a particular interests in facilitating the effective a
 14. The parties agree that the national approach to the conservation, protection and management of native species and habitants may include the addition of new areas to reserve systems and protected areas, some of which may be under multiple land use regimes, where such multiple land use does not adversely affect the prime nature conservation function of the reserve or protected area.
 15. The parties further recognise that the establishment and management of a reserve system is not in itself sufficient to ensure the protection of Australia's flora and fauna. Off-reserve protection and management, particularly of remnant vegetation, are also required. The parties recognise the need for national co-operation to ensure that remnants that are ecologically significant on a national scale are identified; management and protection arrangements are consistent across borders; research initiatives are co-ordinated and not duplicated; and that off-reserve protection activities complement the reserve system.
 16. The Commonwealth and the States agree to co-operate in the development of actions outlined in this schedule and that the Australian and New Zealand Environment and Conservation Council be the primary forum of all co-ordination of nationwide nature conservation functions.
-Annexure A
-RESERVATION BY THE NORTHERN TERRITORY
-The Northern Territory in signing the Agreement notifies that it does not consider itself a party to the Intergovernmental Agreement on Road Transport entered into by the Commonwealth, States and the Australian Capital Territory, and accordingly is not bound by subclause 5(vi) and clause 7 of Schedule 4 to this Agreement.
+Annexure A Reservation by the Northern Territory
+The Northern Territory in signing the Agreement notifies that it does not consider itself a party to the Intergovernmental Agreement on Road Transport entered into by the Commonwealth, States and the Australian Capital Territory, and accordingly is not bound by sub-clause 5(vi) and clause 7 of Schedule 4 to this Agreement.
 The Northern Territory further notifies its intention to enter into discussions with the other parties with the objective of securing the direct participation of representatives of the Northern Territory Government concerned with transport administration in any joint or collaborative processes among the Commonwealth, States and Territories for the establishment of measures for national motor vehicle emission and noise standards.
