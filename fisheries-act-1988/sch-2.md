@@ -13,7 +13,10 @@ section 25(1)
 (i) present participation in the fishery;
 (ii) historical fishing patterns and dependence on the fishery; or
 (iii) the capability of fishing vessels being used, or intended to be used, in the fishery, to operate in other fisheries;
-(g) provide for offences in respect of contravention of or non-compliance with a provision of the plan or any notice, requirement, or direction given pursuant to the plan, and provide for penalties not exceeding $10,000 in respect of an offence and, in the case of continuing offences, provide for further penalties not exceeding $500 for each day during which the offence has continued, and not exceeding $50 for each fish or item of aquatic life in excess of any specified limit;
+(g) provide for offences in respect of contravention of or non-compliance with a provision of the plan or a notice, requirement or direction given under the plan and provide for penalties as follows:
+(i) a penalty not exceeding $20 000 for an offence;
+(ii) a penalty not exceeding $50 for each fish or item of aquatic life in excess of a specified limit;
+(iii) a penalty not exceeding $500 for each item of gear by which a specified limit in respect of the gear is exceeded;
 (h) contain any other measures considered necessary or desirable for the conservation, management or control of the fishery; or
 (j) provide for the establishment and administration of a scheme for the rationalisation of the fishery and for those purposes may provide for:
 (i) a limitation or reduction in an equitable manner of the number of fishing units licensed to operate in a fishery;
@@ -21,3 +24,12 @@ section 25(1)
 (iii) the establishment by the Accountable Officer of a fund within the Agency Operating Account within the meaning of the Financial Management Act;
 (iv) the imposition of levies or other payments for the purposes of funding any compensation to be paid; and
 (v) the repayment of surplus amounts, after payment of any outstanding amounts due, to persons who, on conclusion of a scheme, are holders of licences in respect of fishing units to which the scheme relates.
+3. A fishery management plan may prescribe different penalties for different classes of offender for an offence against the plan.
+4. Subject to clause 5, a fishery management plan may provide for the Director to do either or both of the following:
+(a) revoke an approval for a person to engage in a fishery in a capacity that the Director must approve;
+(b) refuse, for a specified period not exceeding 5 years, to approve a person to engage in a fishery in a capacity that the Director must approve.
+5. A provision of a fishery management plan made under clause 4 may authorise the Director to act under the provision only if:
+(a) the person has been found guilty:
+(i) on more than one occasion of a prescribed offence under the plan (whether the same type of offence or not); or
+(ii) of a prescribed offence under the plan and has also been found guilty of a prescribed offence under another fishery management plan; and
+(b) the later offence was committed after the commencement of that clause.
