@@ -19,4 +19,3 @@ PROHIBITED FIREARMS
 13 A firearm that substantially duplicates in appearance a walking stick or walking cane.
 14 A cannon or other weapon by whatever name known of a type that will expel a projectile by the action of an explosive or other propellant, and that has a barrel with a bore in excess of 10 gauge.
 15 A firearm or part that has a dimension less than the minimum dimension prescribed for the firearm or part.
-16 An imitation or replica of a firearm (including a imitation or replica pistol, blank fire pistol, shortened firearm, machine gun or sub-machine gun) unless it is of a type approved by the Commissioner.
