@@ -1,4 +1,4 @@
-## Schedule 3 Previous non-exclusive possession Acts
+## Schedule 3 Previous non-exclusive possession acts
 section 3B
 1. An act is a previous non-exclusive possession act if:
 (a) it is valid (including because of Division 2 or 2A of Part 2 of the Commonwealth Act);
