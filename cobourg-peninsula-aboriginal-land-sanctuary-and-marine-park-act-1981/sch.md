@@ -1,0 +1,8 @@
+## Schedule Cobourg Peninsula Sanctuary
+section 3
+ALL THAT piece or parcel of land known as Cobourg Peninsula containing an area of about 1916 square kilometres above low-water mark and lying to the west of a line on a true bearing of 231 degrees from a point on the sea coast at low-water mark distance about 10 miles on a true bearing of 245 degrees from Coombe Point, Mount Norris Bay, including:
+(a) the islands adjacent to the coast of that land and known as Sandy Island No. 2, Sandy Island No. 1, Allaru Island, Burford Island, Greenhill Island, Wangoindjung Island, Warldagawaji Island, Warla Island, Wunmiyi Island, Morse Island and Mogogout Island; and
+(c) the unnamed high black rock approximately 2.5 kilometres in a westerly direction from the most westerly point between Shamrock Bay and Silvio Bay,
+but excluding:
+(d) all that parcel of land containing an area of 259 hectares more or less bounded by an imaginary line commencing at a point on the sea coast at low-water mark 60.35 metres east of the Cape Don Lighthouse jetty; thence on a true bearing of 215 degrees 10 minutes for a distance of approximately 3,540.5 metres to meet the sea coast at low-water mark; thence generally northwesterly, northeasterly, southeasterly and southwesterly along the said low-water mark to the point of commencement; and
+(e) all that piece of land known as Northern Territory Portion 900 being the whole of the land comprised in Special Purposes Lease 153 situated on the eastern shore of Knocker Bay, Port Essington and being the land more particularly described in the Register of Crown Leases Volume 56 Folio 75.

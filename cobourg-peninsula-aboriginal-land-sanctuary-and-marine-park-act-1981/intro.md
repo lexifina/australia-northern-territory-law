@@ -1,0 +1,2 @@
+COBOURG PENINSULA ABORIGINAL LAND, SANCTUARY AND MARINE PARK ACT
+An Act to acknowledge and secure the right of Aboriginals to occupy and use certain land on the Cobourg Peninsula in the Northern Territory of Australia, to vest that land in trustees for Aboriginals, to declare that land to be a national park, making certain provisions relating to the management of adjacent marine areas and for related purposes
