@@ -1,0 +1,2 @@
+Rights of the Terminally ill ACT
+An Act to confirm the right of a terminally ill person to request assistance from a medically qualified person to voluntarily terminate his or her life in a humane manner; to allow for such assistance to be given in certain circumstances without legal impediment to the person rendering the assistance; to provide procedural protection against the possibility of abuse of the rights recognised by this Act; and for related purposes
