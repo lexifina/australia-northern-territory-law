@@ -1,0 +1,31 @@
+## Schedule 2
+Amendments to Marine Board and Navigation Act, 1881 of the State of South Australia in its application to the Territory as a law of the Territory
+section 4(1)
+Section | Amendment
+omit | Substitute
+244 | "province" "100 dollars" | "Territory" "$1,000"
+245 | "200 dollars" | "$2,000"
+246 | "200 dollars" | "$2,000"
+248 | "any Collector or principal officer of Customs, Special Magistrate, Justice," | "any Magistrate, Justice of the Peace,"
+250 | "200 dollars" | "2,000"
+251 | "province" | "Territory"
+252 | "province" "200 dollars" (twice occurring) | "Territory" "$2,000"
+253 | "10 dollars" | "$100"
+254 | "Custom House or Board Office" | "Police Station"
+255 | "10 dollars" | "$100"
+257 | "province" | "Territory"
+258 | "province" (twice occurring) | "Territory"
+259 | "province" (twice occurring) | "Territory"
+261 | "province" (twice occurring) | "Territory"
+262 | "Parliament" | "Legislative Assembly"
+263 | "600 dollars" (wherever occurring) "Special Magistrate" "or by the Court of Vice-Admiralty of the province," | "$6,000" "Magistrate"
+265 | "special magistrate or 2 justices" | "magistrate or 2 justices of the peace"
+266 | "10 dollars" | "$100"
+268 | "or to the Court of Vice-Admiralty of the province;" "100 dollars" | "$200"
+270 | "2,000 dollars" (twice occurring) | "$20,000"
+272 | "2,000 dollars" (twice occurring) | "$20,000"
+275 | "province" (twice occurring)" | "Territory"
+277 | "province" "100 dollars" (twice occurring) | "Territory" "$1,000"
+278 | "province" (twice occurring) | "Territory"
+279 | "any Supreme Court or of the Court of Vice-Admiralty of the province" "or in the Court of Vice-Admiralty of the province;" | "the Supreme Court"
+280 | "province" (first occurring) "600 dollars" "or the Court of Vice-Admiralty of the province" | "Territory" "$6,000"
