@@ -18,6 +18,6 @@ section 25(1)
 (j) provide for the establishment and administration of a scheme for the rationalisation of the fishery and for those purposes may provide for:
 (i) a limitation or reduction in an equitable manner of the number of fishing units licensed to operate in a fishery;
 (ii) the surrender and purchase of licences relating to that fishery on payment of agreed compensation;
-(iii) the establishment of a trust account under the Financial Administration and Audit Act;
+(iii) the establishment by the Accountable Officer of a fund within the Agency Operating Account within the meaning of the Financial Management Act;
 (iv) the imposition of levies or other payments for the purposes of funding any compensation to be paid; and
 (v) the repayment of surplus amounts, after payment of any outstanding amounts due, to persons who, on conclusion of a scheme, are holders of licences in respect of fishing units to which the scheme relates.

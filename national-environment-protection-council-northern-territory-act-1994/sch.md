@@ -119,9 +119,9 @@ In the application of the precautionary principle, public and private decisions 
 (ii) an assessment of the risk-weighted consequences of various options.
 3.5.2 intergenerational equity:
 the present generation should ensure that the health, diversity and productivity of the environment is maintained or enhanced for the benefit of future generations.
-3.5.3 conservation of biological diversity and ecological integrity -
+3.5.3 conservation of biological diversity and ecological integrity:
 conservation of biological diversity and ecological integrity should be a fundamental consideration.
-3.5.4 improved valuation, pricing and incentive mechanisms -
+3.5.4 improved valuation, pricing and incentive mechanisms:
 • environmental factors should be included in the valuation of assets and services
 • polluter pays i.e. those who generate pollution and waste should bear the cost of containment, avoidance, or abatement
 • the users of goods and services should pay prices based on the full life cycle costs of providing goods and services, including the use of natural resources and assets and the ultimate disposal of any wastes
