@@ -195,7 +195,7 @@ Rolicyclidine (PHP, PCPY) | 2.00 g | 100.00 g
 Secbutobarbitone | 20.00 g | 1.00 kg
 Sufentanil | 0.005 g | 0.25 g
 Tenocyclidine (TCP) | 2.00 g | 100.00 g
-Tetrahydrocannabinols (THC) and their alkyl homologues, except where separately specified in this Schedule | 2.00 g | 100.00 g
+Tetrahydrocannabinols and their alkyl homologues except: (a) when separately specified in this Schedule; (b) in hemp seed oil, containing 50 mg/kg or less of tetrahydrocannabinols, when labelled "Not for internal use" or "Not to be taken"; or (c) in products for purposes other than internal human use containing 50 mg/kg or less of tetrahydrocannabinols.
 2,3,4,5-Tetramethoxyamphetamine | 0.50 g | 25.00 g
 Thebacon | 2.00 g | 100.00 g
 Thebaine | 2.00 g | 100.00 g
