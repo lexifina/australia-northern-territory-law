@@ -1,0 +1,2 @@
+tobacco control ACT 2002
+An Act to restrict smoking in certain public places and workplaces, to regulate packaging, advertising (including through sponsorship), and display of tobacco and other smoking products, to regulate conduct of premises at which tobacco and other smoking products are sold by retail, to prohibit sale and supply of tobacco and other smoking products to children, and for related purposes
