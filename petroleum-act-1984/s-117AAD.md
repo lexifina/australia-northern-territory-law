@@ -1,0 +1,7 @@
+# 117AAD Defences to environmental offences
+(1) It is a defence to a prosecution for an offence against section 117AAC if it is proved that the act or failure to act was authorised under an Act.
+(2) It is a defence to a prosecution for an offence against section 117AAC if it is proved that the alleged offence did not result from a failure on the defendant's part to exercise reasonable diligence.
+(3) It is a defence to a prosecution for an offence against section 117AAC in relation to a particular contaminant or waste material if it is proved the defendant complied with:
+(a) a provision of an environment protection objective within the meaning of the Waste Management and Pollution Control Act; or
+(b) a condition of an approval, permit, lease, licence or other authorisation under an Act,
+that fixed maximum allowable levels for the particular contaminant or waste material.
