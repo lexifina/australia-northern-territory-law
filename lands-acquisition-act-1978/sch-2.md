@@ -1,7 +1,9 @@
 ## Schedule 2 Rules for the assessment of compensation
 section 66
 1 Value to the owner
-Subject to this Schedule, the compensation payable to a claimant in respect of the acquisition of land under this Act is the amount that fairly compensates the claimant for the loss he has suffered, or will suffer, by reason of the acquisition of the land.
+Subject to this Schedule, the compensation payable to a claimant for compensation in respect of the acquisition of land under this Act is the amount that fairly compensates the claimant for the loss he has suffered, or will suffer, by reason of the acquisition of the land.
+1A Rules to extend to native title rights and interests
+To the extent possible, these rules, with the necessary modifications, are to be read so as to extend to and in relation to native title rights and interests.
 2 Market value, special value, severance, disturbance
 Subject to this Schedule, in assessing the compensation payable to a claimant in respect of acquired land the Tribunal may take into account:
 (a) the consideration that would have been paid for the land if it had been sold on the open market on the date of acquisition by a willing but not anxious seller to a willing but not anxious buyer;
