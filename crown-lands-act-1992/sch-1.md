@@ -1,0 +1,65 @@
+## Schedule 1
+section 65
+Easements and Easements in Gross.
+Description
+Sewerage easement.
+Purpose
+Supplying or conveying to, through or across the land a sewerage service.
+Power
+To break the surface of, dig, open up and use the land for the purpose of laying down, fixing, taking up, repairing, relaying or examining pipes for the purposes of the easement and of using and maintaining those pipes, and to enter the land at any time (if necessary with vehicles and equipment) for the purposes of the easement or exercising these powers.
+Description
+Water supply easement.
+Purpose
+Supplying or conveying to, through or across the land a water service.
+Power
+To break the surface of, dig, open up and use the land for the purpose of laying down, fixing, taking up, repairing, relaying or examining pipes for the purposes of the easement and of using and maintaining those pipes, and to enter the land at any time (if necessary with vehicles and equipment) for the purposes of the easement or exercising these powers.
+Description
+Drainage easement.
+Purpose
+Draining water, sewerage or other effluents from, through or across the land.
+Power
+To break the surface of, dig, open up and use the land for the purpose of laying down, fixing, taking up, repairing, relaying or examining drains or drainage pipes for the purposes of the easement and of using and maintaining such drains and pipes, and to enter the land at any time (if necessary with vehicles and equipment) for the purposes of the easement or exercising these powers.
+Description
+Electricity supply easement.
+Purpose
+Supplying or conveying to, through or across the land an electricity service.
+Power
+For the purposes of the easement:
+(a) to enter on and pass, either with or without motor or other vehicles, along or over the land;
+(b) to construct and lay:
+(i) under the surface of the land, ducts, pipes, conductors, cables, wires and other works; and
+(ii) on the surface of the land, incidental or ancillary works for the transmission of electricity (including, without limiting the generality of the foregoing, manholes and cable markers);
+(c) without limiting the generality hereof, to erect on a portion of the land so designated in the plan on the certificate of title or Crown lease, poles, equipment for transforming electricity and incidental or ancillary works (including such walls or other structures as the proprietor of the easement considers necessary);
+(d) to break the surface of, dig, open up and use the land for the purposes of the easement or exercising these powers;
+(e) to inspect, repair, alter, remove and replace works referred to in these powers; and
+(f) to transmit electricity by means of any such works.
+Description
+Electronic communications easement.
+Purpose
+Supply or convey to, through or across the land a communications service by electronic means.
+Power
+For the purposes of the easement:
+(a) to enter on and pass, either with or without motor or other vehicles, along or over the land;
+(b) to construct and lay:
+(i) under the surface of the land, ducts, pipes, conductors, cables, wires and other works; and
+(ii) on the surface of the land, incidental or ancillary works for the transmission of telecommunication services (including, without limiting the generality of the foregoing, manholes and cable markers);
+(c) to break the surface of, dig, open up and use the land for the purposes of the easement or exercising these powers; and
+(d) to inspect, repair, alter, remove and replace any works referred to in these powers.
+Description
+Energy supply easement.
+Purpose
+Supplying or conveying to, through or across the land gas, liquid fuels or water or other liquids in such a form as to be capable of conveying energy.
+Power
+To break the surface of, dig, open up and use the land for the purpose of laying down, fixing, taking up, repairing, relaying or examining pipes for the purposes of the easement and of using and maintaining those pipes, and to enter the land at any time (if necessary with vehicles and equipment) for the purposes of the easement or exercising these powers.
+Description
+General service easement.
+Purpose
+All of the purposes of:
+(a) a sewerage easement;
+(b) a water supply easement;
+(c) a drainage easement;
+(d) an electricity supply easement;
+(e) an electronic communications easement; and
+(f) an energy supply easement.
+Power
+All of the powers in this Schedule relating to the purposes of the easement.
