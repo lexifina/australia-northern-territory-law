@@ -1,5 +1,5 @@
 # 117AAH Liability for managers, employees and agents
-(1) For the purposes of a prosecution for an offence against this Part, conduct engaged in on behalf of a person other than a body corporate (in this section called the employer) by a manager, employee or agent of the person within the scope of his or her actual or apparent authority is taken to have been engaged in also by the employer.
+(1) For the purposes of a prosecution for an offence against this Part, conduct engaged in on behalf of a person other than a body corporate (in this section called the 'employer') by a manager, employee or agent of the person within the scope of his or her actual or apparent authority is taken to have been engaged in also by the employer.
 (2) An employer may be proceeded against and found guilty under a provision in pursuance of subsection (1), whether or not the manager, employee or agent has been proceeded against or found guilty of an offence against that provision.
 (3) It is a defence to a prosecution for an offence committed by virtue of subsection (1) if the defendant establishes that:
 (a) the person who committed the offence that the defendant is taken to have committed under subsection (1) had, under this Act, a defence to the offence that the defendant is, apart from this subsection, to be taken to have committed;
