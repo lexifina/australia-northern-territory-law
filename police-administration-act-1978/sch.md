@@ -1,0 +1,17 @@
+## Schedule
+sections 26 and 32
+FORM 1
+FORM OF OATH TO BE TAKEN BY MEMBERS
+I, A.B., do swear that I will well and truly serve our Sovereign Lady the Queen as a member of the Northern Territory Police Force without fear or favour, affection or ill-will from this day and until I am legally discharged from that Force; that I will see and cause Her Majesty's peace to be kept and preserved, that I will prevent, to the best of my powers, all offences against Her Majesty's peace and against all laws in force in the Northern Territory of Australia and that, while I remain a member of the Northern Territory Police Force, I will, to the best of my skill and knowledge, faithfully discharge all my duties according to law – So help me God!
+Taken and subscribed at
+this day of
+19 .
+Before me,
+FORM 2
+sections 26 and 32
+FORM OF AFFIRMATION TO BE MADE BY MEMBERS
+I, A.B., do solemnly and sincerely affirm and declare that I will well and truly serve our Sovereign Lady the Queen as a member of the Northern Territory Police Force without fear or favour, affection or ill-will from this day and until I am legally discharged from that Force; that I will see and cause Her Majesty's peace to be kept and preserved, that I will prevent, to the best of my powers, all offences against Her Majesty's peace and against all laws in force in the Northern Territory of Australia and that, while I remain a member of the Northern Territory Police Force, I will, to the best of my skill and knowledge, faithfully discharge all my duties according to law.
+Made and subscribed at
+this day of
+19 .
+Before me,
