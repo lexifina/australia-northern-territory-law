@@ -1,6 +1,5 @@
-## Schedule
+## Schedule Acts and provisions repealed
 section 50
-ACTS AND PROVISIONS REPEALED
 Act or Provision | Number and year
 Aboriginal Sacred Sites Ordinance 1978 | No. 115, 1978
 Aboriginal Sacred Sites Act (No. 2) 1978 | No. 116, 1978
