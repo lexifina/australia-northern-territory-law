@@ -4,7 +4,7 @@ section 66
 Subject to this Schedule, the compensation payable to a claimant in respect of the acquisition of land under this Act is the amount that fairly compensates the claimant for the loss he has suffered, or will suffer, by reason of the acquisition of the land.
 2 Market value, special value, severance, disturbance
 Subject to this Schedule, in assessing the compensation payable to a claimant in respect of acquired land the Tribunal may take into account:
-(a) the consideration that would have been paid for the land if it had been sold on the open market on the date of acquisition by a willing seller to a willing buyer;
+(a) the consideration that would have been paid for the land if it had been sold on the open market on the date of acquisition by a willing but not anxious seller to a willing but not anxious buyer;
 (b) the value of any additional advantage to the claimant incidental to his ownership, or occupation of, the acquired land;
 (c) the amount of any reduction in the value of other land of the claimant caused by its severance from the acquired land by the acquisition; and
 (d) any loss sustained, or cost incurred, by the claimant as a natural and reasonable consequence of:
@@ -26,7 +26,7 @@ If, at the date of acquisition, the interest of the claimant in the land was:
 (a) due to expire; or
 (b) liable to be determined,
 the Tribunal shall take into account any reasonable prospect of renewal or continuation of the interest, and the likely terms and conditions of that renewal.
-7 Resettlement
+7 Cost of acquiring other land
 (1) If:
 (a) the acquired land:
 (i) was, immediately before the date of acquisition, used for a purpose for which there is no general demand or market for land; and
@@ -64,7 +64,7 @@ the amount of compensation otherwise payable under this Schedule may be increase
 The amount of compensation payable to a mortgagee in respect of a debt secured by a mortgage over acquired land shall not exceed the amount of compensation that would be payable for the acquisition of all interests in the land if there had been no mortgage secured over that land.
 11 Loans
 (1) If the amount of compensation assessed in accordance with this Schedule is insufficient to enable a claimant who occupied the acquired land as his principal place of residence continuously between the date of service of the notice of intention and the date of acquisition and:
-(a) who held an interest in fee simple in the acquired land;
+(a) who held an interest in fee simple or a native title right or interest in the acquired land;
 (b) in whom an equity of redemption in respect of that land was vested; or
 (c) who held a lease of that land granted under an Act:
 (i) in perpetuity;
