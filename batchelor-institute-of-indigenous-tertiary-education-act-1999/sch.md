@@ -1,16 +1,16 @@
 ## Schedule Savings and transitional provisions
 section 59
-1. REFERENCES TO BATCHELOR COLLEGE
+1. References to Batchelor College
 Subject to the appearance of a contrary intention, a reference to the Batchelor College in an Act, an instrument of a legal or administrative character or any other document is, on the commencement of this Act, to be taken to be and to have effect as if it were a reference to the Institute.
-2. COUNCIL, CHAIRPERSON AND DEPUTY CHAIRPERSON
+2. Council, Chairperson and Deputy Chairperson
 (1) On the commencement of this Act, the council of Batchelor College is the Council of the Institute and continues, subject to this Act, as the Council until the first meeting of the first Council.
 (2) On the commencement of this Act:
-(a) the members of the council of Batchelor College in office immediately before that commencement are the members of the Council and continue, subject to this Act, to hold office as members of the Council;. and
+(a) the members of the council of Batchelor College in office immediately before that commencement are the members of the Council and continue, subject to this Act, to hold office as members of the Council; and
 (b) the chairman of the council of Batchelor College immediately before that commencement is the Chairperson of the Council and continues, subject to this Act, to hold office as the Chairperson of the Council,
 until the first meeting of the first Council.
 (3) On the commencement of this Act, the vice-chairman of the council of Batchelor College immediately before that commencement is the Deputy Chairperson of the Council and continues subject to this Act to hold office as the Deputy Chairperson until the election of the Deputy Chairperson at the first meeting of the first Council.
 (4) The first meeting of the first Council is to be held not later than 31 December 1999.
-3. ASSETS AND LIABILITIES, INCLUDING CONTRACTS GENERALLY
+3. Assets and liabilities, including contracts generally
 (1) On the commencement of this Act:
 (a) all real and personal property and all rights and interests in and management and control of that property that, immediately before that commencement, was vested in or belonged to Batchelor College, by virtue of this Act and without further assurance, vest in and belong to the Institute;
 (b) all licences held by Batchelor College immediately before that commencement become, subject to any other Act (including any Act of the Commonwealth), licences held by the Institute;
@@ -26,7 +26,7 @@ until the first meeting of the first Council.
 (2) No attornment to the Institute is required by a lessee of Batchelor College.
 (3) On the lodgement of this Act with the Registrar-General or any other officer controlling a register or other record of rights and interests in property, the Registrar-General or officer must, in respect of the property which was vested in Batchelor College or in which Batchelor College held an interest immediately before the commencement of this Act, make the entries in the relevant registers or records that are necessary to give effect to this clause.
 (4) No duty, fee or other charge is payable by the Institute in relation to the transfer or vesting of property in the Institute by virtue of this Act.
-4. STAFF
+4. Staff
 (1) On the commencement of this Act, a person who immediately before the commencement of this Act was an employee within the meaning of the Public Sector Employment and Management Act (other than a casual employee) at Batchelor College and who:
 (a) presents himself or herself for work at the Institute on the first working day after that commencement;
 (b) is on leave on the first working day after that commencement but presents himself or herself for work at the Institute on the first day after the expiry of that leave; or
@@ -48,18 +48,18 @@ continue unaffected and may be dealt with under the Public Sector Employment and
 (b) is in force immediately before the commencement of this Act,
 continues to have effect as if this Act had not commenced, and this Act and the By-laws apply to and in relation to the suspension, instruction, direction or other action with the necessary changes.
 (6) A person who under subclause (1) is a member of the staff of the Institute is not entitled to claim benefits under both this Act and the Public Sector Employment and Management Act in respect of the same period of service.
-5. STUDENTS
+5. Students
 (1) Subject to the By-laws and rules, each person who is, immediately before the commencement of this Act, enrolled in a program or course as a student of Batchelor College is on that commencement a student of the Institute who is enrolled in the program or course offered by the Institute that is substantially the same in content as the course offered by Batchelor College.
 (2) The Institute must, on the commencement of this Act, provide the educational programs or courses that are necessary to replace those offered by Batchelor College referred to in subclause (1).
 (3) Subject to the By-laws and rules, if a student is enrolled by virtue of subclause (1) in a program or course offered by the Institute, the Institute must give the student credit for any subjects or work completed by the student when enrolled in the program or course offered by Batchelor College.
 (4) If a person completes a program or course offered by Batchelor College before the commencement of this Act but on that commencement an award in respect of the program or course has not been conferred on him or her, the Institute may, after holding any examination or making any assessment that the Council considers necessary, confer the award on him or her.
 (5) An award conferred under subclause (4) is to be under the seal of the Institute and signed by the person or persons the Council appoints for that purpose.
-6. HOLDINGS OR INTERESTS IN CORPORATIONS
+6. Holdings or interests in corporations
 If, before the commencement of this Act, Batchelor College established or participated in the establishment of a body corporate (however described and whether in Australia or elsewhere) any of the shares or other beneficial interests in which are held by or on behalf of Batchelor College, those shares or other beneficial interests are, on that commencement, held by or on behalf of the Institute.
-7. BY-LAWS, RULES ETC.
+7. By-laws, rules etc.
 On the commencement of this Act, the by-laws, rules and resolutions made by the council of Batchelor College that:
 (a) are in force immediately before the commencement of this Act; and
 (b) are by-laws, rules or resolutions that the Council could make after that commencement,
 are to be taken to be made and have effect for all purposes as having been made by the Council under this Act and the Council may vary, amend, repeal or otherwise deal with those by-laws, rules or resolutions as if they were By-laws, rules or resolutions made by the Council under this Act.
-8. GENERAL
+8. General
 Subject to this Act, any act, matter or thing done or omitted to be done before the commencement of this Act by, to or in respect of Batchelor College is, to the extent that it would but for this Act have had force or effect or been in operation after that commencement, to be taken to have been done or omitted to be done by, to or in respect of the Institute.
