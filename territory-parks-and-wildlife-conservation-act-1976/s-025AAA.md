@@ -1,2 +1,0 @@
-# 25AAA Director may carry out certain work
-The Director may construct such fences, fire-breaks or other works on a protected area as he considers necessary to ensure the integrity of the protected area and for that purpose may, after giving the person in lawful occupation of the land reasonable notice of his intention so to do, enter private land with such assistance, plant, machinery and equipment as he thinks fit.
