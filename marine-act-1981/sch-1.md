@@ -17,7 +17,7 @@ _____________________________________________________________
 Marine Ordinance 1911 (No. 5 of 1911) Sections 4 and 6
 Marine Ordinance 1939 (No. 1 of 1939) The whole Ordinance
 Marine Ordinance 1948 (No. 10 of 1948) The whole Ordinance
-Marine Ordinance 1952 (No. 11 of 1952) The whole Ordinance
+Marine Ordinance 1952 (No. 11 of 1952 ) The whole Ordinance
 Marine Ordinance 1956 (No. 12 of 1956) The whole Ordinance
 Marine Board and Navigation The whole Ordinance
 Ordinance 1964 (No. 70 of 1964)
