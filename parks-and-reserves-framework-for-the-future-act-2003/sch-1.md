@@ -1,12 +1,11 @@
 ## Schedule 1
 sections 8, 10, 12, 13 and 14
-Parks and reserves to be included in Schedule 1 of ALRA
+Parks and reserves to be included in Schedule 1 to ALRA
 Arltunga Historical Reserve
 Chamber's Pillar Historical Reserve
 Corroboree Rock Conservation Reserve
 Davenport Range National Park (proposed)
 Devils Marbles Conservation Reserve
-Elsey National Park
 Emily and Jessie Gaps Nature Park (including the Heavitree Range extension)
 Ewaninga Rock Carvings Conservation Reserve
 Finke Gorge National Park
