@@ -1,2 +1,2 @@
-traffic act
+TRAFFIC ACT
 An Act to regulate traffic
