@@ -15,3 +15,9 @@ Made and subscribed at
 this day of
 19 .
 Before me,
+FORM 3
+section 37A
+FORM OF OATH TO BE TAKEN BY MEMBER OF, OR DEPUTY OF MEMBER OF, POLICE ARBITRAL TRIBUNAL
+I,……………, do swear that I will bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her while acting as a member of the Police Arbitral Tribunal and that I will faithfully and impartially perform the duties of a member of the Police Arbitral Tribunal. So help me God!
+FORM OF AFFIRMATION TO BE TAKEN BY MEMBER OF, OR DEPUTY OF MEMBER OF, POLICE ARBITRAL TRIBUNAL
+I,……………, do solemnly and sincerely promise and declare that I will bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her while acting as a member of the Police Arbitral Tribunal and that I will faithfully and impartially perform the duties of a member of the Police Arbitral Tribunal.
