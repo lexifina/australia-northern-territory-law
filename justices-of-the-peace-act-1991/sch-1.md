@@ -6,4 +6,4 @@ Registrar of the Supreme Court
 Magistrate
 Registrar of the Local Court
 Judicial Registrar or Registrar of the Family Court of Australia
-Mayor of a city or town
+Mayor of a municipality
