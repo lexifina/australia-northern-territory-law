@@ -20,7 +20,8 @@ the secretary of the Parole Board within the meaning of the Parole of Prisoners 
 a parole officer within the meaning of the Parole of Prisoners Act
 a member of the Police Force of the Northern Territory
 an officer within the meaning of the Prisons (Correctional Services) Act
-an employee as defined in the Public Sector Employment and Management Act who is employed in the Northern Territory Attorney-General's Department, Department of Correctional Services, the Office of Courts Administration or the Legal Aid Commission, or who is under the direct control of the Commissioner of Police
+an employee as defined in the Public Sector Employment and Management Act who is employed in the Northern Territory Attorney-General's Department, Department of Correctional Services or the Office of Courts Administration, or who is under the direct control of the Commissioner of Police
+a person employed by the Legal Aid commission within the meaning of the Legal Aid Act
 an employee as defined in the Public Sector Employment and Management Act who is employed in the Office of the Director of Public Prosecutions
 a person who is blind, deaf or dumb or otherwise incapacitated by disease or infirmity from discharging the duties of a juror
 a person over the age of 65 years.
