@@ -26,9 +26,9 @@ Supplying or conveying to, through or across the land an electricity service.
 Power
 For the purposes of the easement:
 (a) to enter on and pass, either with or without motor or other vehicles, along or over the land;
-(b) to construct and lay:
-(i) under the surface of the land, ducts, pipes, conductors, cables, wires and other works; and
-(ii) on the surface of the land, incidental or ancillary works for the transmission of electricity (including, without limiting the generality of the foregoing, manholes and cable markers);
+(b) to construct and lay under, on or above the surface of the land:
+(i) ducts, pipes, poles, conductors, cables, wires and other works; and
+(ii) incidental or ancillary works for the transmission of electricity (including, but not limited to, manholes and cable markers);
 (c) without limiting the generality hereof, to erect on a portion of the land so designated in the plan on the certificate of title or Crown lease, poles, equipment for transforming electricity and incidental or ancillary works (including such walls or other structures as the proprietor of the easement considers necessary);
 (d) to break the surface of, dig, open up and use the land for the purposes of the easement or exercising these powers;
 (e) to inspect, repair, alter, remove and replace works referred to in these powers; and
