@@ -1,2 +1,2 @@
-unit titles ACT
-An Act relating to the subdivision of land into units and common property, and for other purposes
+unit titles act
+An Act to the subdivision of land into units and common property, and for other purposes
