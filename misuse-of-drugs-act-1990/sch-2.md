@@ -11,6 +11,7 @@ Acetylmorphines | 2.00 g | 100.00 g
 Alfentanil | 0.005 g | 0.25 g
 Alkoxyamphetamines and bromo-substituted alkoxyamphetamines, except where separately specified in this Schedule | 0.50 g | 25.00 g
 Alkoxyphenethylamines and alkyl-substituted alkoxyphene-thylamines, except where separately specified in this Schedule | 0.50 g | 25.00 g
+Alkythioamphetamines | 0.50 g | 25.00 g
 Allylprodine | 2.00 g | 100.00 g
 Alphacetylmethadol | 10.00 g | 500.00 g
 Alphameprodine | 0.20 g | 10.00 g
@@ -23,6 +24,7 @@ Anileridine | 25.00 g | 1.25 kg
 Benzethidine | 10.00 g | 500.00 g
 Benzylmorphine | 5.00 g | 250.00 g
 Benzylmorphine (3-benzylmorphine) | 5.00 g | 250.00 g
+1-Benzylpiperazine | 2.00 g | 100.00 g
 Betacetylmethadol | 5.00 g | 250.00 g
 Betameprodine | 5.00 g | 250.00 g
 Betamethadol | 5.00 g | 250.00 g
@@ -86,6 +88,7 @@ Diphenoxylate, except in preparations containing, per dosage unit, 2.5 mg or les
 Dipipanone | 10.00 g | 500.00 g
 Drotebanol | 2.00 g | 100.00 g
 Ecgonine | 10.00 g | 1.00 kg
+Ethylamphetamine | 2.00 g | 100.00 g
 4,5-Ethylenedioxy-3-methoxyamphetamine | 0.50 g | 25.00 g
 Ethylmethylthiambutene | 10.00 g | 500.00 g
 Ethylmorphine, except when compounded with one or more other medicaments: (a) in divided preparations containing not more than 100 mg of ethylmorphine per dosage unit; or (b) in undivided preparations with a concentration of not more than 2.5% of ethylmorphine | 2.00 g | 100.00 g
@@ -194,6 +197,7 @@ Racemethorphan | 2.00 g | 100.00 g
 Racemoramide | 2.00 g | 100.00 g
 Racemorphan | 2.00 g | 100.00 g
 Rolicyclidine (PHP, PCPY) | 2.00 g | 100.00 g
+Salvia Divinorum, including extracts and other substances structurally derived from Salvia Divinorum and having hallucinogenic properties | 7.50 g | 375.00 g
 Secbutobarbitone | 20.00 g | 1.00 kg
 Sufentanil | 0.005 g | 0.25 g
 Tenocyclidine (TCP) | 2.00 g | 100.00 g
@@ -203,6 +207,7 @@ Thebacon | 2.00 g | 100.00 g
 Thebaine | 2.00 g | 100.00 g
 Thiofentanyl | 0.005 g | 0.25 g
 Tilidine | 20.00 g | 1.00 kg
+1-(3-Trifluoromethylphenyl) piperazine and other piperazine derivatives | 2.00 g | 100.00 g
 Trimeperidine | 10.00 g | 500.00 g
 2,3,4-Trimethoxyamphetamine | 0.50 g | 25.00 g
 2,3,5-Trimethoxyamphetamine | 0.50 g | 25.00 g
