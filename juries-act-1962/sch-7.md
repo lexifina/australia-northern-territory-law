@@ -7,7 +7,7 @@ the secretary of the Executive Council
 a person who holds, or has, within the previous 10 years, held, a judicial office
 the spouse of a Judge
 a member of the Legislative Assembly
-the Ombudsman, and any employee referred to in section 11(1) of the Ombudsman (Northern Territory) Act
+the Ombudsman, and an employee within the meaning of the Public Sector Employment and Management Act who is employed in the Office of the Ombudsman
 a person regularly employed on duties on board aircraft used in aerial ambulance services
 a practising legal practitioner
 the articled clerk of a practising legal practitioner
