@@ -1,4 +1,3 @@
-## Part XIV Transitional
 ## Schedule
 section 5(2)(c)
 FUNCTIONS OF CONVEYANCING AGENT
