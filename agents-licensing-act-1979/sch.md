@@ -1,5 +1,5 @@
 ## Schedule
-Part 1
+PART 1
 section 5(2)(c)
 Functions of conveyancing agent
 1. A licensed conveyancing agent may perform the following functions in respect of the sale and transfer of real property:

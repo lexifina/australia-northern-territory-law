@@ -1,2 +1,2 @@
-PARTNERSHIP act 1997
+PARTNERSHIP act
 An Act to consolidate the law relating to partnership
