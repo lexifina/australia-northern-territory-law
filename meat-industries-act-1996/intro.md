@@ -1,2 +1,2 @@
 meat industries act
-An Act to provide for the control of the slaughter of animals and processing of meat for human consumption and for use as pet meat, to otherwise regulate the meat industries and for related purposes
+An act to protect public health and promote domestic and export markets for the meat industry by providing for the processing of wholesome meat for human consumption and for related purposes
