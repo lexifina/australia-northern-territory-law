@@ -1,2 +1,2 @@
-administrators pensions act
+ADMINISTRATORS PENSIONS ACT
 An Act to provide for the payment of pensions to former Administrators and to their spouses
