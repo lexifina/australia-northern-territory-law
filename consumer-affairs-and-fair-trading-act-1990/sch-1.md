@@ -8,8 +8,7 @@ Part I Members of the Council
 (c) if the member resigns as such by writing signed by the member and delivered to the Minister;
 (d) if the member, except with the leave of the Minister, is absent from 3 consecutive meetings of the Council of which reasonable notice has been given to the member either personally or by post;
 (e) if the member is found guilty in the Territory of an offence punishable by imprisonment for 12 months or more, or is found guilty elsewhere of an offence which, if committed in the Territory, would be an offence so punishable;
-(f) if the member becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, or compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
-(g) if the member becomes a voluntary patient within the meaning of, or is ordered to be kept in custody under section 13 of, the Mental Health Act, or is similarly confined, controlled or restricted under a law of a State or another Territory of the Commonwealth which provides for the care and control of persons who are mentally ill; or
+(f) if the member becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, or compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 (h) if the member is removed from office by the Minister under subsection (2).
 (2) The Minister may remove a member of the Council from office:
 (a) for misbehaviour or incapacity;
@@ -17,7 +16,7 @@ Part I Members of the Council
 (c) if the member appears to the Minister to have contravened or failed to comply with paragraph 7(1).
 2. Filling of casual vacancies
 Where a vacancy occurs in the office of a member of the Council otherwise than by the expiry of the term for which the member was appointed, the Minister shall by notice in the Gazette appoint a person to fill the vacancy, and the person so appointed shall hold office as a member for the unexpired period of office of the member in whose stead he or she is appointed.
-Part II Meetings and Proceedings of the Council and its Committees
+Part II Meetings and proceedings of the council and its committees
 3. Convening and frequency of Council meetings
 (1) The Chairman of the Council shall convene such meetings of the Council as are necessary for the exercise of its powers and the performance of its functions, and so that the interval between one meeting and the next does not exceed 6 months.
 (2) The Chairman shall convene a meeting of the Council whenever requested by the Minister to do so.

@@ -1,10 +1,10 @@
 ## Schedule 4
-section 57
+Section 57
 PART I
 Order of Application of Assets where the Estate is Solvent
 1. Assents undisposed of by will, subject to the retention out of those assets of a fund sufficient to meet any pecuniary legacies.
 2. Assets not specifically disposed of by will but included (either by a specific or general description) in a residuary gift, subject to the retention out of those assets of a fund sufficient to meet any pecuniary legacies which are not provided for out of the assets undisposed of by will.
-3. Assets specifically appropriated or disposed of by will (either by a specific or general description) for the payment of debts.
+3. Assets specifically unappropriated or disposed of by will (either by a specific or general description) for the payment of debts.
 4. Assets charged with, or disposed of by will (either by a specific or general description) subject to a charge for, the payment of debts.
 5. The fund, if any, retained to meet pecuniary legacies.
 6. Assets specifically disposed of by will, rateably according to value.
