@@ -1,5 +1,5 @@
 ## Schedule
-PART 1
+Part 1
 section 5(2)(c)
 Functions of conveyancing agent
 1. A licensed conveyancing agent may perform the following functions in respect of the sale and transfer of real property:
@@ -18,7 +18,7 @@ Functions of conveyancing agent
 (b) statutory declarations to support documents mentioned in paragraph (a);
 (c) declarations of non-revocation of powers of attorney; and
 (d) such other documents with the approval of the Board.
-PART 2
+Part 2
 Requirements relating to conveyancing agents
 1. Remuneration
 (1) A conveyancing agent is not entitled to receive any reward in respect of services in that capacity unless a valid appointment to act in that capacity has been signed, before the services are rendered, by the party to the transaction for whom the services are to be rendered or by some other person lawfully authorised to sign on behalf of the person for whom the services are to be rendered (not being a real estate agent or other commission agent or an employee or agent thereof, acting for a party in the transaction).
