@@ -1,0 +1,4 @@
+## Schedule 2
+section 41J
+I, , do swear that I will bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her in the office of Master of the Supreme Court of the Northern Territory of Australia and that I will do right to all manner of people according to law without fear or favour, affection or ill will. So help me God!
+I, , do solemnly and sincerely promise, affirm and declare that I will bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her in the office of Master of the Supreme Court of the Northern Territory of Australia and that I will do right to all manner of people according to law without fear or favour, affection or ill will.
