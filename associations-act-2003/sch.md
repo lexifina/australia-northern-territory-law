@@ -1,6 +1,5 @@
-## Schedule
+## Schedule Repealed Acts
 section 121
-REPEALED ACTS
 Associations Incorporation Ordinance 1963 | No. 49, 1963
 Associations Incorporation Ordinance 1969 | No. 22, 1969
 Associations Incorporation Act 1978 | No. 22, 1979
