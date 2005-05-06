@@ -1,5 +1,6 @@
-## Schedule 6 Distribution of intestate estate upon intestacy
+## Schedule 6
 section 66
+DISTRIBUTION OF INTESTATE ESTATE UPON INTESTACY
 PART I – MANNER OF DISTRIBUTION WHERE INTESTATE IS SURVIVED BY A SPOUSE AND NOT BY ANY DE FACTO PARTNER
 Item | Circumstances | Manner in which the intestate estate of the intestate is to be distributed
 1. | Where the intestate is not survived by: (a) issue; or (b) a parent, a brother or sister or the issue of a brother or sister. | The spouse is entitled to the whole of the intestate estate.
