@@ -5,7 +5,8 @@
 the National Director may, by notice in writing given to the publisher of the film, require the publisher to submit an application for classification of the film.
 (2) The National Director must cause notice of a decision under subsection (1) to be published in the Commonwealth of Australia Gazette.
 (3) A person to whom a notice under this section is given must, within 3 business days after receiving the notice, comply with the notice.
-Penalty: 100 penalty units.
+Penalty: If the offender is a natural person – 100 penalty units.
+If the offender is a body corporate – 500 penalty units.
 (4) It is a defence to a prosecution for an offence against subsection (3) to prove that the defendant did not intend:
 (a) to publish the film in the Territory; or
 (b) to cause, authorise, permit or license the film to be published in the Territory.
