@@ -1,6 +1,5 @@
-## Schedule 1
+## Schedule 1 Parks and reserves to be included in Schedule 1 to ALRA
 sections 8, 10, 12, 13 and 14
-Parks and reserves to be included in Schedule 1 to ALRA
 Arltunga Historical Reserve
 Chamber's Pillar Historical Reserve
 Corroboree Rock Conservation Reserve
