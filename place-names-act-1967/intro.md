@@ -1,2 +1,2 @@
 PLACE NAMES act
-An Act relating to the Naming of Public Places
+An Act relating to the naming of places
