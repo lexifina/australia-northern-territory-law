@@ -19,6 +19,12 @@ A member may resign office by writing signed by him or her and given to the Mini
 (a) is absent, except by leave of the Committee or Board, from 3 consecutive meetings of the Committee or Board; or
 (b) becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit,
 the Minister shall terminate the appointment of the member.
+(3) The Minister may terminate the appointment of a member of the Practitioners Board who was nominated under section 12B(1) if the member ceases to reside in the Territory.
+(4) The Minister must terminate the appointment of a member of the Practitioners Board if:
+(a) the member ceases to be registered in the category of building practitioner the interests of which the member was appointed to represent; or
+(b) the member is found guilty of professional misconduct under section 34P(1)(a).
+5A. Member of Practitioners Board must stand aside if subject of inquiry
+A member of the Practitioners Board who is the subject of an inquiry under Part 3, Division 3A must stand aside until the inquiry is completed and the member has been notified under section 34P(2) of the decision on the inquiry.
 6. Disclosure of interest
 (1) A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Committee or Board (otherwise than as a member of, and in common with other members of, an incorporated company consisting of not less than 25 persons and of which he or she is not a director), shall, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of his or her interest at a meeting of the Committee or Board.
 (2) A disclosure under subsection (1) shall be recorded in the minutes of the Committee or Board and, unless the Committee or Board otherwise determines, the member:
@@ -42,8 +48,8 @@ in relation to the matter.
 (c) a prescribed method of communication.
 (5) A member who participates in a meeting as provided by subclause (4) shall be taken, for the purposes of this Schedule, to be present at the meeting if the member is able to hear and be heard by each member taking part in the meeting, including for the purposes of being counted towards a quorum at the meeting.
 (6) The Committee or Board shall cause records of its meetings to be kept.
-8 Confidentiality
+8. Confidentiality
 Subject to this Act, the Chairman, a member or the Registrar of the Committee or Board shall not disclose information obtained in the course of his or her duties as Chairman, member or Registrar, unless the disclosure is made in the course of those duties.
 Penalty: $2,000.
-9 Protection of members, &c.
+9. Protection of members, &c.
 No action or proceeding, civil or criminal, shall lie against the Chairman, a member or the Registrar of the Committee or Board for or in respect of an act or thing done or omitted to be done in good faith by the person in his or her capacity as Chairman, member or Registrar.
