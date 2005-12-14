@@ -13,7 +13,7 @@ a practising legal practitioner
 the articled clerk of a practising legal practitioner
 a clergyman in holy orders, a priest of the Roman Catholic faith and a minister of religion having an established congregation
 a monk, nun or other vowed member of a religious community
-a practising dentist or dental specialist registered under the Dental Act
+a dentist or dental specialist who has a right of practice under the Health Practitioners Act
 a practising medical practitioner
 a member of the Parole Board within the meaning of the Parole of Prisoners Act
 the secretary of the Parole Board within the meaning of the Parole of Prisoners Act

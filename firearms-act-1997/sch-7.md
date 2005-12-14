@@ -1,6 +1,6 @@
 ## Schedule 7
 section 54B
-PROCEDURE OF TRIBUNAL
+Procedure of Tribunal
 1 Formality and technicality to be avoided
 A proceeding must be conducted with as little formality and technicality, and with as much expedition, as a proper consideration of the matter before the Tribunal permits.
 2 Tribunal not bound by rules of evidence
