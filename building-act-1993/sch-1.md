@@ -45,3 +45,10 @@ section 168(2)
 43. Service of documents under this Act.
 44. The issue of building certificates relating to notices and orders under this Act and the Regulations and ancillary matters.
 45. Fees to be paid for the performance of a function under the Act by the Director including amounts for the recovery of costs incurred in performing the function.
+46. The criteria for establishing the suitability of buildings for occupation.
+47. The type of building work that building practitioners may carry out.
+48. The building work that may only be carried out by building practitioners.
+49. The threshold value for building work that may only be carried out by building practitioners.
+50. The threshold value for building work carried out by owner-builders.
+51. The method for determining the value of building work for the purposes of this Act.
+52. The procedure for issuing substantial compliance certificates, including making applications, conducting inspections and directing work to be carried out.
