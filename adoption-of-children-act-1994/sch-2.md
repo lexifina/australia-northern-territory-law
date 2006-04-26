@@ -1,5 +1,5 @@
 ## Schedule 2
-section 88
+Section 88
 Repealed Acts
 Adoption of Children Ordinance 1964 No. 67, 1964
 Adoption of Children Ordinance 1967 No. 6, 1967
