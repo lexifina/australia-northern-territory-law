@@ -1,4 +1,5 @@
-## Schedule Information Privacy Principles
+## Schedule 2 Information Privacy Principles
+section 65(1)
 IPP 1 Collection
 1.1 A public sector organisation must not collect personal information unless the information is necessary for one or more of its functions or activities.
 1.2 A public sector organisation must collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
