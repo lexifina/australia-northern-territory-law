@@ -25,8 +25,8 @@ A reporting authority shall be taken to have responded to a request for a report
 9. Determination of applications for building permits
 (1) A building certifier shall, within the prescribed time after an application for a building or occupancy permit is made to him or her, grant the permit subject to such reasonable conditions, if any, as he or she thinks fit, or refuse to grant the permit.
 (2) A building certifier shall be taken to have refused an application if he or she has not granted the permit within the prescribed time.
-10. Reasons for refusal to be given
-A building certifier shall notify an applicant for a building or occupancy permit, in writing, of the refusal to grant a permit and the reasons for the refusal.
+10. Reasons to be given
+A building certifier shall notify an applicant for a building or occupancy permit, in writing, of the refusal to grant a permit and the reasons for the refusal or, if the building or occupancy permit is granted subject to conditions, the reasons for the conditions.
 Penalty: $1,000.
 11. Approvals where reporting body involved
 Where a building certifier grants a building or occupancy permit that must be reported on or consented to by a reporting authority, the building certifier shall, within 7 days after so doing, send to the reporting authority:
@@ -34,4 +34,6 @@ Where a building certifier grants a building or occupancy permit that must be re
 (b) where the grant of the permit differs from or fails to require the implementation of a recommendation of the reporting authority, a copy of the decision of the building certifier in relation to the report of the reporting authority.
 Penalty: $5,000.
 12. Appeals
-The owner of a building or land on which building work is proposed to be carried out, or the owner's agent, may, in accordance with Part 11, appeal to the Appeals Board against a refusal of a building certifier to grant, or against a condition imposed on, a building permit for the work.
+(1) The owner of a building or land on which building work is proposed to be carried out, or the owner's agent, may, in accordance with Part 11, appeal to the Appeals Board against a refusal of a building certifier to grant, or against a condition imposed on, a building permit for the work.
+(2) The owner of a building or land on which building work is carried out, or the owner's agent, may, in accordance with Part 11, appeal to the Appeals Board against a refusal of a building certifier to grant, or against a condition imposed on, an occupancy permit for the work.
+(3) For this clause, a refusal to grant a building or occupancy permit includes where the permit is taken not to have been granted under clause 9(2).
