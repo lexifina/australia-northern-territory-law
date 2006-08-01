@@ -1,2 +1,2 @@
-FINES AND PENALTIES (RECOVERY) ACT 2001
+FINES AND PENALTIES (RECOVERY) ACT
 An Act to establish a fines recovery unit and to provide for the enforcement of fines and penalties, and for related purposes
