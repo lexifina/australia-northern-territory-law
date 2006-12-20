@@ -1,0 +1,85 @@
+## Schedule 2 Clauses 1 to 3 of Agreement
+section 6(3)
+1. Interpretation
+1.1 In this Agreement, unless the contrary intention appears:
+accident and emergency patient means an eligible person who receives, without a formal prior arrangement, hospital services from a recognised hospital otherwise than as an in-patient.
+admission means the process by which a hospital records the commencement of treatment and/or care and accommodation of a patient. The minimum criteria which must be met before a patient can be admitted is that the patient receives one of the following services:
+(a) day only surgical and diagnostic services as specified in Bands 1A, 1B, 2, 3 and 4 of the Health Insurance Basic Table as defined in subsection 4(1) of the National Health Act 1953 (Cth); or
+(b) type C professional attention procedures as specified in the Health Insurance Basic Table as defined in subsection 4(1) of the National Health Act with accompanying certification from a medical practitioner that an admission was necessary on the grounds of the medical condition of the patient or other special circumstances that relate to the patient (for example, remote location or no-one at home to care for the patient); or
+(c) the patient is new-born and:
+(i) is the second or subsequent live born infant of a multiple birth, and the mother is currently an overnight stay patient; or
+(ii) requires treatment which can only be provided in an intensive care facility in a hospital, being a facility approved by the Commonwealth Minister for the purpose of the provision of special care; or
+(iii) remains in the hospital without its mother; or
+(d) the patient is expected to require hospitalisation for a minimum of one night.
+aftercare means all post-operative services provided by a recognised hospital following a specific episode of treatment in that hospital.
+Agreement means this document including Schedules A to J inclusive.
+AIDS means the condition defined in the "Centre of Disease Control Revised Surveillance Case Definition 1987" as published in the "Morbidity and Mortality Weekly Report" volume 36, No. 15 of 14 August 1987.
+AIDS patient means a person diagnosed as having AIDS and resident in a respective State on 1 November of each grant year.
+base hospital funding grant formula means the formula set out in Schedule C.
+bed day means a day or part of a day that a patient is admitted to receive hospital treatment, and where that patient remains in receipt of hospital treatment, the day upon which the patient was admitted to hospital and the day upon which the patient was discharged from hospital will together, for the purpose of this Agreement, be deemed to be one bed day.
+Commitments has the same meaning as it has in subsection 23E(1) of the Act.
+Commonwealth Department means the Commonwealth Department that administers matters dealt with in Part 3 of the Act and this Agreement.
+Commonwealth Minister has the same meaning as the term Commonwealth Minister for health has in subsection 27(4) of the Act.
+compensable patient means an eligible person who is an in-patient, out-patient or accident and emergency patient, of a hospital and who is entitled under a law that is or was in force in a State or States other than Veterans' Affairs Legislation to the payment of, or who has been paid compensation for, damages or other benefits (including a payment in settlement of a claim for compensation, damages or other benefits) in respect of the injury, illness or disease for which he or she is receiving hospital services, provided, however, that the order under subsection 6(2) of the Act dated 11 January 1984 remains in force.
+day patient otherwise known as a same day patient means a patient who is admitted and discharged on the same day including patients who die, transfer or leave of their own accord on their first day in hospital.
+eligible person has the same meaning as it has in subsection 3(1) of the Act.
+grant year means any of the financial years commencing on 1 July for which this Agreement is or is deemed to have been in force.
+hospital has the same meaning as it has in subsection 3(1) of the Act and includes a day hospital facility approved under section 4 of the National Health Act 1953 (Cth).
+hospital service has the same meaning as it has in subsection 23E(1) of the Act.
+ineligible person means any person who is not an eligible person.
+in-patient means a patient as defined in subsection 3(1) of the Act who is admitted to a hospital for the purposes of receiving hospital treatment.
+Medicare Principles has the same meaning as it has in subsection 23E(1) of the Act.
+nursing home type patient has the same meaning as it has in subsection 3(1) of the Act (the 35 day rule), provided, however, that the order made pursuant to subsection 6(2) of the Act dated 11 January 1984 remains in force.
+official data means such data provided or produced under this Agreement by the Commonwealth or the State for the purposes of determining financial assistance in accordance with clause 6.
+other health services otherwise known as other nominated health services means services for the treatment of AIDS patients, day surgery services, post-acute care services, palliative care services, and other services that may be agreed upon from time to time between the Commonwealth Minister and the State Minister.
+out-patient means a person who receives treatment but is not admitted under an arrangement with a recognised hospital.
+private nursing home type patient means a nursing home type patient in a recognised hospital, who has elected to be treated by a medical practitioner of his or her own choice and to be responsible for paying charges of the type referred to in subclause 10.2 and the professional charges raised by any medical practitioner treating him or her.
+private patient means a person who elects to be treated in a recognised hospital as an in-patient or as a day patient by a medical practitioner of his or her own choice and to be responsible for paying the charges of the type referred to in subclause 10.2, the professional charges raised by any medical or dental practitioner treating him or her and the charges for any other services agreed between the Commonwealth Minister and the State Minister.
+public hospital service has the same meaning as it has in subsection 23E(1) of the Act.
+public patient means an eligible person who on admission to a recognised hospital or as soon as possible thereafter, elects to be treated as a public patient and in respect of whom the recognised hospital provides comprehensive care including all necessary medical, nursing and diagnostic services and, if they are available at the recognised hospital, dental and paramedical services, by means of its own staff or by other agreed arrangements provided these services are provided without charge to the eligible person.
+recognised hospital means a hospital listed in Schedule A as amended from time to time by written agreement between the Commonwealth Minister and the State Minister.
+Secretary means the Secretary or Chief Executive Officer (whatever the title of his or her office) of the Commonwealth Department and includes any person from time to time who may be exercising the functions of the Secretary.
+State Minister has the same meaning as the term State Minister for health has in subsection 27(4) of the Act.
+States means every State of the Commonwealth of Australia and includes the Northern Territory and the Australian Capital Territory.
+substantial reduction in the amount of non-base hospital funding payable means a reduction of 5 per cent in relation to the provision of any financial assistance by the Commonwealth under paragraphs 5.1(b) to (e) inclusive but excludes reductions that occur through the operation of a formula or provision specified in a schedule to this Agreement or through the operation of subclause 5.7.
+the Act means the Health Insurance Act 1973 (Cth) on and after 1 July 1993.
+the State's Department of Health means the State Department that administers matters dealt with in Part 3 of the Act and this Agreement.
+Veterans' Affairs Legislation means the legislation administered from time to time by the Minister for veterans' Affairs or the Repatriation Commission or successors thereto, however described.
+1.2 In this Agreement, unless the contrary intention appears:
+(a) clause headings are for convenient reference only and have no effect in limiting or extending the language of the provisions to which they refer;
+(b) a reference to a clause, subclause or paragraph is a reference to a clause, subclause or paragraph of this Agreement;
+(c) a reference to a schedule is a reference to a schedule of this Agreement;
+(d) where a word or phrase is given a particular meaning, other parts of speech and grammatical forms of that word or phrase have corresponding meanings;
+(e) words in the singular number include the plural and vice versa;
+(f) words importing a gender include all other genders;
+(g) all references to amounts of money are references to those amounts in Australian currency; and
+(h) a reference to a day, a week or a month means a calendar day, a calendar week or a calendar month respectively provided that where the last day of any period prescribed for the doing of any action falls on a day that is not a working day, the action may be done on the first working day following that day.
+2. Term of Agreement
+2.1 This Agreement will commence on 1 July 1993 and will remain in force, unless terminated at an earlier date, until 30 June 1998.
+3. Medicare Principles & Commitments
+Explanatory Note:
+The Medicare Principles focus on the provision of public hospital services to eligible persons, but operate in an environment where eligible persons have the right to choose private health care in public and private hospitals supported by private health insurance.
+3.1 It is a condition of a grant of financial assistance under this Agreement that the State, in providing public hospital services, agrees to give effect to the Medicare Principles and to undertake the Commitments which are as follows:
+Choices of services
+Principle 1: | Eligible persons must be given the choice to receive public hospital services free of charge as public patients.
+Explanatory Note 1: | Hospital services include in-patient, out-patient, emergency services (including primary care where appropriate) and day patient services consistent with currently acceptable medical and health service standards.
+Explanatory Note 2: | At the time of admission to a hospital, or as soon as practicable after that, an eligible person will be required to elect or confirm whether he or she wishes to be treated as a public or private patient.
+Explanatory Note 3: | Public hospital services do not include those services for which charges may be made as set out in subclause 10.4.
+Universality of services
+Principle 2: | Access to public hospital services is to be on the basis of clinical need.
+Explanatory Note 1: | None of the following factors are to be a determinant of an eligible person's priority for receiving hospital services: whether or not an eligible person has health insurance; an eligible person's financial status or place of residence; whether or not an eligible person intends to elect or elects to be treated as a public or private patient.
+Explanatory Note 2: | This principle applies equally to waiting times for elective surgery.
+Explanatory Note 3: | The phrase waiting times means waiting times for access to elective surgery from a hospital waiting or booking list.
+Equity in service provision
+Principle 3: | To the maximum practicable extent, a State will ensure the provision of public hospital services equitably to all eligible persons, regardless of their geographical location.
+Explanatory Note 1: | This principle does not require a local hospital to be equipped to provide eligible persons with every hospital service they may need.
+Explanatory Note 2: | In rural and remote areas, a State should ensure provision of reasonable public access to a basic range of hospital services which are in accord with clinical practices.
+Explanatory Note 3: | To the extent practicable, hospital services should be available at all recognised hospitals, however, where this is not possible, the State accepts responsibility for referring or transferring the eligible person to where the necessary hospital services are available.
+Information about service provision
+Commitment 1: | The Commonwealth and a State must make available information on the public hospital services eligible persons can expect to receive as public patients.
+Explanatory Note 1: | The joint Commonwealth/State development of a Public Patients' Hospital Charter will be a vehicle for the public dissemination of this information.
+Explanatory Note 2: | The Public Patients' Hospital Charter will set out the public hospital services available to public patients.
+Efficiency and quality in service provision
+Commitment 2: | The Commonwealth and the States are committed to making improvements in the efficiency, effectiveness and quality of hospital service delivery.
+Explanatory Note: | This includes a commitment to quality improvement, outcome measurement, management efficiency and effort to integrate the delivery of hospital and other health and community services.
+3.2 The State agrees to adopt the Medicare Principles and Commitments by enacting legislation establishing the Medicare Principles and Commitments as guidelines that will govern the delivery of public hospital services to eligible persons in the State by 1 January 1994 or, where that is not possible, to make reasonable efforts to adopt the Medicare Principles and Commitments by enacting legislation by that date. In this context, reasonable efforts to adopt the Medicare Principles and Commitments means the introduction of a Bill the aim of which is to establish the Medicare Principles and Commitments as guidelines that will govern the delivery of public hospital services to eligible persons in the State, and the pursuit of its passage.
