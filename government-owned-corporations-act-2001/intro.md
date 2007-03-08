@@ -1,2 +1,2 @@
-GOVERNMENT OWNED CORPORATIONS ACT
-An Act to provide for the establishment and operation of Territory owned enterprises as Government owned corporations
+Government Owned Corporations act
+An act to provide for the establishment and operation of territory owned enterprises as government owned corporations
