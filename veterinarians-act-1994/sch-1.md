@@ -7,7 +7,7 @@ section 5(8)
 2. Vacation of office
 A member may resign office by writing signed by him or her and delivered to the Minister.
 3. Grounds for removal from office
-(1) The Minister may remove a member from office if the member:
+(1) The Minister may remove a member from office if the member –
 (a) is absent without leave of the Board from 2 consecutive meetings of the Board of which reasonable notice was given to the member either personally or by post;
 (b) is found guilty:
 (i) in the Territory, of an offence punishable by imprisonment for 6 months or more; or
