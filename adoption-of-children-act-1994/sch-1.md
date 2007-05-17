@@ -1,6 +1,5 @@
-## Schedule 1
-Section 8(2)
-MATTERS OF ETHNICITY AND RELIGION
+## Schedule 1 Matters of ethnicity and religion
+section 8(2)
 With regard to the matters of ethnicity and religion in determining the welfare and interests of a child, the Minister and the Court shall take into account the following principles:
 (1) it is preferable that the child should be placed with a family that has the same ethnic and cultural origins as the child's birth parents in order to facilitate an environment that will promote the child's cultural heritage and identity;
 (2) where the child is an Aboriginal child, recognition is to be given to:

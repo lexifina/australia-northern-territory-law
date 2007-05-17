@@ -1,4 +1,4 @@
-## Schedule 8 Provisions relating pharmacies
+## Schedule 8 Provisions relating to pharmacies
 section 130
 1. Definitions
 In this Schedule:

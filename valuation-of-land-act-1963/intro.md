@@ -1,2 +1,2 @@
-validation of land act
-An Act relating to the Valuation of Land
+VALUATION OF LAND act
+An Act relating to the valuation of land

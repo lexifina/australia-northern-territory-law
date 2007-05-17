@@ -22,14 +22,14 @@ member means a member of the Tribunal and includes the President of the Tribunal
 (e) fails, without reasonable excuse, to comply with the member's obligations under Schedule 6, clause 7; or
 (f) is found guilty of an offence against this Act.
 (3) The Minister may remove a member from office if satisfied that the member is unable to perform the duties of the office competently.
-(4) The permanent member appointed under section 63(2)(a) vacates office if he or she ceases to be a legal practitioner.
-(5) The permanent member appointed under section 63(2)(b) vacates office if he or she becomes a health practitioner or legal practitioner.
+(4) The permanent member appointed under section 63(2)(a) vacates office if he or she ceases to be a lawyer.
+(5) The permanent member appointed under section 63(2)(b) vacates office if he or she becomes a health practitioner or lawyer.
 (6) A special member vacates office if he or she ceases to be a health practitioner.
 4. Filling of vacancies
 (1) If the office of a permanent member becomes vacant, the Minister may appoint a person to the vacant office for the remainder of the former member's term of office.
-(2) The person appointed to a vacant office under subclause (1) must:
-(a) if the office is referred to in section 63(2)(a) – be a legal practitioner; and
-(b) if the office is referred to in section 63(2)(b) – not be a health practitioner or legal practitioner.
+(2) The person appointed to a vacant office under subclause (1) must :
+(a) if the office is referred to in section 63(2)(a) – be a lawyer; and
+(b) if the office is referred to in section 63(2)(b) – not be a health practitioner or lawyer.
 5. Validity of proceedings etc.
 An act or proceeding of the Tribunal or of a person acting under the direction of the Tribunal is valid even if:
 (a) the appointment of a member of the Tribunal was defective; or

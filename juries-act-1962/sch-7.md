@@ -9,8 +9,8 @@ a spouse or a de facto partner of a Judge
 a member of the Legislative Assembly
 the Ombudsman, and an employee within the meaning of the Public Sector Employment and Management Act who is employed in the Office of the Ombudsman
 a person regularly employed on duties on board aircraft used in aerial ambulance services
-a practising legal practitioner
-the articled clerk of a practising legal practitioner
+a legal practitioner
+an articled clerk or graduate clerk of a legal practitioner
 a clergyman in holy orders, a priest of the Roman Catholic faith and a minister of religion having an established congregation
 a monk, nun or other vowed member of a religious community
 a dentist or dental specialist who has a right of practice under the Health Practitioners Act

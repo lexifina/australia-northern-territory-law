@@ -3,7 +3,7 @@ section 159
 PLACE OF EXECUTION OF INSTRUMENT | PERSONS WHO CAN WITNESS EXECUTION
 In the Northern Territory | · a Commissioner for Oaths
 · a member of the Legislative Assembly
-· a legal practitioner within the meaning of the Legal Practitioners Act
+· a legal practitioner
 · a person holding office under the Supreme Court Act, the Justices Act, the Local Court Act or the Registration Act
 · a member of the Police Force
 · a person licensed as a conveyancing agent or real estate agent under the Agents Licensing Act

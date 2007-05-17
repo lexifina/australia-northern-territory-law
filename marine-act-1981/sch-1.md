@@ -1,5 +1,5 @@
 ## Schedule 1 Repeal
-PART I – ACTS OF SOUTH AUSTRALIA
+PART I ACTS OF SOUTH AUSTRALIA
 section 3(1)
 Number and year of Act | Title | Extent to which Act ceases to apply as laws of the Territory
 No. 237 of 1881 | Marine Board and Navigation Act, 1881 | Sections 6 to 241 (inclusive) and 281 to 402 (inclusive) and the Schedules
@@ -9,7 +9,7 @@ No. 614 of 1894 | Marine Board and Navigation Act Amendment Act, 1894 | The whol
 No. 691 of 1897 | The Marine Board and Navigation Act Amendment Act, 1897 | The whole Act
 No. 814 of 1902 | The Marine Board and Navigation Act Amendment Act, 1902 | The whole Act
 No. 917 of 1906 | The Marine Board and Navigation Act Further Amendment Act, 1906 | The whole Act
-PART III – NORTHERN TERRITORY ORDINANCES
+PART III NORTHERN TERRITORY ORDINANCES
 section 3(2)
 _____________________________________________________________
 Number and year of Ordinance Extent of Repeal

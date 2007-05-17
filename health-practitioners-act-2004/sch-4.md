@@ -1,4 +1,4 @@
-## Schedule 4 Powers and procedures of committee and Tribunal
+## Schedule 4 Powers and procedures of Committee and Tribunal
 sections 25(3) and 63(10)
 1. Definitions
 In this Schedule:
