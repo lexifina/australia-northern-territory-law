@@ -12,10 +12,9 @@ PROHIBITED FIREARMS
 9 A firearm to which there is attached an article or device capable of muffling, reducing or stopping the noise created by firing the firearm.
 10 A firearm, not being a pistol, fitted with a stock that is specially designed so as to be readily detachable, or to operate on a swivel, folding or telescopic basis.
 11 A firearm made up in the form of a stylographic or propelling pen or pencil, capable of being used for the discharge of gas, bullets, shot, dye or pyrotechnic flares.
-12 A firearm capable of discharging by any means:
-(a) an irritant matter in liquid, powder, gas or chemical form;
-(b) an pyrotechnic flare or dye, other than distress signal devices; or
-(c) an article known as a "paint-ball".
+12 A firearm capable of discharging, in any way:
+(a) an irritant matter in liquid, powder, gas or chemical form; or
+(b) a pyrotechnic flare or dye, other than a distress signal device.
 13 A firearm that substantially duplicates in appearance a walking stick or walking cane.
 14 A cannon or other weapon by whatever name known of a type that will expel a projectile by the action of an explosive or other propellant, and that has a barrel with a bore in excess of 10 gauge.
 15 A firearm or part that has a dimension less than the minimum dimension prescribed for the firearm or part.
