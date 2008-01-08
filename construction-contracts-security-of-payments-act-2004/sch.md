@@ -40,10 +40,10 @@ Division 5 Responding to payment claims
 (i) believes the claim should be rejected because the claim has not been made in accordance with this contract; or
 (ii) disputes the whole or part of the claim.
 (2) The party must:
-(a) within 10 days after receiving the payment claim:
+(a) within 14 days after receiving the payment claim:
 (i) give the claimant a notice of dispute; and
 (ii) if the party disputes part of the claim – pay the amount of the claim that is not disputed; or
-(b) within 20 days after receiving the payment claim, pay the whole of the amount of the claim.
+(b) within 28 days after receiving the payment claim, pay the whole of the amount of the claim.
 (3) The notice of dispute must:
 (a) be in writing;
 (b) be addressed to the claimant;
