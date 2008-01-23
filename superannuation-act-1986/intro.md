@@ -1,2 +1,2 @@
-SUPERANNUATION ACT
-An Act to provide superannuation benefits for persons employed by the Territory and by certain public authorities, to make provision for certain dependants of those persons, and for related purposes
+SUPERANNUATION act
+An Act to provide for the administration of the (closed) Northern Territory Government and Public Authorities' Superannuation Scheme and for the establishment and administration of the Northern Territory Government Death and Invalidity Scheme, and for related purposes.
