@@ -1,7 +1,6 @@
 ## Part XIV Transitional
-## Schedule
+## Schedule Functions of conveyancing agent
 section 5(2)(c)
-FUNCTIONS OF CONVEYANCING AGENT
 1. A licensed conveyancing agent may perform the following functions in respect of the sale and transfer of real property:
 (a) search land titles and dealings thereon and search for caveats against such dealings;
 (b) search and inquire at Government offices and at the offices of statutory authorities and municipalities, and obtain certificates therefrom, in respect of records, plans and policies and make inquiries with respect to adjustment of rates, taxes and other outgoings of a periodical nature in respect of the real estate the subject of the transaction involved;
