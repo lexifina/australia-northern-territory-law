@@ -1,6 +1,5 @@
-## Schedule 7
+## Schedule 7 Persons exempt from service as jurors
 section 11
-PERSONS EXEMPT FROM SERVICE AS JURORS
 the Administrator
 the Administrator's official secretary
 the secretary of the Executive Council
@@ -21,8 +20,7 @@ a parole officer within the meaning of the Parole of Prisoners Act
 a member of the Police Force of the Northern Territory
 an officer within the meaning of the Prisons (Correctional Services) Act
 an employee as defined in the Public Sector Employment and Management Act who is employed in an Agency primarily responsible for law and the administration of justice, prisons and correctional services or the administration of courts or who is under the direct control of the Commissioner of Police
-a person employed by the Legal Aid commission within the meaning of the Legal Aid Act
+a person employed by the Legal Aid Commission within the meaning of the Legal Aid Act
 an employee as defined in the Public Sector Employment and Management Act who is employed in the Office of the Director of Public Prosecutions
 a person who is blind, deaf or dumb or otherwise incapacitated by disease or infirmity from discharging the duties of a juror
-a person over the age of 65 years.
 a person who is not liable to serve as a juror by virtue of, or who is exempted from service as a juror under, the Jury Exemption Act 1965 of the Commonwealth
