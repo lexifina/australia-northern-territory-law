@@ -1,6 +1,5 @@
-## Schedule 1
+## Schedule 1 Objects
 section 3(3)
-Objects
 The objects to the furthering of which the Minister shall have regard are:
 (a) to ensure that persons with disabilities receive the services necessary to enable them to achieve their maximum potential as members of the community;
 (b) to ensure that services provided to persons with disabilities:

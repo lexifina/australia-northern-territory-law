@@ -1,6 +1,5 @@
-## Schedule 3
+## Schedule 3 Objectives
 section 3(2)
-Objectives
 The objectives for providers of services or researchers are that:
 (a) the services should have as their focus, the achievement of positive outcomes for people with disabilities, such as increased independence, employment opportunities and integration into the community;
 (b) the services should contribute to ensuring that the conditions of the every-day life of people with disabilities are the same as, or as close as possible to, norms and patterns which are valued in the general community;

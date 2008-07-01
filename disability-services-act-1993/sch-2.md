@@ -1,6 +1,5 @@
-## Schedule 2
+## Schedule 2 Principles
 section 3(2)
-Principles
 The principles which are to be furthered with respect to persons with disabilities are that:
 (a) persons with disabilities are individuals who have the inherent right to respect for their human worth and dignity;
 (b) persons with disabilities, whatever the origin, nature, type and degree of disability, have the same basic human rights as other members of Australian society;

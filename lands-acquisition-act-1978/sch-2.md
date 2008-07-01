@@ -12,7 +12,7 @@ Subject to this Schedule, in assessing the compensation payable to a claimant in
 (d) any loss sustained, or cost incurred, by the claimant as a natural and reasonable consequence of:
 (i) the acquisition of the land; or
 (ii) the service on the claimant of the notice of proposal,
-for which provision is not otherwise made under this Act.
+for which provision is not otherwise made under this Act, other than costs incurred as a result of attending, participating in or being represented at consultations for the purposes of section 37(1) or mediation under section 37(4).
 3 Market value for use other than existing use
 If the amount referred to in rule 2(a) is determined upon the basis of a use for a purpose which is not the purpose for which the land was used on the date of acquisition, no amount shall be allowed under rule 2(d) in respect of any:
 (a) loss that would have been sustained; or
@@ -43,7 +43,7 @@ in each case calculated at the date when, in all the circumstances, it was or wo
 The Tribunal shall not take into account:
 (a) any special suitability or adaptability of the acquired land for a purpose for which it could only be used:
 (i) in pursuance of a power conferred by law; or
-(ii) by the Commonwealth or the Territory, a statutory corporation to which the Financial Management Act applies, or a municipal council or community government council within the meaning of the Local Government Act;
+(ii) by the Commonwealth or the Territory, a statutory corporation to which the Financial Management Act applies, or a council constituted under the Local Government Act;
 (b) any increase in value of the acquired land resulting from its use or development contrary to law;
 (c) any increase or decrease in the amount referred to in rule 2(a) arising from:
 (i) the carrying out; or
@@ -66,7 +66,7 @@ the amount of compensation otherwise payable under this Schedule may be increase
 The amount of compensation payable to a mortgagee in respect of a debt secured by a mortgage over acquired land shall not exceed the amount of compensation that would be payable for the acquisition of all interests in the land if there had been no mortgage secured over that land.
 11 Loans
 (1) If the amount of compensation assessed in accordance with this Schedule is insufficient to enable a claimant who occupied the acquired land as his principal place of residence continuously between the date of service of the notice of intention and the date of acquisition and:
-(a) who held an interest in fee simple or a native title right or interest in the acquired land;
+(a) who held an interest in fee simple in the acquired land;
 (b) in whom an equity of redemption in respect of that land was vested; or
 (c) who held a lease of that land granted under an Act:
 (i) in perpetuity;
@@ -77,7 +77,7 @@ to purchase land to be used as a principal place of residence providing accommod
 (2) The Minister shall, when making an offer under subrule (1), specify the maximum amount of the loan he is prepared to grant.
 (3) Repayment of a loan granted in accordance with this rule shall be secured by a mortgage to the Territory of the land purchased to provide the comparable accommodation.
 (4) A mortgage under subrule (3):
-(a) shall provide for the amount secured to be repayable forth-with if:
+(a) shall provide for the amount secured to be repayable forthwith if:
 (i) the land the subject of the mortgage is sold;
 (ii) the claimant and his spouse or de facto partner cease to use the land as a principal place of residence; or
 (iii) if both the claimant and his spouse or de facto partner have died; and
