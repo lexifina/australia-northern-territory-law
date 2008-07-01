@@ -3,7 +3,7 @@ section 12(2)
 1. An offence against section 127 of the Criminal Code (sexual intercourse or gross indecency involving child under 16 years).
 2. An offence against section 130 of the Criminal Code (sexual intercourse or gross indecency by provider of services to mentally ill or handicapped person) – where the victim is a child.
 3. An offence against section 131A of the Criminal Code (sexual relationship with a child).
-4. An offence against section 134(2) or (3) of the Criminal Code (incest) - where the close family member is a child.
+4. An offence against section 134(2) or (3) of the Criminal Code (incest) – where the close family member is a child.
 5. An offence against section 162 or 163 of the Criminal Code (murder and manslaughter, respectively) – where the victim is a child.
 6. An offence against section 192 of the Criminal Code (sexual intercourse and gross indecency without consent) – where the victim is a child.
 7. An offence against section 192B of the Criminal Code (coerced sexual self-manipulation) – where the victim is a child.

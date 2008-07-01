@@ -1,2 +1,2 @@
-Child protection (offender reporting and registration) act
+CHILD PROTECTION (OFFENDER REPORTING AND REGISTRATION) ACT
 An Act to require certain offenders who commit sexual or certain other serious offences against children to keep police informed of their whereabouts and other personal details for a period of time in order to reduce the likelihood that they will re-offend and in order to facilitate the investigation and prosecution of any future offences that they may commit, to prohibit certain offenders from working in child-related employment, to enable courts to make orders prohibiting certain offenders from engaging in specified conduct, and for related purposes
