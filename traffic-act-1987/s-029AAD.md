@@ -1,0 +1,4 @@
+# 29AAD Further breath analyses
+(1) A person who has provided a sufficient sample of breath for a breath analysis may be required by a police officer to submit to one more breath analysis on the same occasion and the person must provide a sufficient sample of breath for that analysis.
+(2) A person who has submitted to a breath analysis may, after receiving the result of the initial analysis, request that a further analysis be carried out on one other sample of the person's breath, and the police officer who carried out the initial analysis (or another officer) must carry out an analysis on one further sample of the person's breath provided the sample of breath is sufficient.
+(3) A request under subsection (2) must be made without undue delay after the person receives the result of the initial analysis.

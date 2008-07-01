@@ -1,0 +1,18 @@
+# 29AAK Taking of sample of blood
+(1) A sample of blood may be taken for this Act, from a person taken to a hospital or a health centre under section 29AAG, or from a person who has apparently attained the age of 15 years and who enters a hospital or health centre for examination or treatment of injuries which may have been received in a crash:
+(a) at a hospital – by a medical practitioner, a registered nurse or a member of the staff of the hospital who is under the direct supervision of a medical practitioner or registered nurse; and
+(b) at a health centre – by a medical practitioner, a registered nurse or a qualified person.
+(2) If a person is taken to a hospital under section 29AAG, the person in charge of the hospital must ensure a sample of the person's blood is taken as soon as practicable.
+(3) The Minister responsible for administering hospitals in the Territory must ensure that, for the purpose of analysis by an authorised analyst, a sample of blood is taken as soon as practicable from each person who has apparently attained the age of 15 years who enters a hospital for examination or treatment of injuries which may have been received in a crash.
+(4) For subsection (3), a medical practitioner, registered nurse or a member of the staff of a hospital who is under the direct supervision of a medical practitioner or registered nurse may:
+(a) take a sample of blood from a person who is unconscious or apparently incapable of consenting to the taking of the sample; or
+(b) require a person to give a sample of blood.
+(5) However, a member of the staff of a hospital or a health centre is not required to take a sample of the person's blood if the member of staff believes on reasonable grounds that:
+(a) the concentration of alcohol in the person's blood is already known; or
+(b) the taking of the sample would be detrimental to the person's medical condition; or
+(c) the injuries of the person were not received in a motor vehicle accident or the motor vehicle accident happened more than 12 hours before the person entered the hospital or health centre; or
+(d) a period of more than 4 hours has elapsed since the person entered the hospital or health centre.
+(6) A blood sample taken under this section is the property of the Commissioner.
+(7) However, the person who takes the sample may make approximately half of the sample available to the person from whom it was taken.
+(8) No action or proceedings for assault, whether in or outside the Territory, lie against a person who takes a blood sample for this Act.
+(9) This section does not obligate any person to take a sample of blood at a health centre.
