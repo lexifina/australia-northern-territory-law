@@ -1,6 +1,6 @@
 ## Schedule 4
 section 58(4)
-Part 1 – Fees and charges
+PART 1 – FEES AND CHARGES
 1. Definitions
 In this Part:
 annual fee means the annual fee referred to in section 58(2)(b).
@@ -24,7 +24,7 @@ The Council may, if it considers that there are special reasons for doing so in 
 (a) the fee payable under clause 2 for an application for the approval of the Council of a scheme or of an amendment to, or the revocation of, a scheme;
 (b) the annual fee payable under clause 4;
 (b) any interest payable under clause 5.
-Part 2 – Form of statement
+PART 2 – FORM OF STATEMENT
 7. Notification of limitation of liability
 (1) For the purposes of section 34(2), the following form of statement is prescribed:
 Liability limited by the [insert name of relevant Scheme approved of by the Council] Scheme, approved under the Professional Standards Act (Northern Territory).
