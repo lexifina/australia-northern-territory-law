@@ -1,6 +1,5 @@
-## Schedule 4
+## Schedule 4 Acts and Ordinances repealed
 section 129
-Acts and Ordinances repealed
 Criminal Law (Conditional Release of Offenders) Ordinance 1971 | No. 34, 1971
 Criminal Law (Conditional Release of Offenders) Ordinance 1978 | No. 68, 1978
 Criminal Law (Conditional Release of Offenders) Act 1979 | No. 35, 1979
