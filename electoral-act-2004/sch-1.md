@@ -1,5 +1,4 @@
-## Schedule 1
-FORM OF WRIT
+## Schedule 1 Form of writ
 section 27(1)
 NORTHERN TERRITORY OF AUSTRALIA
 Electoral Act

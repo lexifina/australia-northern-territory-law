@@ -1,5 +1,4 @@
-## Schedule 2
-APPEALABLE DECISIONS AND AFFECTED PERSONS
+## Schedule 2 Appealable decisions and affected persons
 section 225
 A decision under section 158(1) or (2) to refuse an application for registration of a political party | The party
 A decision under section 157(1) to register a political party | A person who objected to registration of the party
