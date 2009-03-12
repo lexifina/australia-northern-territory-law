@@ -1,4 +1,4 @@
-FAMILY AND DOMESTIC VIOLENCE ACT 2007
+DOMESTIC AND FAMILY VIOLENCE act
 An Act to provide for the protection of persons in a domestic relationship against violence, and for related purposes
 PREAMBLE:
 The Legislative Assembly enacts this Act because it recognises:
