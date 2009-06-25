@@ -1,2 +1,2 @@
-TAXATION ADMINISTRATION act
+TAXATION ADMINISTRATION ACT
 An Act to make general provision for the administration and enforcement of taxation laws

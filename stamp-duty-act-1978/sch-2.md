@@ -4,7 +4,7 @@ definition exempt instrument or transaction
 Conveyances
 1 Conveyance to the Territory, to a Government Business Division declared by regulation to be a Government Business Division to which this exemption applies or to an authority of the Territory other than a Government Business Division. (If a conveyance falls partially within and partially outside the terms of this exemption, duty is to be calculated as if the conveyance were not exempt and then proportionately reduced to reflect the extent of the exemption.)
 2 Conveyance to the Commonwealth or to an authority of the Commonwealth.
-3 Conveyance for the purposes of a compulsory transfer of business under Part 4, Division 3 of the Financial Sector (Transfer of Business) Act 1999 (Cth).
+3 Conveyance for the purposes of a compulsory transfer of business under Part 4 of the Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cth).
 4 Statutory vesting:
 (a) by which property vests in a company only because of its registration under Part 5B.1 of the Corporations Act 2001; or
 (b) by which property held by a person for or on behalf of an association vests in the association under section 12 of the Associations Act only because of its incorporation under that Act; or
@@ -43,6 +43,7 @@ Conveyances
 14 Conveyance of dutiable property to a public hospital, public benevolent institution, religious institution or public education institution or a council, society, organisation or other body established or carried on exclusively or principally for the promotion of the interests of a school (other than a school carried on for the profit of an individual) if the property the subject of the conveyance is to be used solely by that entity for purposes other than the carrying on of a commercial activity conducted by or on behalf of the entity.
 Leases
 15 Lease of a building or part of a building to be used for residential purposes.
+Act.
 16 Lease to the Territory, to a Government Business Division declared by regulation to be a Government Business Division to which this exemption applies or to an authority of the Territory other than a Government Business Division.
 17 Lease to the Commonwealth or to an authority of the Commonwealth.
 18 Lease to a public hospital, public benevolent institution, religious institution or public education institution or a council, society, organisation or other body established or carried on exclusively or principally for the promotion of the interests of a school (other than a school carried on for the profit of an individual) if the property the subject of the lease is to be used solely by that entity for purposes other than the carrying on of a commercial activity conducted by or on behalf of the entity.
@@ -50,7 +51,8 @@ Insurance
 19 An insurance cover-note in pursuance of which a duly stamped policy is issued within 3 months of the date of the cover-note.
 20 A policy of insurance issued to the original insured or the insured's personal representative in pursuance of a cover-note which has been duly stamped as a policy.
 21 A policy of insurance taken out as required under the Workers Rehabilitation and Compensation Act.
-22 A policy of insurance issued in the course of a health insurance business by a registered health benefits organisation within the meaning of Part VI of the National Health Act 1953 (Cth).
+22 A policy of insurance issued in the course of a health insurance business by a person registered as a private health insurer within under Part 4-3 of the Private Health Insurance Act 2007 (Cth).
+22A A life policy issued by a life insurer that is a first home saver account under the First Home Saver Accounts Act 2008 (Cth).
 Motor vehicle certificates of registration
 23 Any of the following motor vehicle certificates of registration:
 (a) a motor vehicle certificate of registration issued to the person in whose name the vehicle was last registered before it was issued (whether registered in the Territory or elsewhere and whether or not that registration has expired) other than:
@@ -86,7 +88,7 @@ other than:
 (i) a motorised wheelchair; or
 (ii) an experimental or research vehicle that has no readily ascertainable market value; or
 (iii) a vehicle that has been brought into the Territory principally to take part in, or be part of, a specific event or specific events; or
-(iv) a vehicle that is registered under the Motor Vehicles Act as a classic, veteran or vintage vehicle;
+(iv) registered under the Motor Vehicles Act as an enthusiast vehicle;
 (k) a motor vehicle certificate of registration issued:
 (i) to a veteran who is eligible to receive a pension at the rate specified by section 22(4) or 24(4) of the Veterans' Entitlements Act 1986 (Cth); and
 (ii) in respect of a motor vehicle for the veteran's non-commercial use;
