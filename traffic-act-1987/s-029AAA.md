@@ -4,7 +4,7 @@
 (a) drives a motor vehicle; or
 (b) is a driving instructor occupying a passenger seat in a vehicle for the purpose of instructing another person to drive the vehicle.
 Maximum penalty: For a first offence – 10 penalty units or imprisonment for 12 months.
-For a second or subsequent offence – 20 penalty units or imprisonment for 12 months.
+For a second or subsequent offence –20 penalty units or imprisonment for 12 months.
 (2) An offence against subsection (1) (a relevant offence) is a second or subsequent offence if the person has previously been found guilty of any of the following offences:
 (a) driving with:
 (i) a high range blood alcohol content; or
