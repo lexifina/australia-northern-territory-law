@@ -40,13 +40,12 @@ Conveyances
 (b) a grant of an estate in fee simple or convertible Crown lease for which monetary consideration is given or agreed to be given;
 (c) a grant of a mining tenement.
 13 Transfer under the Petroleum Act, the Energy Pipelines Act, the Petroleum (Submerged Lands) Act or the Petroleum (Prospecting and Mining) Act (repealed) of a lease, licence, permit or other authority, or any agreement to make such a transfer.
-14 Conveyance of dutiable property to a public hospital, public benevolent institution, religious institution or public education institution or a council, society, organisation or other body established or carried on exclusively or principally for the promotion of the interests of a school (other than a school carried on for the profit of an individual) if the property the subject of the conveyance is to be used solely by that entity for purposes other than the carrying on of a commercial activity conducted by or on behalf of the entity.
+14 Conveyance of dutiable property to an exempt entity if the property is to be used solely by the entity for an exempt use.
 Leases
-15 Lease of a building or part of a building to be used for residential purposes.
-Act.
+15 Lease that is a residence contract under the Retirement Villages Act.
 16 Lease to the Territory, to a Government Business Division declared by regulation to be a Government Business Division to which this exemption applies or to an authority of the Territory other than a Government Business Division.
 17 Lease to the Commonwealth or to an authority of the Commonwealth.
-18 Lease to a public hospital, public benevolent institution, religious institution or public education institution or a council, society, organisation or other body established or carried on exclusively or principally for the promotion of the interests of a school (other than a school carried on for the profit of an individual) if the property the subject of the lease is to be used solely by that entity for purposes other than the carrying on of a commercial activity conducted by or on behalf of the entity.
+18 Lease of property to an exempt entity if the property is to be used solely by the entity for an exempt use.
 Insurance
 19 An insurance cover-note in pursuance of which a duly stamped policy is issued within 3 months of the date of the cover-note.
 20 A policy of insurance issued to the original insured or the insured's personal representative in pursuance of a cover-note which has been duly stamped as a policy.
@@ -77,7 +76,7 @@ if the conveyance is wholly by way of gift;
 (iii) who is beneficially entitled to the vehicle under the estate of a deceased person;
 (f) a duplicate motor vehicle certificate of registration;
 (g) a motor vehicle certificate of registration issued on an application for registration by the Territory, by a Government Business Division declared by regulation to be a Government Business Division for the purposes of this item or by a person acting on behalf of the Territory other than a Government Business Division;
-(h) a motor vehicle certificate of registration issued in the name of a public hospital, public benevolent institution, religious institution or public education institution or a council, society, organisation or other body established or carried on exclusively or principally for the promotion of the interests of a school (other than a school carried on for the profit of an individual);
+(h) a motor vehicle certificate of registration issued in the name of an exempt entity;
 (i) a motor vehicle certificate of registration issued to a person who, in the opinion of the Commissioner, is engaged principally in the business of buying and selling motor vehicles (a motor vehicle trader) in respect of:
 (i) a vehicle acquired by the motor vehicle trader for the purpose of resale by the motor vehicle trader in the ordinary course of business; or
 (ii) a new motor vehicle used solely or principally by the motor vehicle trader to sell new motor vehicles of the same class;
@@ -88,7 +87,10 @@ other than:
 (i) a motorised wheelchair; or
 (ii) an experimental or research vehicle that has no readily ascertainable market value; or
 (iii) a vehicle that has been brought into the Territory principally to take part in, or be part of, a specific event or specific events; or
-(iv) registered under the Motor Vehicles Act as an enthusiast vehicle;
+(iv) registered under the Motor Vehicles Act as an enthusiast vehicle; or
+(v) a trailer that has a gross vehicle mass of not more than 4.5 t;
+Note for subparagraph (v)
+A caravan is a trailer within the meaning of the definition trailer in the Motor Vehicles Act.
 (k) a motor vehicle certificate of registration issued:
 (i) to a veteran who is eligible to receive a pension at the rate specified by section 22(4) or 24(4) of the Veterans' Entitlements Act 1986 (Cth); and
 (ii) in respect of a motor vehicle for the veteran's non-commercial use;
