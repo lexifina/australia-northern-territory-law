@@ -1,6 +1,6 @@
 ## Schedule 2 Short forms of covenants in leases
 section 120
-Directions as to the forms in this Schedule
+DIRECTIONS AS TO THE FORMS IN THIS SCHEDULE
 1. Parties who use a form of words in Column 1 may substitute for the words "lessee" or "lessor" the name or names of the lessee or lessor respectively and, if that is done, corresponding substitutions are to be taken to be made in the corresponding form of words in Column 2.
 2. Parties may substitute one gender for another, or the plural number for the singular, in a form of words in Column 1 and corresponding changes are to be taken to be made in the corresponding form of words in Column 2.
 3. Parties may complete the blank spaces left in a form of words in Column 1 with any words or figures and those words or figures are to be taken to be inserted in the corresponding blank spaces left in the corresponding form of words in Column 2.

@@ -7,7 +7,7 @@ commencement day means the day on which this Act comes into operation.
 former compliance certificate means a compliance certificate in force under the repealed Act immediately before the commencement day.
 former order means an order issued under section 33 of the repealed Act.
 registered swimming pool means a swimming pool in respect of which a certificate of registration is in force immediately before the commencement day.
-repealed Act means the Swimming Pool Fencing Act 2002 as in force immediately before the commencement day.
+repealed Act means the Swimming Pool Fencing Act as in force immediately before the commencement day.
 2 Registered swimming pools that are certified swimming pools
 (1) A registered swimming pool stated in the certificate of registration to be registered as being enclosed in accordance with the appropriate Australian Standard in accordance with section 13 or 17 of the repealed Act is taken to be a certified swimming pool that complies with the modified Australian Standard.
 (2) A registered swimming pool stated in the certificate of registration to be registered as being enclosed with a non-standard enclosure under section 19 of the repealed Act in accordance with section 14 or 18 of that Act is taken to be a certified swimming pool that complies with the non-standard safety provision.

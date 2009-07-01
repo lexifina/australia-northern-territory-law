@@ -60,7 +60,7 @@ No. 182 of 1880 | The Settled Estates Act 1880
 No. 228 of 1881 | The Estates Tail Act, 1881
 No. 203 of 1881 | The Partition Act, 1881
 No. 459 of 1889 | The Settled Estates Act Amendment Act
-898, 1905 | Apportionment Act, 1905
+No. 898, 1905 | Apportionment Act, 1905
 ACTS OF THE NORTHERN TERRITORY
 No. 42 of 1965 | Supreme Court Ordinance Repeal Ordinance 1965
 No. 7 of 1975 | Real Property (Insurance Money Application) Act 1975

@@ -1,4 +1,4 @@
-## Schedule 1 Procedure in cases of bona vacantia
+## Schedule 1 Procedure in cases of bona vacanita
 section 20(9)
 1. Procedure in cases of escheat or other like cases
 When a question arises as to the title of the Crown to land in a case of escheat or alleged escheat or of bona vacantia or alleged bona vacantia, or in any other case in which an inquest of office might have been held, the truth of the matter is to be ascertained as prescribed in this Schedule.

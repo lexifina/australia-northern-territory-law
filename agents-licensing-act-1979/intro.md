@@ -1,2 +1,2 @@
-AGENTS LICENSING ACT
-An Act to provide for the Licensing of certain Agents, the Registration of Representatives of those Licensed Agents and for related purposes
+AGENTS LICENSING act
+An Act to provide for the licensing of certain agents, the registration of representatives of those licensed agents and for related purposes
