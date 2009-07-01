@@ -1,2 +1,2 @@
-mineral royalty act
-An Act to impose a royalty on minerals recovered in the Northern Territory, and for related purposes
+Mineral Royalty act
+An Act to impose a royalty on minerals recovered in the northern territory, and for related purposes
