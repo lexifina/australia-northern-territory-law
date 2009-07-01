@@ -24,6 +24,7 @@ Note
 It follows from this that, if consideration is given for an asymmetrical partition, ad valorem duty will be calculated on the amount of the consideration or the relevant proportion of the unencumbered value of the land (whichever is the greater) and, if consideration is not given, on the relevant proportion of the unencumbered value of the land.
 (5) For subclause (4), a symmetrical partition of land is one in which the portions resulting from the partition are in accordance with the proportionate interests of the owners prior to the partition; otherwise, the partition is to be regarded as asymmetrical.
 (6) If the conveyance is made subsequent to, and in conformity with, an agreement for the conveyance that has been stamped with ad valorem duty, the duty payable on the conveyance is $5.
+(6A) If the conveyance is made of dutiable property as mentioned in section 17A(2A), the duty payable on the transfer is $5.
 (7) If:
 (a) a conveyance of dutiable property is made on terms under which the conveyee is to hold the property on trust; and
 (b) a declaration of trust is made in anticipation of the conveyance of dutiable property to the declarant to be held on trust; and
