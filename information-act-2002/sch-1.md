@@ -2,8 +2,8 @@
 section 48
 Act | Provision
 Adoption of Children Act | section 71(1)
-Care and Protection of Children Act | section 301(1)
 Child Protection (Offender Reporting and Registration) Act | section 66(1)
+Care and Protection of Children Act | section 301
 Coroners Act | section 43(2)
 Criminal Property Forfeiture Act | section 31(1)
 Criminal Records (Spent Convictions) Act | section 12(1) and (2)
