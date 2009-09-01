@@ -1,4 +1,4 @@
-## Schedule Reviewable decisions and affected persons
+## Schedule Reviewable decisions and affected person
 section 115
 A decision under section 54: (a) to direct a manufacturer or wholesale distributor to withdraw a chemical product, fertiliser or stockfood from sale; (b) to take specified action to recover supplies of a chemical product, fertiliser or stockfood; or (c) to deal with supplies of a chemical product, fertiliser or stockfood in a specified manner | The manufacturer or wholesale distributor
 A decision under section 55 to direct a person to deal with a chemical product, fertiliser, stockfood or agricultural produce in a specified manner or within a specified period | The person given the direction
