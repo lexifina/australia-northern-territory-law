@@ -1,6 +1,5 @@
-## Schedule 3
+## Schedule 3 Category B firearms
 section 3
-CATEGORY B FIREARMS
 Muzzle-loading firearms
 Centre-fire rifles, other than self-loading
 Shotgun and centre-fire rifle combinations

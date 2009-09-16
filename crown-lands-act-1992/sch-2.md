@@ -1,4 +1,4 @@
-## Schedule 2 Acts repealed
+## Schedule 2 Acts Repealed
 section 107
 Crown Lands Ordinance 1931 | No. 2, 1931
 Crown Lands Ordinance 1933 | No. 11, 1933

@@ -1,6 +1,5 @@
-## Schedule 1
+## Schedule 1 Prohibited firearms
 section 3
-PROHIBITED FIREARMS
 1 A machine gun, sub-machine gun or other firearm capable of propelling projectiles in rapid succession during one pressure of the trigger.
 2 A self-loading rimfire rifle (including such a firearm described elsewhere in this Schedule).
 3 A self-loading centre-fire rifle (including such a firearm described elsewhere in this Schedule).

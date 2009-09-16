@@ -1,6 +1,5 @@
 ## Schedule Northern Territory Carers Charter
-section 4
-definition Carers Charter
+section 4, definition Carers Charter
 1. Carers must be treated with respect and dignity.
 2. Carers must be acknowledged as individuals with their own needs within and beyond the role of carer.
 3. The diversity of carers' individual needs must be acknowledged and identified, taking into consideration cultural and linguistic differences, age, disability, religion, socioeconomic status, gender identification and where people live. In particular, it is important to recognise the needs of Aboriginal carers and children and young people who are carers.

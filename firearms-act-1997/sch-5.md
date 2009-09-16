@@ -1,6 +1,5 @@
-## Schedule 5
+## Schedule 5 Category D firearms
 section 3
-CATEGORY D FIREARMS
 Self-loading centre-fire rifles
 Self-loading shotguns with capacity of more than 5 rounds
 Pump action shotguns with capacity of more than 5 rounds

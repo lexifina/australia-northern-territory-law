@@ -1,19 +1,20 @@
 ## Schedule 2 Members and procedures of Advisory Committee, Practitioners Board and Appeals Board
-sections 10, 13 and 18
-1. Period of appointment
+sections 10,
+13 and 18
+1 Period of appointment
 (1) Subject to this Act, a member holds office until the expiration of such period, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 (2) Where a period of appointment is not specified in the instrument of appointment of a member, the member holds office, subject to this Act, for 3 years.
-2. Acting appointment
+2 Acting appointment
 (1) Where a member is or is expected to be absent from duty or from the Territory, the Minister may appoint a person (with, in the case of the Practitioners Board, the same qualification for appointment as the absent member) to act as the member during the absence.
 (2) The Minister may, at any time, terminate an appointment made under subclause (1).
 (3) The validity of a decision of the Committee or Board shall not be questioned in any proceedings on a ground arising from the fact that the occasion for the appointment of a person under subclause (1) had not arisen or that an appointment under subclause (1) had ceased to have effect.
-3. Chairman and Deputy Chairman
+3 Chairman and Deputy Chairman
 (1) In the absence of the Chairman from the Territory or from duty, or when the Chairman is unable to perform his or her functions, the Deputy Chairman may exercise the powers and shall perform the functions of the Chairman under this Act.
 (2) Subject to subclause (3), a member elected or appointed as the Chairman or Deputy Chairman, while the person remains a member, holds office for a period not exceeding 3 years and is eligible for re-election or reappointment.
 (3) The Committee or Board may at any time, by resolution, elect a new Chairman or Deputy Chairman and, on the passing of such a resolution, the person who held the office immediately before the resolution was passed ceases to hold the office.
-4. Resignation of members
+4 Resignation of members
 A member may resign office by writing signed by him or her and given to the Minister.
-5. Dismissal of members
+5 Dismissal of members
 (1) The Minister may terminate the appointment of a member for inability, inefficiency, misbehaviour or physical or mental incapacity.
 (2) If a member:
 (a) is absent, except by leave of the Committee or Board, from 3 consecutive meetings of the Committee or Board; or
@@ -23,9 +24,9 @@ the Minister shall terminate the appointment of the member.
 (4) The Minister must terminate the appointment of a member of the Practitioners Board if:
 (a) the member ceases to be registered in the category of building practitioner the interests of which the member was appointed to represent; or
 (b) the member is found guilty of professional misconduct under section 34P(1)(a).
-5A. Member of Practitioners Board must stand aside if subject of inquiry
+5A Member of Practitioners Board must stand aside if subject of inquiry
 A member of the Practitioners Board who is the subject of an inquiry under Part 3, Division 3A must stand aside until the inquiry is completed and the member has been notified under section 34P(2) of the decision on the inquiry.
-6. Disclosure of interest
+6 Disclosure of interest
 (1) A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Committee or Board (otherwise than as a member of, and in common with other members of, an incorporated company consisting of not less than 25 persons and of which he or she is not a director), shall, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of his or her interest at a meeting of the Committee or Board.
 (2) A disclosure under subsection (1) shall be recorded in the minutes of the Committee or Board and, unless the Committee or Board otherwise determines, the member:
 (a) shall not, while he or she has that interest, take part after the disclosure in a deliberation or decision of the Committee or Board; and
@@ -34,7 +35,7 @@ in relation to the matter.
 (3) For the purpose of the making of a determination under subclause (2) in relation to a member who has made a disclosure under subclause (1), a member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates shall not:
 (a) be present during the deliberations of the Committee or Board for the purpose of making the determination; or
 (b) take part in the making of the determination by the Committee or Board.
-7. Meetings of Committee or Board
+7 Meetings of Committee or Board
 (1) The Chairman shall call such meetings of the Committee or Board as are necessary for the exercise of its powers and the performance of its functions.
 (2) The Minister may, at any time, direct the Chairman to call a meeting of the Committee or Board and the Chairman shall comply with the direction.
 (3) Subject to sections 132 and 133, a meeting of the Committee or Board:
@@ -48,8 +49,8 @@ in relation to the matter.
 (c) a prescribed method of communication.
 (5) A member who participates in a meeting as provided by subclause (4) shall be taken, for the purposes of this Schedule, to be present at the meeting if the member is able to hear and be heard by each member taking part in the meeting, including for the purposes of being counted towards a quorum at the meeting.
 (6) The Committee or Board shall cause records of its meetings to be kept.
-8. Confidentiality
+8 Confidentiality
 Subject to this Act, the Chairman, a member or the Registrar of the Committee or Board shall not disclose information obtained in the course of his or her duties as Chairman, member or Registrar, unless the disclosure is made in the course of those duties.
 Penalty: $2,000.
-9. Protection of members, &c.
+9 Protection of members, &c.
 No action or proceeding, civil or criminal, shall lie against the Chairman, a member or the Registrar of the Committee or Board for or in respect of an act or thing done or omitted to be done in good faith by the person in his or her capacity as Chairman, member or Registrar.

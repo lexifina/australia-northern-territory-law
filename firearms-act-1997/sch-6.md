@@ -1,4 +1,3 @@
-## Schedule 6
+## Schedule 6 Category H firearms
 section 3
-CATEGORY H FIREARMS
 Pistols and air pistols

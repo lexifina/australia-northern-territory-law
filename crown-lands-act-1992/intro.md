@@ -1,2 +1,2 @@
-CROWN LANDS ACT
+CROWN LANDS act
 An Act relating to Crown lands

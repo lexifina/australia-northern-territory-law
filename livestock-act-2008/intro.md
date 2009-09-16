@@ -1,2 +1,2 @@
-LIVESTOCK ACT 2008
+LIVESTOCK ACT
 An Act relating to livestock and associated matters
