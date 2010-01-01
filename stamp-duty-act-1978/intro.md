@@ -1,2 +1,2 @@
-STAMP DUTY ACT
+STAMP DUTY Act
 An Act relating to stamp duty
