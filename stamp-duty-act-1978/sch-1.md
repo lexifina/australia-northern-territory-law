@@ -49,7 +49,9 @@ is a dutiable instrument.
 (2) The duty payable on such an instrument is $20.
 4 Lease of land in the Territory
 (1) A lease of land in the Territory is a dutiable instrument if duty is chargeable on the grant of the lease.
-(2) Duty is only chargeable on the grant of a lease if valuable consideration in addition to, or instead of, rent is given for the lease.
+(2) Duty is only chargeable on the grant of a lease if, in addition to or instead of rent payable for the lease, valuable consideration is given:
+(a) for the lease; or
+(b) for an option under which the lease is granted.
 (3) If valuable consideration in addition to, or instead of, rent is given for a lease, duty is to be calculated at the ad valorem conveyance rate on the amount or value of the consideration.
 (4) However, if a lease is entered into subsequent to, and in conformity with, an agreement for the lease that has been stamped with ad valorem duty, the duty payable on the lease is $5.
 5 Motor vehicle certificate of registration
