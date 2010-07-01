@@ -27,7 +27,7 @@ member means a member of the Tribunal and includes the President of the Tribunal
 (6) A special member vacates office if he or she ceases to be a health practitioner.
 4. Filling of vacancies
 (1) If the office of a permanent member becomes vacant, the Minister may appoint a person to the vacant office for the remainder of the former member's term of office.
-(2) The person appointed to a vacant office under subclause (1) must :
+(2) The person appointed to a vacant office under subclause (1) must:
 (a) if the office is referred to in section 63(2)(a) – be a lawyer; and
 (b) if the office is referred to in section 63(2)(b) – not be a health practitioner or lawyer.
 5. Validity of proceedings etc.
