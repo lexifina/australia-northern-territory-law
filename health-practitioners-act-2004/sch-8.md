@@ -1,5 +1,5 @@
 ## Schedule 8 Provisions relating to pharmacies
-section 130
+section 18C
 1. Definitions
 In this Schedule:
 Aboriginal health service means a service that provides health care primarily to Aboriginals.
@@ -11,8 +11,6 @@ authorised pharmacy service provider means an organisation that operates:
 (a) an Aboriginal health service;
 (b) a pharmacy service that is part of a public hospital; or
 (c) a pharmacy service that is part of a defence force facility.
-Board means the Pharmacy Board of the Northern Territory.
-pharmacist means a person who is registered in the category of registration of pharmacist and holds a current practising certificate.
 pharmacy means premises or the part of premises in which a pharmacy business is carried on.
 pharmacy business means a business that includes the custody of drugs and medicines, the dispensing of medicines on prescription and the supply of scheduled drugs and poisons to consumers by retail.
 pharmacy department means premises or the part of premises in which a pharmacy service is provided.
@@ -30,7 +28,7 @@ If the offender is a body corporate – 2 500 penalty units.
 (3) The Minister must not grant an exemption under subclause (2) unless he or she is satisfied that:
 (a) health services or access to heath services will be improved by granting the exemption; and
 (b) granting the exemption will meet the needs of the community where the pharmacy business is situated.
-(4) Subclause (1) does not apply to a person who immediately before the commencement of section 130 was the owner of a pharmacy business.
+(4) Subclause (1) does not apply to a person who was the owner of a pharmacy business before 23 February 2005.
 (5) Subclause (1) does not apply to a person who is:
 (a) the administrator of the estate of a deceased person to whom that subclause applied;
 (b) the administrator of a person to whom that subclause applies who is declared bankrupt; or
@@ -40,14 +38,12 @@ A person must not own a pharmacy service unless the person is an authorised phar
 Penalty: If the offender is a natural person – 500 penalty units.
 If the offender is a body corporate – 2 500 penalty units.
 4. Conduct of pharmacy business and pharmacy service
-(1) A person must not conduct a pharmacy business from premises unless the premises comply with the standards prescribed by the Board.
+(1) A person must not conduct a pharmacy business from premises unless the premises comply with the standards prescribed by the Pharmacy Committee.
 Penalty: If the offender is a natural person – 500 penalty units.
 If the offender is a body corporate – 2 500 penalty units.
-(2) A person must not conduct a pharmacy service from premises unless the premises comply with the standards prescribed by the Board.
+(2) A person must not conduct a pharmacy service from premises unless the premises comply with the standards prescribed by the Pharmacy Committee.
 Penalty: If the offender is a natural person – 500 penalty units.
 If the offender is a body corporate – 2 500 penalty units.
-(3) For the purposes of this clause, the Board may prescribe standards that apply to premises from which a pharmacy business or pharmacy service must be conducted.
-(4) The standards prescribed under this clause may be included in a code adopted by the Board under section 12.
 5. Pharmacy and pharmacy department to be under direct supervision of pharmacist
 (1) The owner of a pharmacy must ensure that the pharmacy is under the direct supervision of a pharmacist at all times while it is open to the public.
 Penalty: If the offender is a natural person – 500 penalty units.
@@ -64,25 +60,25 @@ Penalty: 500 penalty units.
 (1) An authorised pharmacy business owner must not open the pharmacy business to the public unless the owner has appointed a pharmacist to be the pharmacist-in-charge of the business.
 Penalty: If the offender is a natural person – 500 penalty units.
 If the offender is a body corporate – 2 500 penalty units.
-(2) An authorised pharmacy business owner must notify the Board of an appointment being made under subclause (1) as soon as practicable after it is made.
+(2) An authorised pharmacy business owner must notify the Pharmacy Committee of an appointment being made under subclause (1) as soon as practicable after it is made.
 Penalty: If the offender is a natural person – 20 penalty units.
 If the offender is a body corporate – 100 penalty units.
 (3) An authorised pharmacy service provider must not open the pharmacy department from which the service is provided unless the owner has appointed a pharmacist to be the pharmacist-in-charge of the department.
 Penalty: If the offender is a natural person – 500 penalty units.
 If the offender is a body corporate – 2 500 penalty units.
-(4) An authorised pharmacy service provider must notify the Board of an appointment being made under subclause (3) as soon as practicable after it is made.
+(4) An authorised pharmacy service provider must notify the Pharmacy Committee of an appointment being made under subclause (3) as soon as practicable after it is made.
 Penalty: If the offender is a natural person – 20 penalty units.
 If the offender is a body corporate – 100 penalty units.
-(5) A pharmacist-in-charge appointed under this clause is responsible to the Board for the conduct of the pharmacy business or pharmacy service undertaken at the pharmacy or pharmacy department for which he or she is appointed.
+(5) A pharmacist-in-charge appointed under this clause is responsible for the conduct of the pharmacy business or pharmacy service undertaken at the pharmacy or pharmacy department for which he or she is appointed.
 (6) An appointment cannot be made under this clause if the effect is that a pharmacist would be appointed pharmacist-in-charge of more than one pharmacy or pharmacy department.
 8. Pharmacy superintendent
 (1) A person who owns more than one pharmacy or pharmacy department must appoint a pharmacist to be the pharmacy superintendent for those pharmacies or pharmacy departments.
 Penalty: If the offender is a natural person – 500 penalty units.
 If the offender is a body corporate – 2 500 penalty units.
-(2) A person who makes an appointment under subclause (1) must notify the Board of the appointment being made as soon as practicable after it is made.
+(2) A person who makes an appointment under subclause (1) must notify the Pharmacy Committee of the appointment being made as soon as practicable after it is made.
 Penalty: If the offender is a natural person – 20 penalty units.
 If the offender is a body corporate – 100 penalty units.
-(3) A pharmacy superintendent appointed under this clause is responsible to the Board for the conduct of the pharmacy businesses or pharmacy services undertaken at the pharmacies or pharmacy departments for which he or she is appointed.
+(3) A pharmacy superintendent appointed under this clause is responsible for the conduct of the pharmacy businesses or pharmacy services undertaken at the pharmacies or pharmacy departments for which he or she is appointed.
 9. Pharmacy key holder
 (1) A person must not have in his or her possession the keys to a pharmacy or pharmacy department unless he or she is a pharmacy key holder for the pharmacy or pharmacy department or authorised by the pharmacy key holder.
 Penalty: 50 penalty units.
