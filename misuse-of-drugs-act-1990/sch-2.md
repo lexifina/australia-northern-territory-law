@@ -3,7 +3,7 @@ section 3
 COLUMN 1 Dangerous drug or prohibited plant | COLUMN 2 Traffickable quantity | COLUMN 3 Commercial quantity
 Acetorphine | 2.00 g | 100.00 g
 Acetyl-a-methylfentanyl | 0.005 g | 0.25 g
-Acetyldihydrocodeine, except when compounded with one or more other medicaments – | 2.00 g | 100.00 g
+Acetyldihydrocodeine, except when compounded with one or more other medicaments: | 2.00 g | 100.00 g
 (a) in divided preparations containing not more than 100 mg of acetyldihyd-rocodeine per dosage unit; or
 (b) in undivided preparations with a concentration of not more than 2.5% of acetyldihydrocodeine
 Acetylmethadol | 2.00 g | 100.00 g
