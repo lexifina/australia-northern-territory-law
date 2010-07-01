@@ -32,7 +32,12 @@ It follows from this that, if consideration is given for an asymmetrical partiti
 (d) ad valorem duty has been paid on one of the instruments;
 the duty payable on the other instrument is $5.
 (8) The duty payable on a managed investment scheme conveyance is $20.
-(9) If a conveyance is a grant by the Territory of an estate in fee simple in land, or of a convertible Crown lease, for monetary consideration, the duty is calculated at the ad valorem rate on the amount of the consideration (i.e. without regard to the unencumbered value of the property).
+(9) If a conveyance is a grant by the Territory of an estate in fee simple in land, or of a convertible Crown lease, for monetary consideration, the duty is calculated at the ad valorem rate:
+(a) if paragraphs (b) and (c) do not apply – on the amount of the consideration; or
+(b) if all of the consideration is unascertainable at the time of the grant – the unencumbered value of the land at that time; or
+(c) if part of the consideration is unascertainable at the time of the grant – on the greater of the following:
+(i) the amount of the consideration that is ascertainable at that time;
+(ii) the unencumbered value of the land at that time.
 (10) If a conveyance is a foreclosure order, the duty is calculated at the ad valorem rate on the dutiable value of dutiable property subject to the mortgage to which the foreclosure relates.
 2 Deeds not otherwise charged
 (1) A deed:
@@ -44,6 +49,7 @@ the duty payable on the other instrument is $5.
 (iv) extinguishes a trust;
 is a dutiable instrument.
 (2) The duty payable on such a deed is $20.
+(3) This item does not apply to Special Disability Trust as defined in the Social Security Act 1991 (Cth) or Veterans Entitlement Act 1986 (Cth).
 3 Instrument for the appointment of a trustee
 (1) An instrument for the appointment of a trustee is a dutiable instrument.
 (2) The duty payable on such an instrument is $20.
