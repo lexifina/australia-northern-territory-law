@@ -56,7 +56,7 @@ IPP 6 Access and correction
 (f) providing access would reveal the intentions of the organisation in relation to negotiations with the individual in such a way that would prejudice the negotiations;
 (g) providing access would be unlawful;
 (h) denying access is required or authorised by law;
-(i) providing access would be likely to prejudice an investigation of possible unlawful activity;
+(i) providing access would be likely to prejudice an investigation of possible unlawful activity; or
 (j) providing access would be likely to prejudice one or more of the following by or on behalf of a law enforcement agency:
 (i) preventing, detecting, investigating, prosecuting or punishing an offence or a breach of a prescribed law;
 (ii) enforcing a law relating to the confiscation of proceeds of crime;

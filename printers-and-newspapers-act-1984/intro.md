@@ -1,2 +1,2 @@
-PRINTERS and Newspapers act 1984
+PRINTERS and Newspapers act
 An Act relating to printers and newspapers
