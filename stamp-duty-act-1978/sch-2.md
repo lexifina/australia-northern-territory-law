@@ -19,10 +19,13 @@ Conveyances
 (i) the conveyance is made in accordance with the terms of the trust (but not for valuable consideration); and
 (ii) the property conveyed was acquired by the trustee by virtue of an instrument that was duly stamped, was exempt from duty under this Schedule (or a corresponding previous enactment) or was for some other reason not liable to duty; or
 (c) made by a trustee of a discretionary trust to a beneficiary where:
-(i) the beneficiary is a natural person and, as a result of the conveyance, becomes absolute owner of the property conveyed; and
+(i) the beneficiary is an individual and, as a result of the conveyance, becomes absolute owner of the property conveyed; and
 (ii) the conveyance is not made for valuable consideration (which may take any form including the forgiveness of or release from a debt or obligation) given or to be given by the beneficiary or anyone else; and
 (iii) the conveyance is in accordance with the terms of the trust and the property conveyed was acquired by the trustee by virtue of an instrument that was duly stamped, was exempt from duty under this Schedule (or a corresponding previous enactment) or was for some other reason not liable to duty; or
-(d) made by a trustee as executor of the will, or administrator of the estate, of a deceased person, to a beneficiary of the deceased person's estate in accordance with the provisions of the will or the rules of intestate distribution.
+(d) made by a trustee as executor of the will, or administrator of the estate, of a deceased person, to a beneficiary of the deceased person's estate in accordance with the provisions of the will or the rules of intestate distribution; or
+(e) in relation to which the Commissioner is satisfied of both of the following:
+(i) no valuable consideration is given for the conveyance;
+(ii) the conveyance is made to a Special Disability Trust as defined in the Social Security Act 1991 (Cth) or Veterans Entitlement Act 1986 (Cth).
 7 Conveyance where the Commissioner is satisfied that:
 (a) there are 2 parties to the conveyance and each is the spouse of the other; and
 (b) the property subject to the conveyance is the principal place of residence of the parties to the conveyance; and
@@ -37,7 +40,7 @@ Conveyances
 (a) a grant of an estate in fee simple or lesser estate after the surrender of a convertible Crown lease held over the same land the subject of the grant where:
 (i) the grantee was not the person who surrendered the convertible Crown lease; and
 (ii) the grant, in the opinion of the Commissioner, forms part of a wider transaction amounting, in effect, to a transfer of the estate in the land; or
-(b) a grant of an estate in fee simple or convertible Crown lease for which monetary consideration is given or agreed to be given;
+(b) a grant of an estate in fee simple or convertible Crown lease for which monetary consideration is given or agreed to be given (whether or not the consideration is subject to specified conditions and whether or not those conditions have been met); or
 (c) a grant of a mining tenement.
 13 Transfer under the Petroleum Act, the Energy Pipelines Act, the Petroleum (Submerged Lands) Act or the Petroleum (Prospecting and Mining) Act (repealed) of a lease, licence, permit or other authority, or any agreement to make such a transfer.
 14 Conveyance of dutiable property to an exempt entity if the property is to be used solely by the entity for an exempt use.
