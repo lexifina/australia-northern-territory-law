@@ -52,3 +52,5 @@ section 168(2)
 50. The threshold value for building work carried out by owner-builders.
 51. The method for determining the value of building work for the purposes of this Act.
 52. The procedure for issuing substantial compliance certificates, including making applications, conducting inspections and directing work to be carried out.
+53. Exemption certificates.
+54. The making and giving of declarations.
