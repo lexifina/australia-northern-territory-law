@@ -1,5 +1,6 @@
 ## Schedule 3 Common provisions relating to permits, &c.
-sections 57, 68 and 75
+sections 57,
+68 and 75
 1 Agent to be authorised
 A person shall not act as an agent of an owner for the purpose of making an application for a building permit or occupancy permit unless the person is authorised in writing by the owner to do so.
 Penalty: $1,000.

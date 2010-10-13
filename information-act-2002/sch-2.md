@@ -4,10 +4,10 @@ IPP 1 Collection
 1.1 A public sector organisation must not collect personal information unless the information is necessary for one or more of its functions or activities.
 1.2 A public sector organisation must collect personal information only by lawful and fair means and not in an unreasonably intrusive way.
 1.3 At or before the time (or, if that is not practicable, as soon as practicable after) a public sector organisation collects personal information about an individual from the individual, the organisation must take reasonable steps to ensure that the individual is aware of:
-(a) the identity of the organisation and how to contact it;
-(b) the fact that the individual is able to have access to the information;
-(c) the purpose for which the information is collected;
-(d) the persons or bodies, or classes of persons or bodies, to which the organisation usually discloses information of the same kind;
+(a) the identity of the organisation and how to contact it; and
+(b) the fact that the individual is able to have access to the information; and
+(c) the purpose for which the information is collected; and
+(d) the persons or bodies, or classes of persons or bodies, to which the organisation usually discloses information of the same kind; and
 (e) any law that requires the particular information to be collected; and
 (f) the main consequences (if any) for the individual if all or part of the information is not provided.
 1.4 If it is reasonable and practicable to do so, a public sector organisation must collect personal information about an individual only from the individual.
@@ -48,14 +48,14 @@ IPP 5 Openness
 5.2 On the request of an individual, a public sector organisation must take reasonable steps to inform the individual of the kind of personal information it holds, why it holds the information and how it collects, holds, uses and discloses the information.
 IPP 6 Access and correction
 6.1 If an individual requests a public sector organisation holding personal information about the individual for access to the personal information, the organisation must provide the individual with access to the information except to the extent that:
-(a) providing access would pose a serious threat to the life or health of the individual or another individual;
-(b) providing access would prejudice measures for the protection of the health or safety of the public;
-(c) providing access would unreasonably interfere with the privacy of another individual;
-(d) the request for access is frivolous or vexatious;
-(e) the information relates to existing or anticipated legal proceedings between the organisation and the individual and the information would not be accessible by the process of discovery or subpoena in those proceedings;
-(f) providing access would reveal the intentions of the organisation in relation to negotiations with the individual in such a way that would prejudice the negotiations;
-(g) providing access would be unlawful;
-(h) denying access is required or authorised by law;
+(a) providing access would pose a serious threat to the life or health of the individual or another individual; or
+(b) providing access would prejudice measures for the protection of the health or safety of the public; or
+(c) providing access would unreasonably interfere with the privacy of another individual; or
+(d) the request for access is frivolous or vexatious; or
+(e) the information relates to existing or anticipated legal proceedings between the organisation and the individual and the information would not be accessible by the process of discovery or subpoena in those proceedings; or
+(f) providing access would reveal the intentions of the organisation in relation to negotiations with the individual in such a way that would prejudice the negotiations; or
+(g) providing access would be unlawful; or
+(h) denying access is required or authorised by law; or
 (i) providing access would be likely to prejudice an investigation of possible unlawful activity; or
 (j) providing access would be likely to prejudice one or more of the following by or on behalf of a law enforcement agency:
 (i) preventing, detecting, investigating, prosecuting or punishing an offence or a breach of a prescribed law;
@@ -75,18 +75,18 @@ the organisation must take reasonable steps to comply with that request.
 6.5 A public sector organisation must provide reasons for refusing to provide access to or correct personal information.
 6.6 If a public sector organisation charges a fee for providing access to personal information, the fee is not to be excessive.
 6.7 If an individual requests a public sector organisation for access to or to correct personal information held by the organisation, the organisation must:
-(a) provide access or reasons for refusing access;
+(a) provide access or reasons for refusing access; or
 (b) make the correction or provide reasons for refusing to make it; or
 (c) provide reasons for the delay in responding to the request,
 within a reasonable time.
 IPP 7 Identifiers
 7.1 A public sector organisation must not assign unique identifiers to individuals unless it is necessary to enable the organisation to perform its functions efficiently.
 7.2 A public sector organisation must not adopt a unique identifier of an individual that has been assigned by another public sector organisation unless:
-(a) it is necessary to enable the organisation to perform its functions efficiently;
+(a) it is necessary to enable the organisation to perform its functions efficiently; or
 (b) it has obtained the consent of the individual to do so; or
 (c) it is an outsourcing organisation adopting the unique identifier created by a contract service provider in the performance of its obligations to the outsourcing organisation under a service contract.
 7.3 A public sector organisation must not use or disclose a unique identifier assigned to an individual by another public sector organisation unless:
-(a) the use or disclosure is necessary for the organisation to fulfil its obligations to that other organisation;
+(a) the use or disclosure is necessary for the organisation to fulfil its obligations to that other organisation; or
 (b) IPP 2.1(d), (e), (f) or (g) applies to the use or disclosure; or
 (c) it has obtained the consent of the individual to the use or disclosure.
 7.4 A public sector organisation must not require an individual to provide a unique identifier in order to obtain a service unless its provision:
@@ -96,11 +96,11 @@ IPP 8 Anonymity
 8.1 A public sector organisation must give an individual entering transactions with the organisation the option of not identifying himself or herself unless it is required by law or it is not practicable that the individual is not identified.
 IPP 9 Transborder data flows
 9.1 A public sector organisation must not transfer personal information about an individual to a person (other than the individual) outside the Territory unless:
-(a) the transfer is required or authorised under a law of the Territory or the Commonwealth;
-(b) the organisation reasonably believes that the person receiving the information is subject to a law, or a contract or other legally binding arrangement, that requires the person to comply with principles for handling the information that are substantially similar to these IPPs;
-(c) the individual consents to the transfer;
-(d) the transfer is necessary for the performance of a contract between the organisation and the individual or for the implementation of pre-contractual measures taken in response to the individual's request;
-(e) the transfer is necessary for the performance or completion of a contract between the organisation and a third party, the performance or completion of which benefits the individual;
+(a) the transfer is required or authorised under a law of the Territory or the Commonwealth; or
+(b) the organisation reasonably believes that the person receiving the information is subject to a law, or a contract or other legally binding arrangement, that requires the person to comply with principles for handling the information that are substantially similar to these IPPs; or
+(c) the individual consents to the transfer; or
+(d) the transfer is necessary for the performance of a contract between the organisation and the individual or for the implementation of pre-contractual measures taken in response to the individual's request; or
+(e) the transfer is necessary for the performance or completion of a contract between the organisation and a third party, the performance or completion of which benefits the individual; or
 (f) all of the following apply:
 (i) the transfer is for the benefit of the individual;
 (ii) it is impracticable to obtain the consent of the individual to the transfer;
@@ -108,8 +108,8 @@ IPP 9 Transborder data flows
 (g) the organisation has taken reasonable steps to ensure that the information will not be held, used or disclosed by the person to whom it is transferred in a manner that is inconsistent with these IPPs.
 IPP 10 Sensitive information
 10.1 A public sector organisation must not collect sensitive information about an individual unless:
-(a) the individual consents to the collection;
-(b) the organisation is required by law to collect the information;
+(a) the individual consents to the collection; or
+(b) the organisation is required by law to collect the information; or
 (c) the individual is:
 (i) physically or legally incapable of giving consent to the collection; or
 (ii) physically unable to communicate his or her consent to the collection,
@@ -118,6 +118,6 @@ and collecting the information is necessary to prevent or lessen a serious and i
 10.2 Despite IPP 10.1, a public sector organisation may collect sensitive information about an individual if:
 (a) the collection:
 (i) is necessary for research, or the compilation or analysis of statistics, relevant to government funded targeted welfare or educational services; or
-(ii) is of information relating to an individual's racial or ethnic origin and is for the purpose of providing government funded targeted welfare or educational services;
+(ii) is of information relating to an individual's racial or ethnic origin and is for the purpose of providing government funded targeted welfare or educational services; and
 (b) there is no other reasonably practicable alternative to collecting the information for that purpose; and
 (c) it is impracticable for the organisation to seek the individual's consent to the collection.

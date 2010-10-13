@@ -1,5 +1,6 @@
 ## Schedule 2 Members and procedures of Advisory Committee, Practitioners Board and Appeals Board
-sections 10, 13 and 18
+sections 10,
+13 and 18
 1 Period of appointment
 (1) Subject to this Act, a member holds office until the expiration of such period, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
 (2) Where a period of appointment is not specified in the instrument of appointment of a member, the member holds office, subject to this Act, for 3 years.

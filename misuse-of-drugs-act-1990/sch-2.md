@@ -126,7 +126,7 @@ Metazocine | 7.00 g | 350.00 g
 Methadone | 2.00 g | 100.00 g
 Methamphetamine | 2.00 g | 100.00 g
 Methaqualone | 50.00 g | 2.50 kg
-Methcathione | 2.00 g | 100.00 g
+Methcathinone | 2.00 g | 100.00 g
 2-Methoxy-3,4-methylenedioxyamphetamine | 50.00 g | 2.50 kg
 2-Methoxy-4,5-methylenedioxyamphetamine | 0.50 g | 25.00 g
 4-Methoxy-2,3-methylenedioxyamphetamine | 0.50 g | 25.00 g
