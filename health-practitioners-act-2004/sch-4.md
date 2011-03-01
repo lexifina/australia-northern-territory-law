@@ -6,11 +6,11 @@ committee means a committee of evaluators.
 proceedings includes evaluations and inquiries.
 2. Powers
 (1) A committee or the Tribunal may:
-(a) summon any person to appear before it to give evidence and produce any document specified in the summons;
-(b) require any person appearing before it to produce any document;
-(c) require any person appearing before it to give evidence on oath or affirmation;
-(d) require any person appearing before it to answer questions;
-(e) proceed with and determine any proceedings despite the absence of a person who is summoned to appear;
+(a) summon any person to appear before it to give evidence and produce any document specified in the summons; and
+(b) require any person appearing before it to produce any document; and
+(c) require any person appearing before it to give evidence on oath; and
+(d) require any person appearing before it to answer questions; and
+(e) proceed with and determine any proceedings despite the absence of a person who is summoned to appear; and
 (f) proceed with and determine any proceedings in the absence of a party to the proceedings if satisfied that the party was given reasonable opportunity to appear and failed to do so; and
 (g) adjourn the hearing of any proceedings from time to time and from place to place.
 (2) A committee or the Tribunal may, at any time before or during any proceedings, give directions for the expeditious and efficient hearing of the proceedings.

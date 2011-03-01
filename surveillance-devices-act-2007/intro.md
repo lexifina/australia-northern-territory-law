@@ -1,2 +1,2 @@
-SURVEILLANCE DEVICES act 2007
+SURVEILLANCE DEVICES act
 An Act about the use of surveillance devices

@@ -1,7 +1,7 @@
 ## Schedule 1 Witnesses to instruments
 section 159
 PLACE OF EXECUTION OF INSTRUMENT | PERSONS WHO CAN WITNESS EXECUTION
-In the Northern Territory | a Commissioner for Oaths
+In the Northern Territory | a commissioner for oaths
 a member of the Legislative Assembly
 a legal practitioner
 a person holding office under the Supreme Court Act, the Justices Act, the Local Court Act or the Registration Act

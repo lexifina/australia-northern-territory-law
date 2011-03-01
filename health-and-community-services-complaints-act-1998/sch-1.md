@@ -1,6 +1,6 @@
 ## Schedule 1
 section 9
-1. Limitations on appointment of Commissioner
+1. LIMITATIONS ON APPOINTMENT OF COMMISSIONER
 (1) A person cannot be appointed Commissioner if he or she is:
 (a) a registered provider; or
 (b) a member of a professional association of health service providers.
@@ -8,9 +8,9 @@ section 9
 (a) an industrial organisation; and
 (b) an association of health administrators.
 (3) The Ombudsman may be appointed Commissioner.
-2. Term of appointment
+2. TERM OF APPOINTMENT
 The Commissioner holds office for the term, not longer than 5 years, that is specified in his or her appointment, but is eligible to be re-appointed.
-3. Conditions of appointment
+3. CONDITIONS OF APPOINTMENT
 (1) The Commissioner:
 (a) holds office on terms and conditions, not inconsistent with this Act; and
 (b) is to be paid remuneration, expenses and allowances,
@@ -22,13 +22,13 @@ within 6 sitting days of the Assembly after it is made.
 (3) If an employee, within the meaning of the Public Sector Employment and Management Act, is appointed Commissioner, the employee retains all his or her existing and accruing rights as if service as Commissioner were a continuation of service as an employee.
 (4) If a person ceases to be Commissioner and becomes an employee, within the meaning of the Public Sector Employment and Management Act, service as Commissioner is service in the Public Service of the Northern Territory for the purpose of determining his or her rights as an employee.
 (5) The Commissioner must not engage in remunerative employment outside the duties of his or her office under this Act unless he or she has obtained the consent of the Minister in writing.
-4. Leave of absence
+4. LEAVE OF ABSENCE
 The Minister may grant leave of absence to the Commissioner on terms and conditions that the Minister determines.
-5. Resignation
+5. RESIGNATION
 The Commissioner may resign his or her office by written notice to the Minister.
-6. Retirement
+6. RETIREMENT
 The Minister may, with the consent of the Commissioner, retire the Commissioner on the ground of incapacity.
-7. Termination or suspension of appointment
+7. TERMINATION OR SUSPENSION OF APPOINTMENT
 (1) The Administrator may terminate or suspend the appointment of the Commissioner on the grounds that the Commissioner:
 (a) is physically or mentally incapable of continuing as Commissioner;
 (b) has been guilty of misbehaviour or misconduct; or

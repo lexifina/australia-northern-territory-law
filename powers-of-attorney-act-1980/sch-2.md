@@ -1,7 +1,7 @@
 ## Schedule 2 Witnesses to instruments
 section 6(4)
 Place of execution of instrument | Persons who can witness execution
-The Territory | a Commissioner for Oaths
+The Territory | a commissioner for oaths
 a member of the Legislative Assembly
 a legal practitioner
 a person holding office under the Supreme Court Act, Justices Act, Local Court Act or Registration Act

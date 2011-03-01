@@ -15,6 +15,10 @@ make oath and say as follows:
 which the findings of guilt took place and the dates of
 the findings of guilt.]
 4. From an examination of those records I believe that the person referred to as having been found guilty, in the document(s) now shown to me and marked "B", "C", "D", &c. (respectively) is identical with the person whose fingerprints are on the said card marked "A".
-Sworn at
-this day of , , 19 .
-Before me a person having authority to take affidavits in the State [or Territory] in which the affidavit is sworn.
+Made at [place] on [date] ________________
+By [signature deponent]
+Witnessed by
+Signature
+Office Justice of the peace / commissioner for oaths / person authorised to witness affidavits in place where affidavit is made
+Name
+Address or phone no.

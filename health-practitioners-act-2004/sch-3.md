@@ -1,10 +1,10 @@
 ## Schedule 3 Provisions about meetings of regulatory bodies
 sections 9(3) and 18B(3)
 1. Convening of meetings
-A meeting of a regulatory body may be convened by the Chairperson or by the number of members that constitute a quorum of the regulatory body.
+A meeting of a regulatory body may be convened by the Chairperson or by the number of members that constitute a quorum of the regulatory body .
 2. Procedure at meetings
 (1) The quorum at a meeting of a regulatory body is 3 members of whom 2 must be health practitioners.
-(2) A duly convened meeting of a regulatory body at which a quorum is present is competent to transact any business of the regulatory body.
+(2) A duly convened meeting of a regulatory body at which a quorum is present is competent to transact any business of the regulatory body .
 (3) Questions arising at a meeting of a regulatory body must be determined by a majority of votes of the members present and voting.
 (4) In the event of an equality of votes on a question arising at a meeting of a regulatory body, the question stands adjourned until its next meeting.
 3. Who presides at meetings
@@ -13,7 +13,7 @@ A meeting of a regulatory body may be convened by the Chairperson or by the numb
 4. Minutes
 A regulatory body must keep accurate minutes of its meetings.
 5. Disclosure of interest
-(1) If a member has or acquires an interest (whether pecuniary or otherwise) that would conflict with the proper performance of the member's functions in relation to a matter being considered or about to be considered by the Board, the member must disclose the nature of the interest at a meeting of the regulatory body.
+(1) If a member has or acquires an interest (whether pecuniary or otherwise) that would conflict with the proper performance of the member's functions in relation to a matter being considered or about to be considered by the Board, the member must disclose the nature of the interest at a meeting of the regulatory body .
 (2) A disclosure under subclause (1) must be recorded in the minutes and, unless the regulatory body (exclusive of the member) determines otherwise, the member must not:
 (a) be present during any deliberations of the regulatory body in relation to the matter; or
 (b) take part in any decision of the regulatory body in relation to the matter.
@@ -30,7 +30,7 @@ A regulatory body must keep accurate minutes of its meetings.
 (5) In this clause:
 meeting does not include a meeting convened for the purposes of section 61, 62, 79, or 94.
 7. General procedures
-(1) Subject to this Schedule, the procedure for convening a regulatory body and conducting its business is as determined by the regulatory body.
+(1) Subject to this Schedule, the procedure for convening a regulatory body and conducting its business is as determined by the regulatory body .
 (2) A regulatory body may permit members to participate in a particular meeting by telephone or by other means of communication.
 (3) A member who is permitted to participate in a meeting under subclause (2) is taken to be present at the meeting.
 (4) A regulatory body may allow a person to attend a meeting for the purpose of advising or informing it on any matter.

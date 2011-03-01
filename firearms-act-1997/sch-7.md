@@ -21,6 +21,6 @@ If the offender is a body corporate – 100 penalty units and 10 penalty units f
 (4) Unless the Tribunal otherwise determines, a witness is entitled to receive witness fees as if he or she was a witness in civil proceedings in the Local Court.
 5 Giving of evidence
 (1) The Tribunal may:
-(a) require a person to make an oath or affirmation to answer truthfully all questions put by a member of the Tribunal, or a person appearing before the Tribunal, relevant to the determination of a matter before it; or
+(a) require a person appearing before it to give evidence on oath; or
 (b) require a person giving evidence before the Tribunal to answer a relevant question put by a member of the Tribunal or a person appearing before it (as the case may be).
 (2) A person who appears as a witness before the Tribunal has the same obligations and protection as a witness in proceedings before the Supreme Court.
