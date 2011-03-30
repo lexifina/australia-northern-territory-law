@@ -9,7 +9,7 @@ IPP 1 Collection
 (c) the purpose for which the information is collected; and
 (d) the persons or bodies, or classes of persons or bodies, to which the organisation usually discloses information of the same kind; and
 (e) any law that requires the particular information to be collected; and
-(f) the main consequences (if any) for the individual if all or part of the information is not provided.
+(f) any consequences for the individual if all or part of the information is not provided.
 1.4 If it is reasonable and practicable to do so, a public sector organisation must collect personal information about an individual only from the individual.
 1.5 If a public sector organisation collects personal information about an individual from another person, it must take reasonable steps to ensure that the individual is or has been made aware of the matters listed in IPP 1.3 except to the extent that making the individual aware of the matters would pose a serious threat to the life or health of the individual or another individual.
 IPP 2 Use and disclosure
@@ -21,9 +21,15 @@ IPP 2 Use and disclosure
 (i) the secondary purpose is related to the primary purpose; and
 (ii) the individual would reasonably expect the organisation to use or disclose the information for the secondary purpose;
 (c) the individual consents to the use or disclosure of the information;
+(ca) the use or disclosure is necessary for research, or the compilation or analysis of statistics, in the public interest and the following apply:
+(i) the research, compilation or analysis will not be published in a form that identifies the individual;
+(ii) it is impracticable for the organisation to seek the individual's consent before the use or disclosure;
+(iii) in the case of disclosure – the organisation reasonably believes the recipient of the information will not disclose the information;
+(iv) if the information is health information – the use or disclosure is in accordance with guidelines issued by the Commissioner under section 86(1)(a)(iv) for this paragraph;
 (d) the organisation reasonably believes that the use or disclosure is necessary to lessen or prevent:
 (i) a serious and imminent threat to the individual's or another individual's life, health or safety; or
-(ii) a serious threat to public health or public safety;
+(ii) a serious or imminent threat of harm to, or exploitation of, a child; or
+(iii) a serious threat to public health or public safety;
 (e) the organisation has reason to suspect that unlawful activity has been, is being or may be engaged in and uses or discloses the information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities;
 (f) the use or disclosure is required or authorised by law;
 (g) the organisation reasonably believes that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of a law enforcement agency:
@@ -38,6 +44,10 @@ Note 1: It is not intended to deter public sector organisations from lawfully co
 Note 2: IPP 2.1 does not override any existing legal obligations not to disclose personal information. IPP 2.1 does not require a public sector organisation to disclose personal information – a public sector organisation is always entitled not to disclose personal information in the absence of a legal obligation to disclose it.
 Note 3: A public sector organisation is also liable to the requirements of IPP 9 if it transfers personal information to a person outside the Territory.
 2.2 If a public sector organisation uses or discloses personal information under IPP 2.1(g), the organisation must make a written note of the use or disclosure.
+2.3 In this IPP:
+child, see section 13 of the Care and Protection of Children Act.
+exploitation, see section 16 of the Care and Protection of Children Act.
+harm, see section 15 of the Care and Protection of Children Act.
 IPP 3 Data quality
 3.1 A public sector organisation must take reasonable steps to ensure that the personal information it collects, uses or discloses is accurate, complete and up to date.
 IPP 4 Data security
@@ -70,14 +80,14 @@ IPP 6 Access and correction
 6.3 If a public sector organisation holds personal information about an individual and the individual establishes that the information is not accurate, complete or up to date, the organisation must take reasonable steps to correct the information so that it is accurate, complete and up to date.
 6.4 If:
 (a) an individual and a public sector organisation disagree about whether personal information about the individual held by the organisation is accurate, complete or up to date; and
-(b) the individual requests the organisation to associate with the information a statement to the effect that, in the individual's opinion, the information is inaccurate, incomplete or out of date,
+(b) the individual requests the organisation to associate with the information a statement to the effect that, in the individual's opinion, the information is inaccurate, incomplete or out of date;
 the organisation must take reasonable steps to comply with that request.
 6.5 A public sector organisation must provide reasons for refusing to provide access to or correct personal information.
 6.6 If a public sector organisation charges a fee for providing access to personal information, the fee is not to be excessive.
 6.7 If an individual requests a public sector organisation for access to or to correct personal information held by the organisation, the organisation must:
 (a) provide access or reasons for refusing access; or
 (b) make the correction or provide reasons for refusing to make it; or
-(c) provide reasons for the delay in responding to the request,
+(c) provide reasons for the delay in responding to the request;
 within a reasonable time.
 IPP 7 Identifiers
 7.1 A public sector organisation must not assign unique identifiers to individuals unless it is necessary to enable the organisation to perform its functions efficiently.
@@ -112,7 +122,7 @@ IPP 10 Sensitive information
 (b) the organisation is required by law to collect the information; or
 (c) the individual is:
 (i) physically or legally incapable of giving consent to the collection; or
-(ii) physically unable to communicate his or her consent to the collection,
+(ii) physically unable to communicate his or her consent to the collection;
 and collecting the information is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual or another individual; or
 (d) collecting the information is necessary to establish, exercise or defend a legal or equitable claim.
 10.2 Despite IPP 10.1, a public sector organisation may collect sensitive information about an individual if:
