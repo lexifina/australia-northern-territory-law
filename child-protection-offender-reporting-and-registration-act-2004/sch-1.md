@@ -1,5 +1,6 @@
 ## Schedule 1 Class 1 offences
 section 12(2)
+1A. An offence against section 125E of the Criminal Code (using child for production of child abuse material or pornographic or abusive performance).
 1. An offence against section 127 of the Criminal Code (sexual intercourse or gross indecency involving child under 16 years).
 2. An offence against section 130 of the Criminal Code (sexual intercourse or gross indecency by provider of services to mentally ill or handicapped person) – where the victim is a child.
 3. An offence against section 131A of the Criminal Code (sexual relationship with a child).
@@ -11,5 +12,5 @@ section 12(2)
 9. An offence against section 202C(2) or (3) of the Criminal Code (conducting business involving sexual servitude) – where the victim is a child.
 10. An offence against section 202D(2) of the Criminal Code (deceptive recruiting for sexual services) – where the victim is a child.
 11. An offence committed against section 60 to 69 (inclusive), 70(2), 71, 72 or 74 of the Criminal Law Consolidation Act – where the victim was a child.
-12. An offence against section 50BA of the Crimes Act 1914 of the Commonwealth (sexual intercourse with child under 16 years).
-13. An offence against section 50BB of the Crimes Act 1914 of the Commonwealth (inducing child under 16 years to engage in sexual intercourse).
+12. An offence against section 50BA of the Crimes Act 1914 (Cth) (sexual intercourse with child under 16 years).
+13. An offence against section 50BB of the Crimes Act 1914 (Cth) (inducing child under 16 years to engage in sexual intercourse).
