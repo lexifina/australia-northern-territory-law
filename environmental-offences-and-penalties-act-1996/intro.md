@@ -1,2 +1,2 @@
-Environmental Offences and Penalties act
-An act to establish penalties for certain offences relating to the protection of the environment, and for related purposes
+Environmental Offences and Penalties act 1996
+An act to establish penalties for certain offences under prescribed Acts, and for related purposes
