@@ -4,13 +4,14 @@ definition dutiable instrument
 and section 6
 1 Conveyances
 (1) A conveyance of dutiable property is a dutiable instrument.
-(2) Subject to this clause, the duty payable on a conveyance of dutiable property is determined at the ad valorem rate as follows:
+(2) Subject to this clause, the duty payable on a conveyance of dutiable property is determined as follows:
 (a) if the dutiable value of the dutiable property subject to the conveyance does not exceed $525 000:
 D = (0.06571441 x V2) + 15V
 where:
 D is the duty (expressed in dollars)
 V is 1/1 000 of the dutiable value (expressed in dollars)
-(b) if the dutiable value exceeds $525 000, the duty is 4.95% of the dutiable value.
+(b) if the dutiable value exceeds $525 000 but is less than $3 000 000, the duty is 4.95% of the dutiable value;
+(c) if the dutiable value is $3 000 000 or more, the duty is 5.45% of the dutiable value.
 (3) A conveyance of dutiable property by or to joint tenants is, if the conveyor, or one or more of the conveyors, retains an interest in the property, assessed for duty as a conveyance of the interest that is not retained by the conveyor or conveyors rather than the form of the conveyance but an additional $5 is payable.
 Examples
 1 If property is held jointly by 2 persons, and they convey the property to one of them, the conveyance is assessed for ad valorem duty as a conveyance of a half-share of the property and the total amount of the duty is the amount so assessed plus $5.

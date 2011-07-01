@@ -10,7 +10,7 @@ group threshold amount, see clause 8 of Schedule 1.
 Part 2 Calculation of monthly payroll tax
 Division 1 Rate of payroll tax
 3 Rate of payroll tax
-The rate of payroll tax in this jurisdiction is 5(9%.
+The rate of payroll tax in this jurisdiction is 5.5%.
 Division 2 Employers who are not members of a group
 4 Application of Division
 This Division applies only to an employer who is not a member of a group.
@@ -22,7 +22,7 @@ D is the deductible amount mentioned in clause 6 or 7 (as the case requires).
 R is the rate of payroll tax mentioned in clause 3.
 (2) If D is equal to or more than TW in respect of a month, the employer is not required to pay payroll tax in respect of that month.
 6 Deductible amount for employer who does not pay interstate wages
-(1) For an employer who pays or is liable to pay taxable wages in a month but does not pay and is not liable to pay interstate wages in that month, the deductible amount in respect of that month is $104 166.66.
+(1) For an employer who pays or is liable to pay taxable wages in a month but does not pay and is not liable to pay interstate wages in that month, the deductible amount in respect of that month is an amount not exceeding $125 000 as determined in a manner approved by the Commissioner.
 (2) Subclause (1) applies whether the employer pays or is liable to pay wages for the whole of the month or only part of the month.
 7 Deductible amount for employer who pays interstate wages
 (1) The deductible amount for an employer who pays or is liable to pay taxable wages and interstate wages in a month is an amount determined in a manner approved by the Commissioner.
@@ -53,7 +53,7 @@ TW is the total taxable wages paid or payable by the employer concerned (as a me
 R is the rate of tax mentioned in clause 3.
 (3) For subclauses (1)(a) and (2)(a), if D is equal to or more than JTW or TW in respect of a month (as the case requires), the designated group employer is not required to pay payroll tax in respect of that month.
 10 Deductible amount for groups that do not pay interstate wages
-(1) For a group in which 1 or more members pay or are liable to pay taxable wages in a month but no members pay or are liable to pay interstate wages in that month, the deductible amount in respect of that month is $104 166.66.
+(1) For a group in which 1 or more members pay or are liable to pay taxable wages in a month but no members pay or are liable to pay interstate wages in that month, the deductible amount in respect of that month is an amount not exceeding $125 000 as determined in a manner approved by the Commissioner.
 (2) Subclause (1) applies whether group members pay or are liable to pay wages for the whole of the month or only part of the month.
 11 Deductible amount for groups that pay interstate wages
 (1) The deductible amount for a group in which 1 or more members pay or are liable to pay taxable wages or interstate wages in a month is an amount determined in a manner approved by the Commissioner.
@@ -73,14 +73,17 @@ Part 3 Payroll tax for financial year
 (b) the total taxable wages and interstate wages paid or payable by the group during the financial year is more than the group threshold amount; and
 (c) clause 9 of Schedule 1 does not apply to the group.
 (2) The designated group employer of the group is liable to pay as payroll tax for the financial year the amount of dollars calculated in accordance with the following formula:
-where:
-GTW is the total taxable wages paid or payable by the members of the group during the relevant financial year.
-GIW is the total interstate wages paid or payable by the members of the group during the relevant financial year.
-TA is $1 250 000.
+(3) In this clause:
+AD or annual deduction means the following:
+(a) if the amount worked out in accordance with the following formula is zero or a negative amount – zero;
+(b) otherwise – the amount worked out in accordance with the following formula:
 C is the number of days in the relevant financial year in respect of which at least 1 member of the group paid or was liable to pay (as a member of the group) taxable wages or interstate wages.
 FY is the number of days in the financial year.
-R is 5.9%.
-Note
+GIW is the total interstate wages paid or payable by the members of the group during the relevant financial year.
+GTW is the total taxable wages paid or payable by the members of the group during the relevant financial year.
+R is 5.5%.
+TA or threshold amount is $1 500 000.
+Note for clause 14
 For the calculation of the payroll tax payable for a financial year by an employer who is a member of a group of which there is no designated group employer, see clause 12 of Schedule 1.
 15 Adjustment of payroll tax for group
 (1) If an amount of payroll tax paid for a financial year in respect of a group is greater than the correct amount of payroll tax payable in respect of the financial year for the group, the Commissioner (on application by a member of the group) is to refund the amount equal to the difference to the designated group employer of the group or, if the Commissioner considers it appropriate, another member of the group.

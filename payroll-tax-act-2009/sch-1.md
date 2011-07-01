@@ -7,14 +7,17 @@ employer's threshold amount, see clause 4.
 financial year means the financial year commencing on 1 July 2009 or on 1 July in any subsequent financial year.
 FY means the number of days in the financial year.
 group threshold amount, see clause 8.
-R means 5.9%.
+R means 5.5%.
 relevant financial year means the financial year to which the calculation of the relevant payroll tax relates.
-TA or threshold amount means $1 250 000.
+TA or threshold amount means $1 500 000.
 Part 2 Employers who are not members of group
 2 Application of Part
 This Part applies only to an employer who is not a member of a group.
 3 Definitions
 In this Part:
+AD or annual deduction means the following:
+(a) if the amount worked out in accordance with the following formula is zero or a negative amount – zero;
+(b) otherwise – the amount worked out in accordance with the following formula:
 C means the number of days in the relevant financial year in respect of which the employer paid or was liable to pay taxable wages or interstate wages (otherwise than as a member of a group).
 IW means the total interstate wages paid or payable by the employer concerned (otherwise than as a member of a group) during the relevant financial year.
 TW means the total taxable wages paid or payable by the employer concerned (otherwise than as a member of a group) during the relevant financial year.
@@ -27,6 +30,9 @@ Part 3 Groups with designated group employer
 This Part applies only to an employer who is a member of a group for which there is a designated group employer.
 7 Definitions
 In this Part:
+AD or annual deduction means the following:
+(a) if the amount worked out in accordance with the following formula is zero or a negative amount – zero;
+(b) otherwise – the amount worked out in accordance with the following formula:
 C means the number of days in the relevant financial year in respect of which at least 1 member of the group paid or was liable to pay (as a member of the group) taxable wages or interstate wages.
 GIW means the total interstate wages paid or payable by the group concerned during the relevant financial year.
 GTW means the total taxable wages paid or payable by the group concerned during the relevant financial year.
