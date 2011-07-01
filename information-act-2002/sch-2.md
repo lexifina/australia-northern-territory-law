@@ -119,7 +119,7 @@ IPP 9 Transborder data flows
 IPP 10 Sensitive information
 10.1 A public sector organisation must not collect sensitive information about an individual unless:
 (a) the individual consents to the collection; or
-(b) the organisation is required by law to collect the information; or
+(b) the organisation is authorised or required by law to collect the information; or
 (c) the individual is:
 (i) physically or legally incapable of giving consent to the collection; or
 (ii) physically unable to communicate his or her consent to the collection;
