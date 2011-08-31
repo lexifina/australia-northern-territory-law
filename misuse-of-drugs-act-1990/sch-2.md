@@ -142,7 +142,9 @@ Methcathinone | 2.00 g | 100.00 g
 3-Methoxy-4,5-methylenedioxyphenylethylamine | 0.50 g | 25.00 g
 4-Methoxy-a-methylphenylethylamine (PMA) | 0.50 g | 25.00 g
 4-Methoxyphenyl(1butyl-1h-indol-3-yl)-methanone *(RCS-4 (C4)) | 50.00 g | 500.00 g
+2-(4-Methoxyphenyl)-1-(1-pentyl-1h-indol-3-yl)-ethanone *(JWH-201) | 50.0 g | 500.00 g
 2-(2-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-250) | 50.00 g | 500.00 g
+2-(3-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-302) | 50.0 g | 500.00 g
 4-Methoxyphenylethylamine | 0.50 g | 25.00 g
 3,4-Methylenedioxyamphetamine (MDA) | 0.50 g | 25.00 g
 3,4-Methylenedioxy-N,a-dimethylphenylethylamine (MDMA) | 0.50 g | 25.00 g
@@ -186,6 +188,8 @@ Parahexyl | – | –
 Pentazocine | 20.00 g | 1.00 kg
 Pentobarbitone | 20.00 g | 1.00 kg
 1-Pentyl-3-(4-chloro-1-naphthoyl)indole *(JWH-398) | 50.00 g | 500.00 g
+1-Pentyl-3-(2-chlorophenylacetyl)indole *(JWH-203) | 50.0 g | 500.00 g
+1-Pentyl-3-(4-ethyl-1-naphthoyl)indole *(JWH-210) | 50.0 g | 500.00 g
 1-Pentyl-1h-indol-3-yl-(1-naphthoyl)menthane *(JWH-175) | 50.00 g | 500.00 g
 1-Pentyl-3-[(4-methoxy)-benzoyl]indole *(RCS-4) | 50.00 g | 500.00 g
 1-Pentyl-3-(4-methoxynaphthoyl)indole *(JWH-081) | 50.00 g | 500.00 g
@@ -209,6 +213,7 @@ Proheptazine | 1.00 g | 50.00 g
 Prohibited plant, other than elsewhere described in this Schedule | not less than 5 nor more than19 plants | not less than 20 plants
 Properidine | 25.00 g | 1.25 kg
 Propiram | 10.00 g | 500.00 g
+1-Propyl-2-methyl-3-(1-naphthoyl)indole *(JWH-015) | 50.0 g | 500.00 g
 Psilocybin and its derivatives having hallucinogenic properties | 0.10 g | 5.00 g
 Quinalbarbitone | 20.00 g | 1.00 kg
 Racemethorphan | 2.00 g | 100.00 g
