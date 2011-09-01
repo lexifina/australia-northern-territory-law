@@ -1,10 +1,10 @@
 # 29AAC Breath test and breath analysis
-(1) A police officer may, in the following circumstances, require a person to submit to a breath test or a breath analysis (or both) to determine if the person's blood contains alcohol:
+(1) A police officer may, in the following circumstances, require a person to submit to a breath test or a breath analysis (or both) to determine if the person's breath contains alcohol:
 (a) the person is a driver directed to pull over under section 29AAB(1)(a);
 (b) the officer has reasonable cause to suspect the person:
 (i) has committed an offence against Division 2 or 4; or
 (ii) was the driver of a motor vehicle that was involved in a crash on a road, road-related area or public place; or
-(iii) was involved in a crash on a road, road-related area or public place and the person has, or had at the time of the crash, alcohol in the person's blood.
+(iii) was involved in a crash on a road, road-related area or public place and the person has, or had at the time of the crash, alcohol in the person's breath or blood.
 (2) The officer may only require the person to submit to a breath test or breath analysis if not more than 4 hours has expired since the driver was pulled over or the offence, or crash, mentioned in subsection (1) occurred.
 (3) If a police officer requires a person to submit to a breath test, the person must comply with the directions given by the officer or another police officer.
 (4) If a police officer requires a person to submit to a breath test and:

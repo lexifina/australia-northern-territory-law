@@ -3,4 +3,4 @@
 (a) that a device for the carrying out of a breath analysis is a prescribed breath analysis instrument; and
 (b) for the proper use of a prescribed breath analysis instrument;
 for this Act.
-(2) A court must not receive evidence that a prescribed breath analysis instrument, when it is in good working order and used in accordance with the Regulations relating to its use, does not give a true and correct assessment of the concentration of alcohol in a person's blood.
+(2) A court must not receive evidence that a prescribed breath analysis instrument, when it is in good working order and used in accordance with the Regulations relating to its use, does not give a true and correct assessment of the concentration of alcohol in a person's breath.

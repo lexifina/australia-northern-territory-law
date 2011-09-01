@@ -3,8 +3,8 @@
 (1) This section applies if:
 (a) a court finds a person guilty of any of the following offences:
 (i) driving under the influence of alcohol or a drug;
-(ii) driving with a high range blood alcohol content;
-(iii) driving with a medium range blood alcohol content;
+(ii) driving with a high range breath or blood alcohol content;
+(iii) driving with a medium range breath or blood alcohol content;
 (iv) refusing or failing to provide a sufficient sample of breath for a breath analysis;
 (v) refusing or failing to provide a sample of blood; and
 (b) at the time of committing the offence the person was driving:

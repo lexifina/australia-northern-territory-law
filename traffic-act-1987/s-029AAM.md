@@ -4,7 +4,7 @@
 (a) arrested under section 29AAF(4); or
 (b) taken to a hospital or a health centre under section 29AAG;
 for the purpose of having a sample of blood taken for analysis to determine if the person's blood contains a prohibited drug, a police officer may, before the person is released from custody or departs the hospital or health centre, give the person a notice under this section.
-(2) The notice must be in an approved form and:
+(2) The notice must be in a form approved by the Commissioner and:
 (a) has the effect that the person's licence is suspended immediately the person is given the notice; and
 (b) must inform the person that he or she is disqualified from driving;
 for the period, not exceeding 24 hours, specified in the notice.
