@@ -14,9 +14,9 @@ section 25(1)
 (ii) historical fishing patterns and dependence on the fishery; or
 (iii) the capability of fishing vessels being used, or intended to be used, in the fishery, to operate in other fisheries;
 (g) provide for offences in respect of contravention of or non-compliance with a provision of the plan or a notice, requirement or direction given under the plan and provide for penalties as follows:
-(i) a penalty not exceeding $20 000 for an offence;
+(i) a penalty not exceeding 170 penalty units for an offence;
 (ii) a penalty not exceeding $50 for each fish or item of aquatic life in excess of a specified limit;
-(iii) a penalty not exceeding $500 for each item of gear by which a specified limit in respect of the gear is exceeded;
+(iii) a penalty not exceeding 4 penalty units for each item of gear by which a specified limit in respect of the gear is exceeded;
 (h) contain any other measures considered necessary or desirable for the conservation, management or control of the fishery; or
 (j) provide for the establishment and administration of a scheme for the rationalisation of the fishery and for those purposes may provide for:
 (i) a limitation or reduction in an equitable manner of the number of fishing units licensed to operate in a fishery;
