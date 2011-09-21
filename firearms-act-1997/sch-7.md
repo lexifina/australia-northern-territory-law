@@ -16,7 +16,7 @@ The Tribunal is not bound by the rules of evidence but may inform itself on any 
 (a) personally; or
 (b) by delivering it to a person who has apparently attained the age of 16 years and is apparently residing or employed at the premises at which the person to be served resides or carries on business.
 (3) A person served with a summons to attend before the Tribunal must not, without reasonable excuse, fail to attend the Tribunal or fail to produce any documents in the person's custody or control that are specified in the summons.
-Penalty: If the offender is a natural person – 20 penalty units and 2 penalty units for each day during which the offence continues.
+Maximum penalty: If the offender is an individual – 20 penalty units and 2 penalty units for each day during which the offence continues.
 If the offender is a body corporate – 100 penalty units and 10 penalty units for each day during which the offence continues.
 (4) Unless the Tribunal otherwise determines, a witness is entitled to receive witness fees as if he or she was a witness in civil proceedings in the Local Court.
 5 Giving of evidence

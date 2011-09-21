@@ -5,7 +5,7 @@ NORTHERN TERRITORY OF AUSTRALIA
 The Legislative Assembly
 TO: (Here insert name, description, and address of witness)
 The Legislative Assembly, on (here insert day and date), passed a resolution, a copy of which is attached.
-Pursuant to that resolution and in accordance with the Legislative Assembly (Powers and Privileges) Act and the Standing Orders of the Legislative Assembly, you are hereby summoned to attend at (here insert place), at (here insert day and date), at (here insert time), and you are required to continue in attendance as directed by the Speaker until your attendance is no longer required, to answer questions upon the matters contained in the resolution and matters relevant to the resolution and to produce (here insert the documents required).
+Pursuant to that resolution and in accordance with the Legislative Assembly (Powers and Privileges) Act 1992 and the Standing Orders of the Legislative Assembly, you are hereby summoned to attend at (here insert place), at (here insert day and date), at (here insert time), and you are required to continue in attendance as directed by the Speaker until your attendance is no longer required, to answer questions upon the matters contained in the resolution and matters relevant to the resolution and to produce (here insert the documents required).
 Dated 19 .
 Clerk of the Legislative Assembly
 Form 2
