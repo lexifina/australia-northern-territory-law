@@ -6,7 +6,7 @@ section 3
 4 A self-loading or pump action shotgun (including such a firearm described elsewhere in this Schedule).
 5 A self-loading centre-fire rifle of a kind that is designed or adapted for military purposes.
 6 A self-loading shotgun of a kind that is designed or adapted for military purposes.
-7 A firearm that substantially duplicates in appearance (regardless of calibre or manner of operation) a firearm referred to in item 1, 5 or 6.
+7 A firearm that substantially duplicates in appearance (regardless of calibre or manner of operation) a firearm mentioned in item 1, 5 or 6.
 8 A shotgun fitted with or designed to be fitted with a drum magazine of the "Striker 12" assault shotgun type or any similar weapon.
 9 A firearm to which there is attached an article or device capable of muffling, reducing or stopping the noise created by firing the firearm.
 10 A firearm, not being a pistol, fitted with a stock that is specially designed so as to be readily detachable, or to operate on a swivel, folding or telescopic basis.
