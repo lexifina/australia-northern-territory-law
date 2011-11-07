@@ -73,7 +73,7 @@ The development provisions contained in this instrument apply to the area of lan
 (v) displayed on or inside a vehicle, other than a vehicle that is adapted and exhibited primarily as an advertising sign;
 (vi) an interpretive sign used for describing sites or items of historical or educational significance; or
 (vii) a public safety advisory sign displayed by a government or local government agency;
-(e) the use of land under an extractive mineral permit issued under the Mining Act or authorisation under section 178(2) of that Act for a like purpose.
+(e) the use of land under an extractive mineral permit, or a mineral authority that corresponds to an extractive mineral permit, granted under the Mineral Titles Act.
 (2) In subclause (1):
 sport and recreation does not include a use that involves commercial transactions, motor sports or activities that, because of the generation of noise or disturbance, will detrimentally affect the amenity of adjoining land.
 5 Permitted, discretionary and prohibited development
