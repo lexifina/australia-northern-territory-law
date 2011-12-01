@@ -1,6 +1,7 @@
 ## Schedule 1 Provisions of Code to which Part IIAA applies
 section 1, definition Schedule 1 provision
 Section 66 (Offences relating to riots)
+Section 103A (Threats or reprisals relating to persons involved in criminal investigations or judicial proceedings or against public officers)
 Part VI (Offences against the person and related matters), Division 1A (Preliminary matters), Subdivision 2 (Interpretation)
 Part VI (Offences against the person and related matters), Division 3 (Homicide: Suicide: Concealment of Birth: Abortion) (other than sections 165, 166 and 170)
 Part VI (Offences against the person and related matters), Division 3A (Recklessly endangering life and serious harm, negligently causing serious harm and death or serious harm involving motor vehicles)
