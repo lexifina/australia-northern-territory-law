@@ -123,9 +123,11 @@ Division 3 Paternity leave
 (b) that is not sick leave, recreation leave, annual leave or any similar leave.
 (2) For subclause (1), it is immaterial whether the leave is taken during or after the pregnancy.
 (3) The exemption is limited to wages paid or payable in respect of a maximum of 14 weeks paternity leave given to an employee in respect of any one pregnancy.
-(4) To avoid doubt, a reference in subclause (3) to a period of 14 weeks leave is a reference to:
-(a) a period that is the equivalent of 14 weeks leave on full pay for a full-time employee who takes leave on less than full pay; or
-(b) a period of 14 weeks leave at part-time rates of pay for a part-time employee.
+(4) In subclause (3):
+(a) a reference to 14 weeks paternity leave includes a reference to an equivalent period of leave at a reduced rate of pay; and
+(b) a reference to wages paid or payable in respect of a period of leave is a reference to the total wages that would normally have been paid or payable for that period of leave.
+Example for subclause (4)
+For a part-time employee, the exemption may apply to wages paid or payable for paternity leave that extends to 28 weeks at half of the part-time rate of pay that would normally apply to the employee.
 (5) The exemption does not apply to any part of wages paid or payable in respect of paternity leave that comprises fringe benefits.
 (6) An employer wishing to claim an exemption in respect of paternity leave given to an employee must obtain and keep a statutory declaration by the employee stating that:
 (a) a female is or was pregnant with the employee's unborn child; or
