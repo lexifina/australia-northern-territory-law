@@ -54,3 +54,5 @@ section 168(2)
 52. The procedure for issuing substantial compliance certificates, including making applications, conducting inspections and directing work to be carried out.
 53. Exemption certificates.
 54. The making and giving of declarations.
+55. Consumer protection in relation to prescribed residential building work carried out, or to be carried out, by a residential builder in connection with a building owned by a public authority.
+56. Information sharing between persons exercising powers or performing functions under this Act.
