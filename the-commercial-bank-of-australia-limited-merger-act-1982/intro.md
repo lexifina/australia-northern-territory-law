@@ -1,2 +1,2 @@
-The Commercial Bank of Australia Limited (Merger) act
+The Commercial Bank of Australia Limited (Merger) act 1982
 An Act to supplement The Commercial Bank of Australia Limited (Merger) Act, 1982, of the State of New South Wales which provides for the transfer to Bank of New South Wales of the undertaking of The Commercial Bank of Australia Limited and for the transfer to Bank of New South Wales Savings Bank Limited of the undertaking of the Savings Bank of Australia Limited, and for other purposes

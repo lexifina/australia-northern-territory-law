@@ -1,4 +1,4 @@
-The Commercial Banking Company of Sydney Limited (Merger) Act
+The Commercial Banking Company of Sydney Limited (Merger) Act 1982
 An Act to supplement The Commercial Banking Company of Sydney Limited (Merger) Act, 1982, of the State of New South Wales which provides for the transfer to The National Bank of Australasia Limited of the undertaking of The Commercial Banking Company of Sydney Limited and for the transfer to The National Bank Savings Bank Limited of the undertaking of C. B. C . Savings Bank Limited and for other purposes
 WHEREAS The Commercial Banking Company of Sydney Limited became a wholly owned subsidiary of The National Bank of Australasia Limited in pursuance of schemes of arrangement under the Companies Act, 1961, of the State of New South Wales having effect from 1 October 1981:
 AND WHEREAS C. B. C . Savings Bank Limited is a wholly owned subsidiary of The Commercial Banking Company of Sydney Limited and The National Bank Savings Bank Limited is a wholly owned subsidiary of The National Bank of Australasia Limited:

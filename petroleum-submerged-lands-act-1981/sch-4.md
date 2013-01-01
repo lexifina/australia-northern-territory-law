@@ -487,7 +487,7 @@ only if the operator or the Safety Authority has, in writing, agreed to the prov
 (b) the operator or any work group employer or a person representing the operator or that employer,
 only if the group member consents to the presence of the consultant.
 35 Information
-(1) A health and safety representative or consultant assisting a health and safety representative is not entitled, under clause 33(1)(d)(ii), to have access to information in respect of which a group member is entitled to claim, and does claim, legal professional privilege.
+(1) A health and safety representative or consultant assisting a health and safety representative is not entitled, under clause 33(1)(d)(ii), to have access to information in respect of which a group member is entitled to claim, and does claim, client legal privilege.
 (2) A health and safety representative or consultant assisting a health and safety representative is not entitled, under clause 33(1)(d)(ii), to have access to information of a confidential medical nature relating to a person who is or was a group member unless:
 (a) the person has delivered to the operator or any work group employer a written authority permitting the health and safety representative, or the health and safety representative and the consultant, as the case requires, to have access to the information; or
 (b) the information is in a form that does not identify the person or enable the identity of the person to be discovered.
@@ -566,7 +566,7 @@ Subdivision 3 Duties of the operator and other employers in relation to health a
 unless:
 (c) the person has delivered to the employer a written authority permitting the representative to have access to the information; or
 (d) the information is in a form that does not identify the person or enable the identity of the person to be discovered.
-(4) The operator is not required to give a health and safety representative access to any information in respect of which the operator is entitled to claim, and does claim, legal professional privilege.
+(4) The operator is not required to give a health and safety representative access to any information in respect of which the operator is entitled to claim, and does claim, client legal privilege.
 (5) The duties imposed by this clause on the operator in relation to the health and safety representative for a designated work group apply equally, to the extent that the matters to which the duties relate are within the control of a work group employer or of a supervisor of particular work, to that employer and to that supervisor.
 Division 4 Health and safety committees
 40 Health and safety committees
@@ -610,7 +610,7 @@ Division 4 Health and safety committees
 (3) The operator or any employer (other than the operator) of a member of the workforce must not make available to a health and safety committee information of a confidential nature relating to a person who is or was a member of the workforce unless:
 (a) the person has authorised the information to be made available to the committee; or
 (b) the information is in a form that does not identify the person or enable the identity of the person to be discovered.
-(4) The operator or any employer (other than the operator) of a member of the workforce is not required to make available to a health and safety committee any information in respect of which the operator or employer is entitled to claim, and does claim, legal professional privilege.
+(4) The operator or any employer (other than the operator) of a member of the workforce is not required to make available to a health and safety committee any information in respect of which the operator or employer is entitled to claim, and does claim, client legal privilege.
 Division 5 Emergency procedures
 43 Action by health and safety representatives
 (1) If a health and safety representative for a designated work group has reasonable cause to believe there is an imminent and serious danger to the health or safety of any person at or near the facility unless a group member or group members cease to perform particular work, the representative must:
