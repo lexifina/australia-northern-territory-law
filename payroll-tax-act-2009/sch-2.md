@@ -77,12 +77,10 @@ Part 3 Payroll tax for financial year
 AD or annual deduction means the following:
 (a) if the amount worked out in accordance with the following formula is zero or a negative amount – zero;
 (b) otherwise – the amount worked out in accordance with the following formula:
-C is the number of days in the relevant financial year in respect of which at least 1 member of the group paid or was liable to pay (as a member of the group) taxable wages or interstate wages.
-FY is the number of days in the financial year.
 GIW is the total interstate wages paid or payable by the members of the group during the relevant financial year.
+GTA, see Schedule 1, clause 8.
 GTW is the total taxable wages paid or payable by the members of the group during the relevant financial year.
 R is 5.5%.
-TA or threshold amount is $1 500 000.
 Note for clause 14
 For the calculation of the payroll tax payable for a financial year by an employer who is a member of a group of which there is no designated group employer, see clause 12 of Schedule 1.
 15 Adjustment of payroll tax for group
