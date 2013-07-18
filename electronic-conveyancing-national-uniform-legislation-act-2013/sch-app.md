@@ -25,18 +25,18 @@ Uniform adoption of nationally approved amendments to Electronic Conveyancing Na
 amend includes insert, omit and repeal a provision.
 nationally approved amendment means an amendment of the Electronic Conveyancing National Law set out in the Appendix to the Electronic Conveyancing (Adoption of National Law) Act 2012 (NSW) that is of a kind that has been approved in accordance with the Intergovernmental Agreement.
 Exclusion of legislation of this jurisdiction
-(1) Even though the Interpretation Act applies to the local application provisions of this Act, it does not apply to the Electronic Conveyancing National Law (NT) or to instruments made under that Law other than as prescribed by regulation for this subsection.
+(1) Even though the Interpretation Act 1978 applies to the local application provisions of this Act, it does not apply to the Electronic Conveyancing National Law (NT) or to instruments made under that Law other than as prescribed by regulation for this subsection.
 (2) An Act prescribed by regulation does not apply to the Electronic Conveyancing National Law (NT) or to instruments made under that Law.
 ## Division 2 Provisions for interpretation of National Law as adopted
 Meaning of generic terms
 In the Electronic Conveyancing National Law (NT):
 land titles legislation means:
 (a) the following Acts:
-(i) the Land Title Act;
-(ii) the Law of Property Act;
-(iii) the Real Property (Unit Titles) Act;
-(iv) the Unit Title Schemes Act;
-(v) the Unit Titles Act;
+(i) the Land Title Act 2000;
+(ii) the Law of Property Act 2000;
+(iii) the Real Property (Unit Titles) Act 1975;
+(iv) the Unit Title Schemes Act 2009;
+(v) the Unit Titles Act 1975;
 (vi) any other Act prescribed by regulation for this definition; and
 (b) any regulations made under any of those Acts; and
 (c) any other law of this jurisdiction that authorises or requires something to be registered, noted or recorded in the titles register.
@@ -47,7 +47,7 @@ registry instrument means any document that may be lodged under the land titles 
 (c) getting the registration, note or record of something in the titles register changed, withdrawn or removed.
 responsible tribunal means the Supreme Court.
 this jurisdiction means the Territory.
-titles register means the land register kept under section 6 of the Land Title Act and any other register prescribed by regulation.
+titles register means the land register kept under section 6 of the Land Title Act 2000 and any other register prescribed by regulation.
 ## Part 3 Miscellaneous matters
 Misleading information or document
 (1) A person commits an offence if:
@@ -69,42 +69,5 @@ If the operation of the Electronic Conveyancing National Law (NT) would, apart f
 (b) a court of competent jurisdiction may decide the amount of compensation or make the orders it considers necessary to ensure the acquisition is on just terms.
 Regulations
 The Administrator may make regulations under this Act.
-## Part 4 Consequential amendments
-## Division 1 Land Title Act
-Act amended
-This Division amends the Land Title Act.
-Section 210 amended
-(1) Section 210(1)
-omit
-directions, not inconsistent with this Act,
-insert
-directions
-(2) Section 210(1), after "under this Act"
-insert
-or any other Act
-(3) After section 210(2)(a)
-insert
-(ab) the object of any other Act for which directions are issued; and
-(4) After section 210(2)
-insert
-(2A) The Registrar-General's directions must be consistent with this Act and any other Act for which they are issued.
-## Division 2 Law of Property Act
-Act amended
-This Division amends the Law of Property Act.
-Section 47 amended
-(1) Section 47(5)(c)
-omit
-Act.
-insert
-Act; or
-(2) After section 47(5)(c)
-insert
-(d) the operation of the Electronic Conveyancing National Law (NT).
-(3) Section 47(5)(a), at the end
-insert
-or
-## Division 3 Expiry of Part
-Expiry
-This Part expires on the day after it commences.
 ## Appendix Electronic Conveyancing National Law
 section 3
