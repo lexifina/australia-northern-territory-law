@@ -70,7 +70,7 @@ Financial Arrangements
 Rent Review
 7. (1) The annual rent to be paid under clause 6(a) shall be renegotiated in accordance with this clause on the third anniversary of the commencement date and thereafter at three yearly intervals during the term of this lease (the review dates).
 (2) Negotiations for each review referred to in subclause (1) shall be commenced within 3 months before the relevant review date.
-(3) If the Lessor and the Lessee fail to agree upon the annual rent to be paid on and from a review date (the new rent) the disagreement will be referred to arbitration in accordance with the Commercial Arbitration Act of the Northern Territory by a person appointed jointly by the parties, being a person suitably qualified and in a position to deal with the matter impartially.
+(3) If the Lessor and the Lessee fail to agree upon the annual rent to be paid on and from a review date (the new rent) the disagreement will be referred to arbitration in accordance with the Commercial Arbitration Act 1985 of the Northern Territory by a person appointed jointly by the parties, being a person suitably qualified and in a position to deal with the matter impartially.
 (4) Subject to subclause (5), the arbitrator shall determine a new rent that is fair and reasonable and that in the arbitrator's opinion should have been negotiated between the parties in commercial arms length negotiations conducted in good faith and shall take into account all relevant factors including but not limited to:
 (a) movements in the Consumer Price Index for Darwin (all groups) published by the Australian Bureau of Statistics;
 (b) visitation rates and other indicators of park usage; and
@@ -157,7 +157,7 @@ Research and Information
 (2) The Commission shall provide reasonable equipment and facilities for persons who are in accordance with subclause (1) permitted and directed to assist in the identification and recording of Aboriginal sacred sites within the park.
 (3) The Lessee and the Commission agree to make available to the Chairman of the Jawoyn Association, or any person authorized in writing by the Jawoyn Association, access to all information relating to the park including research reports sponsored, procured or supported by the Lessee or the Commission that is in the possession of the Lessee or the Commission other than information that would be privileged from production in litigation and information the disclosure of which would, in the opinion of the Lessee, involve an unreasonable invasion of the privacy of an individual.
 Disposal of Park Equipment
-21. (1) Subject to any lawful obligation imposed upon the Lessee by a Law of the Northern Territory, if at any time during the term hereof the Lessee is desirous of disposing of its interest in any property or equipment of the Lessee used in the operation of the park, the Lessee shall give to the Lessor for the benefit of the Lessor, the Land Council or its nominee, any relevant Aboriginal association and any other incorporated body the membership of which is limited to relevant Aboriginals or groups of relevant Aboriginals (in this clause referred to as the permitted Aboriginal purchaser) the right of the first refusal to purchase the said property or equipment or any part thereof subject to the following terms and conditions:
+21. (1) Subject to any lawful obligation imposed upon the Lessee by a Law of the Northern Territory, if at any time during the term hereof the Lessee is desirous of disposing of its interest in any property or equipment of the Lessee used in the operation of the park, the Lessee shall give to the Lessor for the benefit of the Lessor, the Land Council or its nominee, any relevant Aboriginal association and any other incorporated body the membership of which is limited to relevant Aboriginals or groups of relevant Aboriginals (in this clause referred to as the permitted Aboriginal purchaser) the right of the first refusal to purchase the said property or equipment or any part thereof subject to the following terms and conditions –
 (a) the Lessee shall give notice in writing to the Land Council of the Lessee's intention to dispose of any such property or equipment. The notice shall constitute an offer by the Lessee to sell any such property or equipment to a permitted Aboriginal purchaser for the purchase of the Lessee's interest therein, which consideration shall not impose any more onerous obligation or duty upon the permitted Aboriginal purchaser or require the permitted Aboriginal purchaser to pay any greater pecuniary sum than the Lessee would impose upon or require from a purchaser other than a permitted Aboriginal purchaser;
 (b) within twenty eight (28) days after giving of the notice a permitted Aboriginal purchaser may give notice in writing to the Lessee of acceptance or rejection of the Lessee's offer to sell;
 (c) in the event of the giving of a notice of acceptance there shall be deemed to be a binding contract for sale by the Lessee and purchase by the permitted Aboriginal purchaser of the Lessee's interest in the said property or equipment for the consideration stated in the Lessee's notice;
@@ -213,16 +213,16 @@ As notified in writing by the Jawoyn Association, or to such other address as th
 (b) if received at any other time – on the business day next following the day of receipt.
 Governing Law
 24. (1) This lease shall be governed by and construed in accordance with the laws in force in the Northern Territory of Australia.
-(2) The parties agree that, except as provided in clause 7, the Commercial Arbitration Act does not apply to this lease and that this lease (except for clause 7) is not an arbitration agreement for the purposes of that Act.
+(2) The parties agree that, except as provided in clause 7, the Commercial Arbitration Act 1985 does not apply to this lease and that this lease (except for clause 7) is not an arbitration agreement for the purposes of that Act.
 Northern Territory of Australia, Conservation Commission and Land Council agree to be bound
 25. The Northern Territory of Australia, the Commission and the Land Council agree to be bound by the terms of this lease.
 Definitions
 (1) In this lease and in the recitals:
 Aboriginal means a person who is a member of the Aboriginal race of Australia.
 Aboriginal tradition has the same meaning as in the Land Rights Act.
-the Act means the Nitmiluk (Katherine Gorge) National Park Act.
+the Act means the Nitmiluk (Katherine Gorge) National Park Act 1989.
 the Board means the Nitmiluk National Park Board established by section 9 of the Act.
-Commission means the Conservation Commission of the Northern Territory established by the Conservation Commission Act.
+Commission means the Conservation Commission of the Northern Territory established by the Conservation Commission Act 1980.
 Jawoyn Association means the Jawoyn Association Aboriginal Corporation.
 Land Council means the Northern Land Council, or if the boundaries of the Northern Land Council are varied so as to exclude the park from its area, then the Land Council for the area of the park established under the Land Rights Act.
 Land Rights Act means the Aboriginal Land Rights (Northern Territory) Act 1976 of the Commonwealth.
@@ -233,7 +233,7 @@ relevant Aboriginals means all the traditional Aboriginal owners of the park and
 relevant Aboriginal Association means the Jawoyn Association and any other incorporated Aboriginal Association or group whose members are relevant Aboriginals.
 sacred sites has the same meaning as in the Land Rights Act. and
 traditional Aboriginal owner has the same meaning as in the Land Rights Act.
-(2) Unless the contrary intention appears this lease shall be interpreted in accordance with the provisions of the Interpretation Act of the Northern Territory where applicable, as if this lease were an Act.
+(2) Unless the contrary intention appears this lease shall be interpreted in accordance with the provisions of the Interpretation Act 1978 of the Northern Territory where applicable, as if this lease were an Act.
 MEMORANDUM OF ENCUMBRANCES
 Nil.
 IN WITNESS the parties have executed this lease on this day of 1989.

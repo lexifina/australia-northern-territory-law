@@ -1,11 +1,11 @@
 ## Schedule 3 Savings and transitional provisions
 section 340
 Part 1 Transitional matters for period before Consumer Affairs and Fair Trading Amendment (National Uniform Legislation) Act 2010
-1. Application of Interpretation Act
+1 Application of Interpretation Act
 The provisions of this Part do not prejudice the operation in relation to the repeals effected by this Act of section 12 of the Interpretation Act so far as that section is consistent with those provisions.
-3. Door to Door Sales
+3 Door to Door Sales
 Notwithstanding the repeal of the enactments specified in paragraph 2 of Schedule 2, the Door to Door Sales Ordinance 1967 as amended shall, on and after the day on which the repeal takes effect, continue to have effect in relation to agreements to which it applied immediately before that day.
-4. Motor Vehicle Dealers
+4 Motor Vehicle Dealers
 (1) In this paragraph, appointed day means the day on which the repeal of the enactments specified in paragraph 4 of Schedule 2 takes effect.
 (2) If it appears to the Commissioner to be desirable to do so having regard to the length of time between:
 (a) the end of the period covered by the report on the operation of the Motor Vehicle Dealers Act 1979 last submitted to the Minister pursuant to section 45 of that Act; and
@@ -20,7 +20,7 @@ the Commissioner shall, as soon as practicable after the appointed day, submit t
 (9) As from the appointed day, all authorities given for the purposes of section 21 of the Motor Vehicle Dealers Act 1979 shall cease to have effect.
 5. Unordered Goods and Services
 Notwithstanding its repeal, the Unordered Goods and Services Ordinance 1972 as amended shall, on and after the day on which the repeal takes effect, continue to have effect in relation to events and matters to which it applied immediately before that day.
-6. Regulations
+6 Regulations
 (1) Regulations may make further provision of a savings or transitional nature consequential on the repeal of any of the enactments specified in Schedule 2.
 (2) A provision referred to in subparagraph (1) shall, if the regulations so provide, have effect despite any other paragraph of this Schedule.
 Part 2 Transitional matters for Consumer Affairs and Fair Trading Amendment (National Uniform Legislation) Act 2010

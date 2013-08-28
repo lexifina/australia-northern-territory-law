@@ -1,2 +1,2 @@
-NORTHERN TERRITORY LAND CORPORATION act
+NORTHERN TERRITORY LAND CORPORATION act 1986
 An Act to provide for the continuation of the Northern Territory Development Land Corporation as the Northern Territory Land Corporation to hold certain land in the Northern Territory, and for related purposes

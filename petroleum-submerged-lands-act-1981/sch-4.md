@@ -118,10 +118,10 @@ workplace, in relation to a facility, means the whole facility or any part of th
 facility does not include a pipeline.
 5 Operator must ensure presence of operator's representative
 (1) The operator of a facility must ensure, at all times when one or more natural persons are present at the facility, there is also present a natural person (the operator's representative at the facility) who has day-to-day management and control of operations at the facility.
-Penalty: If the offender is a natural person – 50 penalty units.
+Maximum penalty: If the offender is a natural person – 50 penalty units.
 If the offender is a body corporate – 250 penalty units.
 (2) The operator of a facility must ensure the name of the operator's representative at the facility is displayed in a prominent place at the facility.
-Penalty: If the offender is a natural person – 50 penalty units.
+Maximum penalty: If the offender is a natural person – 50 penalty units.
 If the offender is a body corporate – 250 penalty units.
 (3) Subclause (1) does not imply that, if the operator is a natural person, the operator's representative at the facility may not be, from time to time, the operator.
 6 Health and safety of persons using accommodation facility
@@ -138,7 +138,7 @@ Division 1 Duties relating to occupational health and safety
 (1) The operator of a facility must take all reasonably practicable steps to ensure:
 (a) the facility is safe and without risk to the health of any person at or near the facility; and
 (b) all work and other activities carried out on the facility are carried out in a manner that is safe and without risk to the health of any person at or near the facility.
-Penalty: If the offender is a natural person – 1 000 penalty units.
+Maximum penalty: If the offender is a natural person – 1 000 penalty units.
 If the offender is a body corporate – 5 000 penalty units.
 (2) Without limiting subclause (1), the operator of a facility must:
 (a) provide and maintain a physical environment at the facility that is safe and without risk to health;
@@ -153,7 +153,7 @@ If the offender is a body corporate – 5 000 penalty units.
 (i) will enable the operator and the members to cooperate effectively in promoting and developing measures to ensure the occupational health and safety of persons at the facility;
 (ii) will provide adequate mechanisms for reviewing the effectiveness of the measures; and
 (iii) provides for the making of an agreement that complies with subclauses (4) and (5).
-Penalty: If the offender is a natural person – 1 000 penalty units.
+Maximum penalty: If the offender is a natural person – 1 000 penalty units.
 If the offender is a body corporate – 5 000 penalty units.
 (3) Subclause (2)(i) does not require the operator of a facility to engage in consultations with a workforce representative unless a member of the workforce at the facility has requested the workforce representative to be involved in those consultations.
 (4) The agreement mentioned in subclause (2)(i)(iii) must be between:
@@ -171,7 +171,7 @@ If the offender is a body corporate – 5 000 penalty units.
 (1) A person who is in control of any part of a facility, or of any particular work carried out at a facility, must take all reasonably practicable steps to ensure:
 (a) that part of the facility, or the place where the work is carried out, is safe and without risk to health; and
 (b) if the person is in control of particular work – the work is carried out in a manner that is safe and without risk to health.
-Penalty: If the offender is a natural person – 1 000 penalty units.
+Maximum penalty: If the offender is a natural person – 1 000 penalty units.
 If the offender is a body corporate – 5 000 penalty units.
 (2) Without limiting subclause (1), a person who is in control of any part of a facility, or of any particular work carried out at a facility, must:
 (a) ensure the physical environment at that part of the facility, or at the place where that work is carried out, is safe and without risk to health;
@@ -179,11 +179,11 @@ If the offender is a body corporate – 5 000 penalty units.
 (c) implement and maintain systems of work at that part of the facility, or in carrying out work at that place, that are safe and without risk to health;
 (d) ensure a means of access to, and egress from, that part of the facility or that place that is safe and without risk to health; and
 (e) provide all members of the workforce located at that part of the facility or engaged on that work, in appropriate languages, with the information, instruction, training and supervision necessary for them to carry out their work in a manner that is safe and without risk to health.
-Penalty: If the offender is a natural person – 1 000 penalty units.
+Maximum penalty: If the offender is a natural person – 1 000 penalty units.
 If the offender is a body corporate – 5 000 penalty units.
 10 Duties of employers
 (1) An employer must take all reasonably practicable steps to protect the health and safety of employees at a facility.
-Penalty: If the offender is a natural person – 1 000 penalty units.
+Maximum penalty: If the offender is a natural person – 1 000 penalty units.
 If the offender is a body corporate – 5 000 penalty units.
 (2) Without limiting subclause (1), an employer must:
 (a) provide and maintain a working environment that is safe for employees and without risk to their health;
@@ -199,7 +199,7 @@ If the offender is a body corporate – 5 000 penalty units.
 (4) An employer must take all reasonable steps to:
 (a) monitor the health and safety of employees; and
 (b) keep records of that monitoring.
-Penalty: If the offender is a natural person – 1 000 penalty units.
+Maximum penalty: If the offender is a natural person – 1 000 penalty units.
 If the offender is a body corporate – 5 000 penalty units.
 11 Duties of manufacturers in relation to plant and substances
 (1) A manufacturer of any plant that the manufacturer ought reasonably to expect will be used by members of the workforce at a facility must take all reasonably practicable steps:
@@ -209,7 +209,7 @@ If the offender is a body corporate – 5 000 penalty units.
 (i) the use for which it is designed and has been tested;
 (ii) details of its design and construction; and
 (iii) any conditions necessary to ensure that, when put to the use for which it was designed and tested, it will be safe and without risk to health.
-Penalty: If the offender is a natural person – 250 penalty units.
+Maximum penalty: If the offender is a natural person – 250 penalty units.
 If the offender is a body corporate – 1 250 penalty units.
 (2) A manufacturer of any substance that the manufacturer ought reasonably to expect will be used by members of the workforce at a facility must take all reasonably practicable steps:
 (a) to ensure the substance is so manufactured as to be, when properly used, safe and without risk to health;
@@ -219,7 +219,7 @@ If the offender is a body corporate – 1 250 penalty units.
 (ii) details of its composition;
 (iii) any conditions necessary to ensure, when put to the use for which it was manufactured and tested, it will be safe and without risk to health; and
 (iv) the first aid and medical procedures that should be followed if the substance causes injury.
-Penalty: If the offender is a natural person – 250 penalty units.
+Maximum penalty: If the offender is a natural person – 250 penalty units.
 If the offender is a body corporate – 1 250 penalty units.
 (3) If:
 (a) plant or a substance is imported into Australia by a person who is not its manufacturer; and
@@ -235,7 +235,7 @@ the first-mentioned person is taken, for this clause, to be the manufacturer of 
 (ii) any risk to the health and safety of members of the workforce at the facility to which the condition of the facility, plant or substance may give rise unless it is properly used;
 (iii) the steps that need to be taken in order to eliminate the risk; and
 (iv) for a substance – the first aid and medical procedures that should be followed if the condition of the substance causes injury to a member of the workforce at the facility.
-Penalty: If the offender is a natural person – 250 penalty units.
+Maximum penalty: If the offender is a natural person – 250 penalty units.
 If the offender is a body corporate – 1 250 penalty units.
 (2) For subclause (1), if a person (the ostensible supplier) supplies to a person a facility, or any plant or substance that is to be used by members of the workforce at a facility, and the ostensible supplier:
 (a) carries on the business of financing the acquisition or the use of goods by other persons;
@@ -245,7 +245,7 @@ a reference in subclause (1) to a supplier must, in relation to the facility, pl
 (3) This clause does not affect the operation of another law of the Territory that imposes an obligation in relation to the sale or supply of goods or the information to be supplied in relation to goods.
 13 Duties of persons erecting facilities or installing plant
 (1) A person who erects or installs a facility or erects or installs any plant at a facility must take all reasonably practicable steps to ensure the facility or plant is not erected or installed in a way that is unsafe or constitutes a risk to health.
-Penalty: If the offender is a natural person – 200 penalty units.
+Maximum penalty: If the offender is a natural person – 200 penalty units.
 If the offender is a body corporate – 1 000 penalty units.
 (2) This clause does not affect the operation of another law of the Territory that imposes an obligation in relation to the erection or installation of structures or goods or the supply of services.
 14 Duties of persons in relation to occupational health and safety
@@ -256,7 +256,7 @@ If the offender is a body corporate – 1 000 penalty units.
 (i) supplied to the person by the operator, an employer of the person or any other person having control of work at a facility (the equipment supplier); and
 (ii) necessary to protect the occupational health and safety of the person or of any other person at or near the facility,
 in accordance with any instructions given by the equipment supplier, consistent with the safe and proper use of the equipment.
-Penalty: If the offender is a natural person – 50 penalty units.
+Maximum penalty: If the offender is a natural person – 50 penalty units.
 If the offender is a body corporate – 250 penalty units.
 (2) Despite subclause (1), the choice or manner of use, or choice and manner of use, of equipment of the kind mentioned in subclause (1)(c)(ii) is a matter that may be, consistently with each listed OHS law:
 (a) agreed on between the equipment supplier and any relevant health and safety representative; or
@@ -732,7 +732,7 @@ the OHS inspector must make a copy of the warrant available to the occupier.
 (6) The purposes specified under subclause (4)(d) must include the identification of the premises in relation to which the warrant is issued.
 53 Obstructing or hindering OHS inspector
 A person must not, without reasonable excuse, obstruct or hinder an OHS inspector in the exercise of an OHS inspector's powers under clause 49, 50 or 51.
-Penalty: If the offender is a natural person – 100 penalty units or imprisonment for 6 months.
+Maximum penalty: If the offender is a natural person – 100 penalty units or imprisonment for 6 months.
 If the offender is a body corporate – 500 penalty units.
 Subdivision 2 Other powers
 54 Power to require assistance and information
@@ -748,7 +748,7 @@ to provide the OHS inspector with reasonable assistance and facilities:
 (a) appropriate transport to or from the facility for the OHS inspector and for any equipment required by the OHS inspector, and any article of which the OHS inspector has taken possession; and
 (b) reasonable accommodation and means of subsistence while the OHS inspector is at the facility.
 (3) A person must not fail, without reasonable excuse, to comply with a requirement under this clause.
-Penalty: If the offender is a natural person – 100 penalty units or imprisonment for 6 months.
+Maximum penalty: If the offender is a natural person – 100 penalty units or imprisonment for 6 months.
 If the offender is a body corporate – 500 penalty units.
 55 Power to require answering of questions and production of documents or articles
 (1) If:
@@ -778,7 +778,7 @@ the OHS inspector may, to the extent it is reasonably necessary to do so in conn
 (5) A person must not:
 (a) fail, without reasonable excuse, to comply with a requirement under this clause; or
 (b) in purported compliance with a requirement under this clause, give information that is false or misleading in a material particular.
-Penalty: If the offender is a natural person – 30 penalty units or imprisonment for 6 months.
+Maximum penalty: If the offender is a natural person – 30 penalty units or imprisonment for 6 months.
 If the offender is a body corporate – 150 penalty units.
 56 Privilege against self-incrimination
 (1) A person is not excused from answering a question or producing a document or article when required to do so under clause 55 on the ground that the answer to the question, or the production of the document or article, may tend to incriminate the person or make the person liable to a penalty.
@@ -821,7 +821,7 @@ of the taking of possession or the taking of the sample and the reasons for it.
 (ii) involving the plant, substance or thing,
 to which the direction relates – that representative.
 (7) The operator of a facility to which a direction concerning a workplace, plant, substance or thing relates must ensure the direction is complied with.
-Penalty: If the offender is a natural person – 250 penalty units.
+Maximum penalty: If the offender is a natural person – 250 penalty units.
 If the offender is a body corporate – 1 250 penalty units.
 (8) A direction under subclause (2) must be accompanied by a statement specifying the reasons for the direction.
 59 Power to issue prohibition notices
@@ -843,7 +843,7 @@ If the offender is a body corporate – 1 250 penalty units.
 (7) If the notice relates to any workplace, plant, substance or thing that is owned by a person other than the operator, the OHS inspector must, on issuing the notice, give a copy of the notice to that person.
 60 Compliance with prohibition notice
 (1) An operator must ensure a prohibition notice issued to the operator is complied with.
-Penalty: If the offender is a natural person – 250 penalty units.
+Maximum penalty: If the offender is a natural person – 250 penalty units.
 If the offender is a body corporate – 1 250 penalty units.
 (2) If an OHS inspector is satisfied action taken by the operator to remove the threat to health and safety in respect of which the notice was issued is not adequate, the OHS inspector must inform the operator accordingly.
 (3) A prohibition notice ceases to have effect when an OHS inspector notifies the operator that the OHS inspector is satisfied the operator has taken adequate action to remove the threat to health or safety.
@@ -880,17 +880,17 @@ the owner; and
 (ii) if the employer of employees who work in that workplace or who use that plant, substance or thing is a person other than the operator – the employer.
 62 Compliance with improvement notice
 A person to whom an improvement notice is issued must comply with it to the extent the notice relates to any matter over which the person has control.
-Penalty: If the offender is a natural person – 100 penalty units.
+Maximum penalty: If the offender is a natural person – 100 penalty units.
 If the offender is a body corporate – 500 penalty units.
 63 Notices not to be tampered with or removed
 (1) A person must not, without reasonable excuse, tamper with any notice that has been displayed under clause 57(3), 58(5), 59(6) or 61(7) while that notice is so displayed.
-Penalty: If the offender is a natural person – 100 penalty units.
+Maximum penalty: If the offender is a natural person – 100 penalty units.
 If the offender is a body corporate – 500 penalty units.
 (2) If a notice has been displayed under clause 57(3), a person must not, without reasonable excuse, remove the notice until the plant or thing to which the notice relates is returned to the workplace from which it was removed.
-Penalty: If the offender is a natural person – 100 penalty units.
+Maximum penalty: If the offender is a natural person – 100 penalty units.
 If the offender is a body corporate – 500 penalty units.
 (3) If a notice has been displayed under clause 58(5), 59(6) or 61(7), a person must not, without reasonable excuse, remove the notice before it has ceased to have effect.
-Penalty: If the offender is a natural person – 100 penalty units.
+Maximum penalty: If the offender is a natural person – 100 penalty units.
 If the offender is a body corporate – 500 penalty units.
 Division 4 Reports on inspections
 64 Reports on inspections
@@ -977,11 +977,11 @@ the operator must, in accordance with the regulations, give the Safety Authority
 that matter is treated as proved unless the court is satisfied in relation to that matter the person complied with that provision of a listed OHS law otherwise than by complying with the code of practice.
 71 Interference etc. with protective equipment and safety devices
 A person must not, without reasonable excuse, do anything that results in the interference with, or the rendering ineffective of, any protective equipment or safety device provided for the occupational health and safety or welfare of members of the workforce at a facility if the person knew (or ought reasonably to have known) the equipment or device was protective equipment or a safety device.
-Penalty: If the offender is a natural person – 500 penalty units or imprisonment for 2 years.
+Maximum penalty: If the offender is a natural person – 500 penalty units or imprisonment for 2 years.
 If the offender is a body corporate – 2 500 penalty units.
 72 Members of workforce not to be levied
 The operator of a facility or an employer (other than the operator) of members of the workforce at a facility must not levy, or permit to be levied, on a member of the workforce any charge in relation to anything done or provided in accordance with a listed OHS law in order to ensure the occupational health and safety or welfare of persons at or near the facility.
-Penalty: If the offender is a natural person – 250 penalty units.
+Maximum penalty: If the offender is a natural person – 250 penalty units.
 If the offender is a body corporate – 1 250 penalty units.
 73 Victimisation
 (1) An employer (whether the operator or another person) must not:
@@ -995,7 +995,7 @@ because the employee:
 (g) has ceased, or proposes to cease, to perform work, in accordance with a direction by a health and safety representative under clause 43(1)(b) or (3)(c), and the cessation or proposed cessation does not continue after:
 (i) the health and safety representative has agreed with a person supervising the work that the cessation or proposed cessation was not, or is no longer, necessary; or
 (ii) an OHS inspector has, under clause 43(5), made a decision that has the effect that the employee should perform the work.
-Penalty: If the offender is a natural person – 250 penalty units.
+Maximum penalty: If the offender is a natural person – 250 penalty units.
 If the offender is a body corporate – 1 250 penalty units.
 (2) In a proceeding for an offence against subclause (1), if all the relevant facts and circumstances (other than the reason for an action alleged in the charge) are proved, the defendant has the onus of establishing the action was not taken for that reason.
 74 Institution of prosecutions
