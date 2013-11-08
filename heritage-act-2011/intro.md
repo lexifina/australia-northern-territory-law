@@ -1,2 +1,2 @@
-HERITAGE ACT 2011
+HERITAGE ACT
 An Act about the Territory's cultural and natural heritage
