@@ -131,7 +131,6 @@ Ketobemidone | 2.00 g | 100.00 g
 Ketamine | 0.002g | 0.10 g
 Khat leaf | 250.00 g | 5.00 kg
 Levamphetamine | 2.00 g | 100.00 g
-Levomethamphetamine | 2.00 g | 100.00 g
 Levomethorphan | 2.00 g | 100.00 g
 Levomoramide | 2.00 g | 100.00 g
 Levophenacylmorphan | 2.00 g | 100.00 g
@@ -141,7 +140,6 @@ Mescaline – see 3,4,5-Trimethoxyphenethylamine
 Mescaline and other substances structurally derived from methoxyphenylethylamine having hallucinogenic properties | 7.50 g | 375.00 g
 Metazocine | 7.00 g | 350.00 g
 Methadone | 2.00 g | 100.00 g
-Methamphetamine | 2.00 g | 100.00 g
 Methaqualone | 50.00 g | 2.50 kg
 Methcathinone | 2.00 g | 100.00 g
 2-Methoxy-3,4-methylenedioxyamphetamine | 50.00 g | 2.50 kg
@@ -162,7 +160,6 @@ Methcathinone | 2.00 g | 100.00 g
 2-Methyl-3-morpholino-1,1-diphenylpropane Carboxylic Acid (Moramide intermediate) | 8.00 g | 400.00 g
 1-Methyl-4-phenylpiperidine-4-carboxylic acid (Pethidine intermediate C) | 10.00 g | 500.00 g
 1-Methyl-4-phenyl-4-propionoxypiperidine (MPPP) | 2.00 g | 100.00 g
-Methylamphetamine | 2.00 g | 100.00 g
 Methyldesorphine | 2.00 g | 100.00 g
 Methyldihydromorphine | 2.00 g | 100.00 g
 3,4-Methylenedioxyamphetamine | 0.50 g | 25.00 g
