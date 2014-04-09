@@ -1,4 +1,4 @@
-## Schedule 2
+## Schedule 2 Dangerous drugs
 section 3
 COLUMN 1 Dangerous drug or prohibited plant | COLUMN 2 Traffickable quantity | COLUMN 3 Commercial quantity
 Acetorphine | 2.00 g | 100.00 g
@@ -25,23 +25,19 @@ Amphetamine | 2.00 g | 100.00 g
 Amylobarbitone | 20.00 g | 1.00 kg
 Anileridine | 25.00 g | 1.25 kg
 Benzethidine | 10.00 g | 500.00 g
-Benzylmorphine | 5.00 g | 250.00 g
-Benzylmorphine (3-benzylmorphine) | 5.00 g | 250.00 g
 Benzoylindoles | 50.0 g | 500.00 g
-1-Benzylpiperazine | 2.00 g | 100.00 g
+Benzylmorphine | 5.00 g | 250.00 g
+Benzylpiperazine | 2.00 g | 100.00 g
 Betacetylmethadol | 5.00 g | 250.00 g
 Betameprodine | 5.00 g | 250.00 g
 Betamethadol | 5.00 g | 250.00 g
 Betaprodine | 5.00 g | 250.00 g
 Bezitramide | 5.00 g | 250.00 g
+Bromo-dimethoxyamphetamine | 0.05 g | 2.50 g
+Bromo-dimethoxyphenethylamine | 0.50 g | 25.00 g
 2-(4-bromo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (25B-NBOMe) | 0.50 g | 25.00 g
-4-Bromo-2.5-dimethoxyamphetamine | 0.05 g | 2.50 g
-4-Bromo-3,5-dimethoxyamphetamine | 0.50 g | 25.00 g
-4-Bromo-2,5-dimethoxyphene-thylamine (BDMPEA) | 0.50 g | 25.00 g
-3-Bromo-4-methoxyamphetamine | 0.50 g | 25.00 g
-4-Bromo-3-methoxyamphetamine | 0.50 g | 25.00 g
+Bromo-methoxyamphetamine | 0.50 g | 25.00 g
 Bufotenine | 2.00 g | 100.00 g
-Bufotenine and its derivatives having hallucinogenic properties | 2.00 g | 100.00 g
 Butobarbitone | 20.00 g | 1.00 kg
 Butorphanol | 2.00 g | 100.00 g
 Cannabis oil | 1.00 g | 25.00 g
@@ -64,7 +60,6 @@ Cyclobarbitone | 20.00 g | 1.00 kg
 Cyclohexylphenols | 50.0 g | 500.00 g
 Cyclopropanoylindoles | 50.0 g | 500.00 g
 Desomorphine | 2.00 g | 100.00 g
-Dexamphetamine | 2.00 g | 100.00 g
 Dextromoramide | 2.00 g | 100.00 g
 Dextropropoxyphene, except when: (a) in divided preparations containing 135 mg or less of dextropropoxyphene per dosage unit; or (b) in liquid preparations containing 2.5% or less of dextropropoxyphene | 27.00 g | 1.35 kg
 Diampromide | 5.00 g | 250.00 g
@@ -75,23 +70,16 @@ Dihydrocodeine, except when compounded with one or more other medicaments: (a) i
 Dihydromorphine | 10.00 g | 500.00 g
 Dimenoxadol | 10.00 g | 500.00 g
 Dimepheptanol | 10.00 g | 500.00 g
-2,4-Dimethoxyamphetamine | 0.50 g | 25.00 g
-3,4-Dimethoxyamphetamine | 0.50 g | 25.00 g
-2,5-Dimethoxy-4-bromoamphetamine (DOB) | 0.50 g | 25.00 g
-3,4-Dimethoxy-5-ethoxyamphetamine | 0.50 g | 25.00 g
-2,5-Dimethoxy-4-ethoxyamphetamine | 0.50 g | 25.00 g
-4,5-Dimethoxy-2-ethoxyamphetamine | 0.50 g | 25.00 g
-2,5-Dimethoxy-4-ethyl-a-methylphenylethylamine (DOET) | 0.50 g | 25.00 g
-2,5-Dimethoxy-4-methylamphetamine and other substances structurally derived from methoxyphenylethylamine having hallucinogenic properties | 2.00 g | 100.00 g
-2,3-Dimethoxy-4,5-methylenedioxyamphetamine | 0.50 g | 25.00 g
-2,5-Dimethoxy-3,4- methylenedioxyamphetamine | 0.50 g | 25.00 g
-2,5-Dimethoxy-a-methylphenylethylamine (DMA) | 0.50 g | 25.00 g
-3,4-Dimethoxyphenylethylamine | 0.50 g | 25.00 g
+Dimethoxyamphetamine | 0.50 g | 25.00 g
+Dimethoxyethoxyamphetamine | 0.50 g | 25.00 g
+Dimethoxyethylamphetamine | 0.50 g | 25.00 g
+Dimethoxymethamphetamine | 0.50 g | 25.00 g
+Dimethoxymethylenedioxyamphetamine | 0.50 g | 25.00 g
+Dimethoxyphenethylamine | 0.50 g | 25.00 g
 3-(2-Dimethylaminoethyl)-4-hydroxyindole (Psilocine, Psilotsin) | 0.10 g | 5.00 g
 3-(1,2-Dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo (b,d)pyran (DMHP) | 2.00 g | 100.00 g
 Dimethylthiambutene | 20.00 g | 1.00 kg
 N,N,-Dimethyltryptamine (DMT) | 2.00 g | 100.00 g
-N:N-Dimethyltryptamine and its derivatives having hallucinogenic properties | 2.00 g | 100.00 g
 Dioxaphetyl Butyrate | 2.00 g | 100.00 g
 Diphenoxylate, except in preparations containing, per dosage unit, 2.5 mg or less of diphenoxylate and a quantity of atropine sulphate equivalent to at least 1% of the dose of diphenoxylate | 2.00 g | 100.00 g
 Dipipanone | 10.00 g | 500.00 g
@@ -107,6 +95,7 @@ Etorphine | 5.00 g | 250.00 g
 Etoxeridine | 5.00 g | 250.00 g
 Fenetylline | 2.00 g | 100.00 g
 Fentanyl | 0.005 g | 0.25 g
+Fluorofentanyl | 0.005 g | 0.25 g
 (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone *(XLR11) | 50.0 g | 500.00 g
 1-(5-Fluoropentyl)-3-(2-iodobenzoyl)indole *(AM-694) | 50.00 g | 500.00 g
 1-(5-Fluoropentyl)-3-(1-naphthoyl)indole *(AM-2201) | 50.00 g | 500.00 g
@@ -120,53 +109,46 @@ Hydromorphinol | 2.00 g | 100.00 g
 Hydromorphone | 2.00 g | 100.00 g
 2-[(1R,3S)-3-Hydroxycyclohexyl]-5-(2-methylnonan-2-yl)phenol *(Cannabicyclohexanol or CP 47,497 C8 homologue) | 50.00 g | 500.00 g
 2-[(1R,3S)-3-Hydroxycyclohexyl]-5-(2-methyloctan-2-yl)phenol *(CP 47,497) | 50.00 g | 500.00 g
-B-Hydroxyfentanyl | 0.005 g | 0.25 g
+Hydroxyfentanyl | 0.005 g | 0.25 g
 9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6A,7,10,10A-tetrahydrobenzo[c]chromen-1-ol *(HU-210) | 50.00 g | 500.00 g
-B-Hydroxy-3-methylfentanyl | 0.005 g | 0.25 g
+Hydroxymethylfentanyl | 0.005 g | 0.25 g
 Hydroxypethidine | 5.00 g | 250.00 g
-4-Hydroxybutanoic acid | 2.00g | 100.00g
+4-Hydroxybutanoic acid | 2.00 g | 100.00 g
 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (25I-NBOMe) | 0.50 g | 25.00 g
 Isomethadone | 2.00 g | 100.00 g
 Ketobemidone | 2.00 g | 100.00 g
-Ketamine | 0.002g | 0.10 g
+Ketamine | 0.002 g | 0.10 g
 Khat leaf | 250.00 g | 5.00 kg
-Levamphetamine | 2.00 g | 100.00 g
 Levomethorphan | 2.00 g | 100.00 g
 Levomoramide | 2.00 g | 100.00 g
 Levophenacylmorphan | 2.00 g | 100.00 g
 Levorphanol | 1.00 g | 50.00 g
 Mecloqualone | 60.00 g | 3.00 kg
-Mescaline – see 3,4,5-Trimethoxyphenethylamine
-Mescaline and other substances structurally derived from methoxyphenylethylamine having hallucinogenic properties | 7.50 g | 375.00 g
 Metazocine | 7.00 g | 350.00 g
 Methadone | 2.00 g | 100.00 g
 Methaqualone | 50.00 g | 2.50 kg
 Methcathinone | 2.00 g | 100.00 g
-2-Methoxy-3,4-methylenedioxyamphetamine | 50.00 g | 2.50 kg
-2-Methoxy-4,5-methylenedioxyamphetamine | 0.50 g | 25.00 g
-4-Methoxy-2,3-methylenedioxyamphetamine | 0.50 g | 25.00 g
-5-Methoxy-3,4-methylenedioxy-a-methylphenylethylamine (MMDA) | 0.50 g | 25.00 g
-2-Methoxy-3,4-methylenedioxyphenylethylamine | 0.50 g | 25.00 g
-3-Methoxy-4,5-methylenedioxyphenylethylamine | 0.50 g | 25.00 g
-4-Methoxy-a-methylphenylethylamine (PMA) | 0.50 g | 25.00 g
+Methoxyethylenedioxyamphetamine | 0.50 g | 25.00 g
+Methoxyethylenedioxyphenylethylamine | 0.50 g | 25.00 g
+Methoxyamphetamine | 0.50 g | 25.00 g
+Methoxymethylenedioxyamphetamine (MMDA) | 0.50 g | 25.00 g
+Methoxymethylenedioxyphenethylamine | 0.50 g | 25.00 g
 4-Methoxyphenyl(1butyl-1h-indol-3-yl)-methanone *(RCS-4 (C4)) | 50.00 g | 500.00 g
 2-(4-Methoxyphenyl)-1-(1-pentyl-1h-indol-3-yl)-ethanone *(JWH-201) | 50.0 g | 500.00 g
 2-(2-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-250) | 50.00 g | 500.00 g
 2-(3-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-302) | 50.0 g | 500.00 g
-4-Methoxyphenylethylamine | 0.50 g | 25.00 g
-3,4-Methylenedioxyamphetamine (MDA) | 0.50 g | 25.00 g
-3,4-Methylenedioxy-N,a-dimethylphenylethylamine (MDMA) | 0.50 g | 25.00 g
-3,4-Methylenedioxy-N-ethylamphetamine (MDE) | 0.50 g | 25.00 g
+Methoxyphenylethylamine | 0.50 g | 25.00 g
+Methylenedioxyamphetamine (MDA); | 0.50 g | 25.00 g
+Methylenedioxyethylamphetamine (MDEA) | 0.50 g | 25.00 g
 2-Methyl-3-morpholino-1,1-diphenylpropane Carboxylic Acid (Moramide intermediate) | 8.00 g | 400.00 g
 1-Methyl-4-phenylpiperidine-4-carboxylic acid (Pethidine intermediate C) | 10.00 g | 500.00 g
 1-Methyl-4-phenyl-4-propionoxypiperidine (MPPP) | 2.00 g | 100.00 g
 Methyldesorphine | 2.00 g | 100.00 g
 Methyldihydromorphine | 2.00 g | 100.00 g
-3,4-Methylenedioxyamphetamine | 0.50 g | 25.00 g
-3-Methylfentanyl | 0.005 g | 0.25 g
-a-Methylfentanyl | 0.005 g | 0.25 g
+Methylenedioxymethamphetamine (MDMA) | 0.50 g | 25.00 g
+Methylfentanyl | 0.005 g | 0.25 g
 Methylphenidate | 2.00 g | 100.00 g
-3-Methylthiofentanyl | 0.005 g | 0.25 g
+Methylthiofentanyl | 0.005 g | 0.25 g
 Metopon | 2.00 g | 100.00 g
 Morpheridine | 2.00 g | 100.00 g
 Morphine | 2.00 g | 100.00 g
@@ -175,10 +157,10 @@ Morphine-N-oxide | 2.00 g | 100.00 g
 (1-(2-Morpholin-4-ylethyl)indol-3-yl)-naphthalen-1-ylmethanone *(JWH-200) | 50.00 g | 500.00 g
 Muscimol | 2.00 g | 100.00 g
 Myrophine | 20.00 g | 1.00 kg
-Nabilone | 0.40 g | 20.00 g
 N-adamantyl-1-fluoropentylindole-3-Carboxamide *(STS-135) | 50.0 g | 500.00 g
 N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide *(AKB48) | 50.0 g | 500.00 g
 1-[(N-methylpiperidin-2-yl)methyl]-3-(adamant-1-oyl) indole *(AM-1248) | 50.0 g | 500.00 g
+Nabilone | 0.40 g | 20.00 g
 Naphthalen-1-yl-(1-butylindol-3-yl)methanone *(JWH-073) | 50.00 g | 500.00 g
 Naphthoylindoles | 50.0 g | 500.00 g
 Naphthoylpyrroles | 50.0 g | 500.00 g
@@ -188,7 +170,6 @@ Nicocodine, except when compounded with one or more other medicaments: (a) in di
 Nicodicodine, except when compounded with one or more other medicaments: (a) in divided preparations containing not more than 100 mg of nicodicodine per dosage unit; or (b) in undivided preparations with a concentration of not more than 2.5% of nicodicodine | 2.00 g | 100.00 g
 Nicomorphine | 2.00 g | 100.00 g
 Noracylmethadol | 2.00 g | 100.00 g
-Noracymethadol | 2.00 g | 100.00 g
 Norcodeine, except when compounded with one or more other medicaments: (a) in divided preparations containing not more than 100 mg of norcodeine per dosage unit; or (b) in undivided preparations with a concentration of not more than 2.5% of norcodeine | 2.00 g | 100.00 g
 Norlevorphanol | 2.00 g | 100.00 g
 Normethadone | 5.00 g | 250.00 g
@@ -197,7 +178,6 @@ Norpipanone | 10.00 g | 500.00 g
 Opium in any form, except the alkaloids noscapine and papaverine | 20.00 g | 100.00 g
 Oxycodone | 5.00 g | 250.00 g
 Oxymorphone | 2.00 g | 100.00 g
-Para-fluorofentanyl | 0.005 g | 0.25 g
 Parahexyl | – | –
 Pentazocine | 20.00 g | 1.00 kg
 Pentobarbitone | 20.00 g | 1.00 kg
@@ -226,36 +206,30 @@ Piminodine | 10.00 g | 500.00 g
 Piritramide | 1.00 g | 50.00 g
 Pravadoline *(WIN 48098) | 50.00 g | 500.00 g
 Proheptazine | 1.00 g | 50.00 g
-Prohibited plant, other than elsewhere described in this Schedule | not less than 5 nor more than19 plants | not less than 20 plants
+Prohibited plant, other than elsewhere described in this Schedule | not less than 5 nor more than 19 plants | not less than 20 plants
 Properidine | 25.00 g | 1.25 kg
 Propiram | 10.00 g | 500.00 g
 1-Propyl-2-methyl-3-(1-naphthoyl)indole *(JWH-015) | 50.0 g | 500.00 g
-Psilocybin and its derivatives having hallucinogenic properties | 0.10 g | 5.00 g
+Psilocybin and its derivatives | 0.10 g | 5.00 g
 Quinalbarbitone | 20.00 g | 1.00 kg
 Racemethorphan | 2.00 g | 100.00 g
 Racemoramide | 2.00 g | 100.00 g
 Racemorphan | 2.00 g | 100.00 g
 Rolicyclidine (PHP, PCPY) | 2.00 g | 100.00 g
-Salvia Divinorum, including extracts and other substances structurally derived from Salvia Divinorum and having hallucinogenic properties | 7.50 g | 375.00 g
+Salvia Divinorum, including extracts and other substances structurally derived from Salvia Divinorum | 7.50 g | 375.00 g
 Secbutobarbitone | 20.00 g | 1.00 kg
 Sufentanil | 0.005 g | 0.25 g
 Tenocyclidine (TCP) | 2.00 g | 100.00 g
 Tetrahydrocannabinols and their alkyl homologues except: (a) when separately specified in this Schedule; (b) in hemp seed oil, containing 50 mg/kg or less of tetrahydrocannabinols, when labelled "Not for internal use" or "Not to be taken"; or (c) in products for purposes other than internal human use containing 50 mg/kg or less of tetrahydrocannabinols.
-2,3,4,5-Tetramethoxyamphetamine | 0.50 g | 25.00 g
+Tetramethoxyamphetamine | 0.50 g | 25.00 g
 Thebacon | 2.00 g | 100.00 g
 Thebaine | 2.00 g | 100.00 g
 Thiofentanyl | 0.005 g | 0.25 g
 Tilidine | 20.00 g | 1.00 kg
-1-(3-Trifluoromethylphenyl) piperazine and other piperazine derivatives | 2.00 g | 100.00 g
+Trifluoromethylphenylpiperazine and other piperazine derivatives | 2.00 g | 100.00 g
 Trimeperidine | 10.00 g | 500.00 g
-2,3,4-Trimethoxyamphetamine | 0.50 g | 25.00 g
-2,3,5-Trimethoxyamphetamine | 0.50 g | 25.00 g
-2,3,6-Trimethoxyamphetamine | 0.50 g | 25.00 g
-2,4,5-Trimethoxyamphetamine | 0.50 g | 25.00 g
-2,4,6-Trimethoxyamphetamine | 0.50 g | 25.00 g
-3,4,5-Trimethoxy-a-methylphenylethylamine (TMA) | 0.50 g | 25.00 g
-3,4,5-Trimethoxyphenethylamine (mescaline) and other substances structurally derived from methoxy-phenylethylamine, except: (a) methoxyphenamine; or (b) where separately specified in this Schedule | 7.50 g | 375.00 g
-1-(3,4,5,-Trimethoxyphenyl)-2-aminobutane | 0.50 g | 25.00 g
-2,4,5-Trimethoxyphenylethylamine | 0.50 g | 25.00 g
+Trimethoxyamphetamine | 0.50 g | 25.00 g
+Trimethoxyphenethylamine (mescaline) and other substances structurally derived from methoxy-phenylethylamine, except: (a) methoxyphenamine; or (b) where separately specified in this Schedule | 7.50 g | 375.00 g
+Trimethoxyphenyl-aminobutane | 0.50 g | 25.00 g
 Anabolic Steroids: Danazol Dromostanolone propionate Ethylestrenol Fluoxymesterone Methandriol Methyltestosterone Nandrolone decanoate Nandrolone phenpropionate | 10.00 g 12.00 g 10.00 g 12.00 g 32.00 g 48.00 g 6.00 g 8.00 g | 500.00 g 600.00 g 500.00 g 600.00 g 1.60 kg 2.40 kg 300.00 g 400.00 g
 Oxandrolone Oxymetholone Stanozolol Testolactone Testosterone Testosterone cypionate Testosterone enanthate Testosterone propionate except anabolic steroids in products packaged for ovulation control or in quantities which can lawfully be prescribed in accordance with Schedule 4 of the Poisons and Dangerous Drugs Act | 12.00 g 300.00 g 7.20 g 1.20 kg 2.40 g 32.00 g 32.00 g 12.00 g | 600.00 g 15.00 kg 360.00 g 6.00 kg 120.00 g 1.60 kg 1.60 kg 600.00 g
