@@ -27,5 +27,5 @@ The Council may, if it considers that there are special reasons for doing so in 
 PART 2 – FORM OF STATEMENT
 7. Notification of limitation of liability
 (1) For the purposes of section 34(2), the following form of statement is prescribed:
-Liability limited by the [insert name of relevant Scheme approved of by the Council] Scheme, approved under the Professional Standards Act (Northern Territory).
+Liability limited by the [insert name of relevant Scheme approved of by the Council] Scheme, approved under the Professional Standards Act 2004 (Northern Territory).
 (2) The statement must be printed in a size not less than the face measurement of Times New Roman typeface in 8 point.

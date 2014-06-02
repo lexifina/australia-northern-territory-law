@@ -7,7 +7,7 @@ This instrument contains the development provisions that comprise the Planning S
 In this instrument, unless the contrary intention appears:
 business sign means a device using words, letters or images exhibited for the purpose of advertising, announcement or display restricted to the name of the business carried on and the nature of the services or goods available, on the land on which the sign is erected, and includes, if a number of persons are carrying on different businesses on that land, a sign identifying the place.
 caravan includes:
-(a) a vehicle, registered or eligible for registration, within the meaning of the Motor Vehicles Act that is designed or adapted for human habitation; and
+(a) a vehicle, registered or eligible for registration, within the meaning of the Motor Vehicles Act 1949 that is designed or adapted for human habitation; and
 (b) a tent.
 caravan park means land used for the parking of caravans or the erection or placement and use of tents or cabins for the purpose of providing accommodation.
 car parking means the parking of motor vehicles other than as an ancillary use of land.
@@ -29,10 +29,10 @@ dwelling means a building, or part of a building, designed, constructed or adapt
 floor area, in relation to a building, includes all wall thicknesses of the external walls and all roof areas used as floors, but does not include verandahs, balconies or areas set aside for car parking or access to car parking.
 home occupation means an occupation or profession that is carried on in a dwelling or on the site of a dwelling, but does not include the use of a site as a medical consulting room.
 hostel includes boarding houses, guest houses, lodging houses and other premises used to provide board or lodging with communal toilet, ablution, dining or cooking facilities, but does not include bed and breakfast accommodation, hotel or motel.
-hotel means premises that require a licence under the Liquor Act and if, as a principal part of the business, alcoholic beverages are ordinarily sold to the public for consumption on the premises whether or not accommodation is provided for members of the public and whether or not meals are served, but does not include a motel or restaurant.
+hotel means premises that require a licence under the Liquor Act 1978 and if, as a principal part of the business, alcoholic beverages are ordinarily sold to the public for consumption on the premises whether or not accommodation is provided for members of the public and whether or not meals are served, but does not include a motel or restaurant.
 Lake Bennett locality means the area of land to which this instrument applies under clause 3.
 medical consulting room means a room or suite of rooms on the site of a single dwelling for use as a medical practitioner, dentist or person associated with health care.
-motel means premises wholly or principally used for the accommodation of travellers and the vehicles used by them, whether or not the building is also used to provide meals to the travellers or to members of the general public and whether or not the premises are licensed under the Liquor Act.
+motel means premises wholly or principally used for the accommodation of travellers and the vehicles used by them, whether or not the building is also used to provide meals to the travellers or to members of the general public and whether or not the premises are licensed under the Liquor Act 1978.
 multiple dwellings means a building or group of buildings on a site that individually or collectively contain more than one dwelling but does not include a dependant unit.
 net floor area, in relation to a building, includes all the area between internal surfaces of external walls but does not include:
 (a) stairs, cleaners' cupboards, ablution facilities, lift shafts, escalators or tea rooms if tea rooms are provided as a standard facility in the building;
@@ -46,7 +46,7 @@ promotion sign means a device using words, letters or images exhibited for the p
 (a) goods, services or products not provided, produced or sold; or
 (b) events or activities that are not carried on,
 on the land or in the building on which the sign is constructed or erected.
-restaurant means premises or part of a hotel or motel in which meals are served to the public, whether or not the premises provide a drive-through service or require a licence under the Liquor Act.
+restaurant means premises or part of a hotel or motel in which meals are served to the public, whether or not the premises provide a drive-through service or require a licence under the Liquor Act 1978.
 shop means premises used for the display and sale by retail, or for hire, of goods or services, but does not include a restaurant.
 single dwelling means a building containing one dwelling only.
 site means an area of land, whether consisting of one lot or more, the subject of an application to the consent authority.
@@ -67,13 +67,13 @@ The development provisions contained in this instrument apply to the area of lan
 (c) the strengthening or restoration to a safe condition of a building or works;
 (d) the erection or display of a sign that is:
 (i) a traffic control or driver advisory guide, service or similar device;
-(ii) displayed by a government or local government agency under a statutory obligation;
+(ii) displayed by a government agency or local government council under a statutory obligation;
 (iii) on enclosed land or within a building and not readily visible from land outside the enclosure or building;
 (iv) of a temporary nature used to advertise property that is available for rent, lease, sale, auction or inspection;
 (v) displayed on or inside a vehicle, other than a vehicle that is adapted and exhibited primarily as an advertising sign;
 (vi) an interpretive sign used for describing sites or items of historical or educational significance; or
-(vii) a public safety advisory sign displayed by a government or local government agency;
-(e) the use of land under an extractive mineral permit, or a mineral authority that corresponds to an extractive mineral permit, granted under the Mineral Titles Act.
+(vii) a public safety advisory sign displayed by a government agency or local government council;
+(e) the use of land under an extractive mineral permit, or a mineral authority that corresponds to an extractive mineral permit, granted under the Mineral Titles Act 2010.
 (2) In subclause (1):
 sport and recreation does not include a use that involves commercial transactions, motor sports or activities that, because of the generation of noise or disturbance, will detrimentally affect the amenity of adjoining land.
 5 Permitted, discretionary and prohibited development
@@ -126,7 +126,7 @@ Part 2 Specific land use controls
 (c) an existing or proposed unit on section 1252;
 (d) sections 1253 and 1254.
 (3) In this clause:
-recreational easement means an easement in the terms stated in Schedule 4 to the Lake Bennett (Land Title) Act.
+recreational easement means an easement in the terms stated in Schedule 4 to the Lake Bennett (Land Title) Act 2005.
 11 Sections 93 to 97 and 99 to 110
 (1) Without consent, sections 93 to 97 (inclusive) and 99 to 110 (inclusive) may be developed with a single dwelling on each section.
 (2) With consent, sections 93 to 97 (inclusive) and 99 to 110 (inclusive) may be developed for the following purposes:
@@ -165,7 +165,7 @@ recreational easement means an easement in the terms stated in Schedule 4 to the
 (ii) cause detriment to the amenity of the Lake Bennett locality because of excessive noise, offensive odours, excessive dust or the attraction of flies or vermin.
 14 Sections 1254 and 1255
 (1) Sections 1254 and 1255 may be used only for recreational purposes but not for any activity that because of the generation of noise or disturbance will detrimentally affect the amenity of adjoining land.
-(2) A further development (including using a caravan or camping) is not permitted on section 1254 or 1255 other than a development mentioned in section 23(1) of the Lake Bennett (Land Title) Act.
+(2) A further development (including using a caravan or camping) is not permitted on section 1254 or 1255 other than a development mentioned in section 23(1) of the Lake Bennett (Land Title) Act 2005.
 (3) A houseboat is not permitted on the lake.
 (4) Domestic livestock must not be kept, exercised or trained on section 1254 or 1255.
 Part 3 Performance criteria
@@ -271,7 +271,7 @@ home occupation includes the care of up to 5 children in a dwelling including ch
 (4) The clearing of native vegetation requires consent if more than one hectare in total is to be cleared, including a previously cleared area.
 (5) An application for the clearing of native vegetation must demonstrate consideration of the following:
 (a) the presence of sensitive or significant vegetation communities including rainforest, vine thicket and close forest;
-(b) the presence of an area of essential habitat within the meaning of the Territory Parks and Wildlife Conservation Act;
+(b) the presence of an area of essential habitat within the meaning of the Territory Parks and Wildlife Conservation Act 1996;
 (c) the impact of the clearing on regional biodiversity;
 (d) whether the clearing is necessary for the intended use;
 (e) whether there is sufficient water for the intended use;
@@ -281,7 +281,7 @@ home occupation includes the care of up to 5 children in a dwelling including ch
 (i) the retention of native vegetation adjacent to waterways;
 (j) the retention of native vegetation buffers along boundaries;
 (k) the retention of native vegetation corridors between remnant native vegetation;
-(l) the presence of a heritage object, heritage place, archaeological object or archaeological site within the meaning of the Heritage Conservation Act.
+(l) the presence of a heritage object, heritage place, archaeological object or archaeological site within the meaning of the Heritage Conservation Act 1991.
 (6) In assessing an application for the clearing of native vegetation, the matters mentioned in subclause (5) must be taken into account.
 LAKE BENNETT LOCALITY
 clause 3

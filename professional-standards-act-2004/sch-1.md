@@ -5,7 +5,7 @@ MODEL CODE
 This Code may be cited as the Occupational Associations (Complaints and Discipline) Code.
 2. Definition
 In this Code:
-Council means the Professional Standards Council constituted by the Professional Standards Act.
+Council means the Professional Standards Council constituted by the Professional Standards Act 2004.
 3. What actions may be the subject of a complaint?
 (1) A complaint may be made that a member of the occupational association has acted (or has failed to act) in such a way as to justify the taking of disciplinary action against the member under this Code.
 (2) A complaint may be made and dealt with even though the person about whom it is made has ceased to be a member.
