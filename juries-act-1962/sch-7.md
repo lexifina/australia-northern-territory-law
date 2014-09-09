@@ -16,12 +16,11 @@ a person registered under the Health Practitioner Regulation National Law:
 (a) to practise in the dental profession as a dentist (other than as a student); and
 (b) in the dentists division of that profession
 a practising medical practitioner
-a member of the Parole Board within the meaning of the Parole of Prisoners Act
-the secretary of the Parole Board within the meaning of the Parole of Prisoners Act
-a parole officer within the meaning of the Parole of Prisoners Act
+a member of the Parole Board within the meaning of the Parole Act
+the secretary of the Parole Board within the meaning of the Parole Act
 a member of the Police Force of the Northern Territory
-an officer within the meaning of the Prisons (Correctional Services) Act
-an employee as defined in the Public Sector Employment and Management Act who is employed in an Agency primarily responsible for law and the administration of justice, prisons and correctional services or the administration of courts or who is under the direct control of the Commissioner of Police
+a correctional services officer (as defined in section 4 of the Correctional Services Act)
+an employee as defined in the Public Sector Employment and Management Act who is employed in an Agency primarily responsible for law and the administration of justice, correctional services or the administration of courts or who is under the direct control of the Commissioner of Police
 a person employed by the Legal Aid Commission within the meaning of the Legal Aid Act
 an employee as defined in the Public Sector Employment and Management Act who is employed in the Office of the Director of Public Prosecutions
 a person who is blind, deaf or dumb or otherwise incapacitated by disease or infirmity from discharging the duties of a juror
