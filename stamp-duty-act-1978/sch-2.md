@@ -53,7 +53,7 @@ Insurance
 19 An insurance cover-note in pursuance of which a duly stamped policy is issued within 3 months of the date of the cover-note.
 20 A policy of insurance issued to the original insured or the insured's personal representative in pursuance of a cover-note which has been duly stamped as a policy.
 21 A policy of insurance taken out as required under the Workers Rehabilitation and Compensation Act.
-22 A policy of insurance issued in the course of a health insurance business by a person registered as a private health insurer within under Part 4-3 of the Private Health Insurance Act 2007 (Cth).
+22 A policy of insurance issued in the course of a health insurance business by a person registered as a private health insurer under Part 4-3 of the Private Health Insurance Act 2007 (Cth).
 22A A life policy issued by a life insurer that is a first home saver account under the First Home Saver Accounts Act 2008 (Cth).
 Motor vehicle certificates of registration
 23 Any of the following motor vehicle certificates of registration:

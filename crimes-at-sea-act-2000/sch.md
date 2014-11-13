@@ -143,23 +143,24 @@ baseline of Australia’s territorial sea means the baseline from which the brea
 continental shelf has the same meaning as in the Seas and Submerged Lands Act 1973 (Commonwealth).
 territorial sea has the same meaning as in the Seas and Submerged Lands Act 1973 (Commonwealth).
 14 Adjacent areas
-(1) The adjacent area for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 2 to the Petroleum (Submerged Lands) Act 1967 (Commonwealth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
+(1) The adjacent area for New South Wales, Victoria, South Australia or Tasmania is so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to that State as is within the outer limits of the continental shelf and includes the space above and below that area.
 (2) The adjacent area for Queensland is:
-(a) so much of the area described in Schedule 2 to the Petroleum (Submerged Lands) Act 1967 (Commonwealth) in relation to Queensland as is within the outer limits of the continental shelf; and
-(b) the Coral Sea area (within the meaning of subsection (7) of section 5A of the Petroleum (Submerged Lands) Act 1967 (Commonwealth) other than the territorial sea within the Coral Sea area; and
+(a) so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to Queensland as is within the outer limits of the continental shelf; and
+(b) the Coral Sea area (within the meaning of section 8(2) of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) other than the territorial sea within the Coral Sea area; and
 (c) the areas within the outer limits of the territorial sea adjacent to certain islands of Queensland as determined by proclamation on 4 February 1983 under section 7 of the Seas and Submerged Lands Act 1973 (Commonwealth); and
 (d) the space above and below the areas described in paragraphs (a), (b) and (c).
-(3) The adjacent area for Western Australia is so much of the area described in Schedule 2 to the Petroleum (Submerged Lands) Act 1967 (Commonwealth) in relation to Western Australia as:
+(3) The adjacent area for Western Australia is so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to Western Australia as:
 (a) is within the outer limits of the continental shelf; and
-(b) is not within Area A of the Zone of Cooperation,
+(b) is not within the Joint Petroleum Development Area,
 and includes the space above and below that area.
 (4) The adjacent area for the Northern Territory is:
-(a) so much of the area described in Schedule 2 to the Petroleum (Submerged Lands) Act 1967 (Commonwealth) in relation to the Northern Territory as:
+(a) so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to the Northern Territory as:
 (i) is within the outer limits of the continental shelf; and
-(ii) is not within Area A of the Zone of Cooperation; and
-(b) the adjacent area for the Territory of Ashmore and Cartier Islands (within the meaning of subsection (3) of section 5A of the Petroleum (Submerged Lands) Act 1967 (Commonwealth)) other than the territorial sea within that area; and
-(c) the space above and below the areas described in paragraphs (a) and
+(ii) is not within the Joint Petroleum Development Area; and
+(b) the offshore area for the Territory of Ashmore and Cartier Islands (within the meaning of section 8(1) of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth)) other than the territorial sea within that area; and
+(c) the space above and below the areas described in paragraphs (a) and (b).
 (5) However, the adjacent area for a State does not include any area inside the limits of any State or Territory.
+(6) A reference in this clause to the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to a State or Territory is a reference to the scheduled area for that State or Territory within the meaning given by that Schedule.
 15 Baselines
 The baseline for a State is the part of the baseline of Australia’s territorial sea from which the part of the territorial sea that is within the adjacent area for that State is measured.
 16 Indicative map

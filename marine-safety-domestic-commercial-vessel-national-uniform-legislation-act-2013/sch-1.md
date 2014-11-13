@@ -73,9 +73,9 @@ Functions and powers conferred on Commonwealth officers and authorities relating
 (2) In performing a function or exercising a power conferred by this section, the Commonwealth officer or authority must act as nearly as practicable as the officer or authority would act in performing or exercising the same function or power in relation to an offence against the corresponding provision of the Commonwealth domestic commercial vessel national law.
 No double jeopardy for offences against applied provisions
 If:
-(a) an act or omission is an offence against both the applied provisions and an offence against the Commonwealth domestic commercial vessel national law; and
-(b) the offender has been punished for that offence under the Commonwealth domestic commercial vessel national law;
-the offender is not liable to be punished for the offence under the applied provisions.
+(a) an act or omission is both an offence against the applied provisions and an offence against the Commonwealth domestic commercial vessel national law; and
+(b) the offender has been punished for the offence against the Commonwealth domestic commercial vessel national law;
+the offender is not liable to be punished for the offence against the applied provisions.
 ## Part 5 Administrative laws
 Application of Commonwealth administrative laws to applied provisions
 (1) The Commonwealth administrative laws apply as laws of the Territory to any matter arising in relation to the applied provisions as if those provisions were a law of the Commonwealth and not a law of the Territory.

@@ -23,4 +23,4 @@ Item | Circumstances | Manner in which the intestate estate of the intestate is 
 1. | Where the intestate is survived by issue. | The issue are entitled to the whole of the intestate estate.
 2. | Where the intestate is not survived by issue but is survived by a parent or both parents. | The parent is entitled to the whole of the intestate estate or, if both parents survive the intestate, the parents are entitled to the whole of the intestate estate in equal shares.
 3. | Where the intestate is not survived by issue or by a parent but is survived by next of kin. | The next of kin are entitled to the intestate estate in accordance with section 69.
-4. | Where the intestate is not survived by issue, by a parent or by next of kin. | The interstate estate shall bedeemed to be bona vacantia and the Territory is entitled to it.
+4. | Where the intestate is not survived by issue, by a parent or by next of kin. | The intestate estate shall be deemed to be bona vacantia and the Territory is entitled to it.
