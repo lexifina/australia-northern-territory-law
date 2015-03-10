@@ -1,4 +1,4 @@
-## Schedule
+## Schedule Repealed Acts
 section 57
 ACTS OF THE NORTHERN TERRITORY
 Wills Ordinance 1938 Act No. 4, 1938
