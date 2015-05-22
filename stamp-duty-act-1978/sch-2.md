@@ -52,7 +52,7 @@ Leases
 Insurance
 19 An insurance cover-note in pursuance of which a duly stamped policy is issued within 3 months of the date of the cover-note.
 20 A policy of insurance issued to the original insured or the insured's personal representative in pursuance of a cover-note which has been duly stamped as a policy.
-21 A policy of insurance taken out as required under the Workers Rehabilitation and Compensation Act.
+21 A policy of insurance taken out as required under the Return to Work Act.
 22 A policy of insurance issued in the course of a health insurance business by a person registered as a private health insurer under Part 4-3 of the Private Health Insurance Act 2007 (Cth).
 22A A life policy issued by a life insurer that is a first home saver account under the First Home Saver Accounts Act 2008 (Cth).
 Motor vehicle certificates of registration
@@ -66,8 +66,8 @@ Motor vehicle certificates of registration
 (B) is being registered under the Motor Vehicles Act by a person who has, until so registering the motor vehicle, never paid any stamp duty in relation to that motor vehicle under any law in force in the Commonwealth or a State or Territory of the Commonwealth; or
 (iii) a motor vehicle certificate of registration, or a motor vehicle certificate of registration belonging to a class of motor vehicle certificates of registration, prescribed for the purposes of this subparagraph;
 (b) a motor vehicle certificate of registration issued following a conveyance of the motor vehicle:
-(i) to a person who is the spouse, parent or child of the person in whose name the vehicle was last registered (whether in the Territory or elsewhere) before the issue of the motor vehicle certificate of registration; or
-(ii) to or from the spouse, parent or child jointly with that person;
+(i) to a person who is the spouse, parent, child or stepchild of the person in whose name the vehicle was last registered (whether in the Territory or elsewhere) before the issue of the motor vehicle certificate of registration; or
+(ii) to or from the spouse, parent, child or stepchild jointly with that person;
 if the conveyance is wholly by way of gift;
 (c) a motor vehicle certificate of registration issued to a person who is engaged solely or principally in the business of agricultural or pastoral production other than in respect of a vehicle designed primarily and principally for the transport of persons;
 (d) a motor vehicle certificate of registration issued to a person to give effect to:
