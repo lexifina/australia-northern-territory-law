@@ -1,4 +1,4 @@
-## Schedule Acts repealed
+## Schedule 1 Acts repealed
 section 112
 Electricity Commission Ordinance 1978 | No. 27, 1978
 Electricity Commission Act 1979 | No. 79, 1979
