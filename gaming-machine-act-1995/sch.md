@@ -4,8 +4,10 @@ Section | Decision
 25 | Decision to grant or refuse application
 25(12) | Decision regarding number of gaming machines authorised for use under the licence
 34 | Decision to impose conditions or further conditions, or vary conditions, on licence
+39A | Decision to grant or refuse application
 41 | Decision to grant or refuse application
 42(1) | Decision to decrease number of gaming machines authorised for use under licence
+42H | Decision to grant or refuse application
 43(9) | Decision to grant, or refuse to grant, application
 49(9)(c) | Decision to give directions to licensee or cancel or suspend gaming machine licence
 50 | Decision to suspend gaming machine licence
