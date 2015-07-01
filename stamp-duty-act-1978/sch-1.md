@@ -66,15 +66,12 @@ is a dutiable instrument.
 (2) The duty payable on a motor vehicle certificate of registration is $3 for every $100 or fractional part of $100 of the dutiable value of the motor vehicle.
 6 Policy of insurance
 (1) A policy of insurance is a dutiable instrument.
-(2) This clause extends to a policy of life insurance.
-(3) The duty on a policy of insurance (other than a policy of life insurance):
+(3) The duty on a policy of insurance:
 (a) is payable on the issue and each renewal of the policy; and
 (b) is:
 (i) for a policy issued, or renewed, for one year or less – 10% of the amount of the premium; and
 (ii) for a policy issued or renewed for a term of more than one year – 10% of the amount of the premium for each year and any fractional part of a year in the term.
-(4) The duty on a policy of life insurance is:
-(a) for a policy other than a temporary or term policy – 10c for every $100 or fractional part of $100 of the sum insured; or
-(b) for a temporary or term policy – 5% of the first year's premium.
+(4) The duty on a policy of insurance that is a life insurance rider is calculated in accordance with subclause (3) on the part of the premium payable for the life policy that is apportioned to the rider.
 7 Instrument to correct error
 (1) An instrument to correct an error in a duly stamped instrument (the principal instrument) is itself a dutiable instrument.
 (2) If the Commissioner is satisfied that the sole purpose of the instrument is to correct an error that would not have increased the liability of the principal instrument to duty, the duty payable on such an instrument is $20.

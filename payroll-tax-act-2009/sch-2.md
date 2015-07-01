@@ -92,21 +92,6 @@ Division 1 Education and training
 Wages are exempt wages if they are paid or payable by a school or college (other than a technical school or a technical college) that:
 (a) provides education at or below, but not above, the secondary level of education; and
 (b) is carried on by a body corporate, society or association otherwise than for the purpose of profit or gain to the individual members of the body corporate, society or association and is not carried on by or on behalf of the Territory.
-17 Apprentices and trainees
-Wages are exempt wages if:
-(a) they are wages paid or payable to persons as apprentices employed in approved apprenticeships within the meaning of the Northern Territory Employment and Training Act; or
-(b) they are wages paid or payable to persons as graduates of tertiary educational institutions employed under approved trainee arrangements in relation to which all of the following apply:
-(i) the institutions and arrangements are approved under clause 18;
-(ii) the exemption applies for a maximum period of 6 months of employment of the employee under the trainee arrangement;
-(iii) the employee was not employed by the employer before graduating, whether or not under a trainee arrangement.
-18 Approval of tertiary education institutions and trainee arrangements
-(1) An employee is not covered by clause 17(b) unless the Commissioner, on the application of, and by written notice given to, the employer, approves:
-(a) the tertiary educational institution of which the employee is a graduate; and
-(b) the training arrangements under which the employee is employed by the employer.
-(2) The application must be made in the form and in the way approved by the Commissioner.
-(3) The approval takes effect on the date specified in the notice that is not earlier than 3 years before the date of the application for the approval.
-(4) The Commissioner may, by notice in writing given to the employer, revoke the approval.
-(5) The revocation takes effect on the date specified in the notice, being a date that is not earlier than the date on which the approval to which it relates took effect.
 Division 2 Health care service providers
 19 What is a health care service provider
 For Part 4, Division 3 of this Act, a health care service provider is:
