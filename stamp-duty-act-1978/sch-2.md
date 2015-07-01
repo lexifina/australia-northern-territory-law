@@ -53,8 +53,10 @@ Insurance
 19 An insurance cover-note in pursuance of which a duly stamped policy is issued within 3 months of the date of the cover-note.
 20 A policy of insurance issued to the original insured or the insured's personal representative in pursuance of a cover-note which has been duly stamped as a policy.
 21 A policy of insurance taken out as required under the Return to Work Act.
-22 A policy of insurance issued in the course of a health insurance business by a person registered as a private health insurer under Part 4-3 of the Private Health Insurance Act 2007 (Cth).
-22A A life policy issued by a life insurer that is a first home saver account under the First Home Saver Accounts Act 2008 (Cth).
+22 A policy of medical benefits insurance issued by a person registered as a private health insurer under Part 4-3 of the Private Health Insurance Act 2007 (Cth) that provides hospital benefits or medical benefits (or both) whether or not other benefits are also provided.
+22A A life policy issued by a life insurer (other than a life insurance rider).
+22B An authorised RBI policy, as defined in section 54CB of the Building Act, issued on or after 1 July 2015 in accordance with Part 5A of the Building Act.
+22C A fidelity certificate, as defined in section 54D of the Building Act, issued on or after 1 July 2015 in accordance with Part 5A of the Building Act.
 Motor vehicle certificates of registration
 23 Any of the following motor vehicle certificates of registration:
 (a) a motor vehicle certificate of registration issued to the person in whose name the vehicle was last registered before it was issued (whether registered in the Territory or elsewhere and whether or not that registration has expired) other than:
