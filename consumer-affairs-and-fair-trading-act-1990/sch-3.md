@@ -71,3 +71,11 @@ The reference in section 224(2)(c) of the Australian Consumer Law (NT) to procee
 (b) imposing liabilities on the person.
 (4) The regulation must declare it is made under this paragraph.
 (5) This paragraph, and each regulation made under it, expires 1 year after the commencement.
+Part 3 Transitional matters for Statute Law Amendment (Directors' Liability) Act 2015
+1 Offences – before and after commencement
+(1) Section 330, as inserted by the Statute Law Amendment (Directors' Liability) Act 2015, (the new section) applies in relation to a relevant offence committed by a body corporate after the commencement of Part 2, Division 4 of that Act (the commencement) only if:
+(a) all the conduct constituting the relevant offence occurred after the commencement; and
+(b) all the conduct of the executive officer constituting the offence against the new section occurred after the commencement.
+(2) Section 330, as in force before the commencement:
+(a) continues to apply in relation to offences committed by a body corporate before the commencement; and
+(b) applies in relation to relevant offences committed by a body corporate after the commencement to which, as a result of subparagraph (1), the new section does not apply.
