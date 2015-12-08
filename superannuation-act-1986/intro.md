@@ -1,2 +1,2 @@
-SUPERANNUATION act
+SUPERANNUATION ACT
 An Act to provide for the administration of various superannuation schemes for certain public sector employees and other persons, and for related purposes
