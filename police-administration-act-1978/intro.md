@@ -1,2 +1,2 @@
-Police Administration act
+POLICE ADMINISTRATION ACT
 An Act relating to the police force
