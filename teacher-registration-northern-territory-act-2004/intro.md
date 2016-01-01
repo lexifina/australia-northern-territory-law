@@ -1,2 +1,2 @@
-Teacher Registration (Northern Territory) Act
+TEACHER REGISTRATION (NORTHERN TERRITORY) ACT
 An Act to provide for the registration of teachers and the regulation of the teaching profession and for related purposes
