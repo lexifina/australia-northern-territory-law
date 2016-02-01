@@ -13,6 +13,6 @@
 (c) the injuries of the person were not received in a motor vehicle accident or the motor vehicle accident happened more than 12 hours before the person entered the hospital or health centre; or
 (d) a period of more than 4 hours has elapsed since the person entered the hospital or health centre.
 (6) A blood sample taken under this section is the property of the Commissioner.
-(7) However, the person who takes the sample may make approximately half of the sample available to the person from whom it was taken.
+(7) However, the person who takes the sample may make a portion of the sample available to the person from whom it was taken.
 (8) No action or proceedings for assault, whether in or outside the Territory, lie against a person who takes a blood sample for this Act.
 (9) This section does not obligate any person to take a sample of blood at a health centre.

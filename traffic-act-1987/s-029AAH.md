@@ -10,6 +10,7 @@ For a second or subsequent offence – 20 penalty units or imprisonment for 12 m
 (ii) a medium range breath or blood alcohol content;
 (b) driving under the influence of alcohol or a drug;
 (c) failing to provide a sufficient sample of breath for a breath analysis;
+(ca) failing to submit to a saliva test;
 (d) failing to give a sample of blood for analysis;
 (e) driving with alcohol in the breath or blood (if the person, at the time of the previous offence, was of a class mentioned in section 24(1)).
 (3) If a court finds a person guilty of a relevant offence, the person's licence to drive is automatically cancelled and the person is disqualified from:
@@ -23,6 +24,7 @@ Notes
 (4) However, if a court finds a person guilty of a relevant offence and the person has previously been found guilty of any of the following offences, committed within 3 years before committing the relevant offence:
 (a) driving with a high range breath or blood alcohol content;
 (b) failing to provide a sufficient sample of breath for a breath analysis;
+(ba) failing to submit to a saliva test;
 (c) failing to provide a sample of blood for analysis;
 the minimum period for which the person is disqualified from obtaining a licence is 5 years.
 (5) Also, if a court finds a person guilty of a relevant offence and the person has previously been found guilty of any of the following offences, committed within 3 years before committing the relevant offence:
@@ -35,6 +37,7 @@ and the person has also been previously found guilty at any time of committing a
 (ii) a medium range breath or blood alcohol content;
 (e) driving under the influence of alcohol or a drug;
 (f) failing to provide a sufficient sample of breath for a breath analysis;
+(fa) failing to submit to a saliva test.
 (g) failing to provide a sample of blood for analysis;
 (h) driving with alcohol in the breath or blood (if the person, at the time of the previous offence, was of a class mentioned in section 24(1));
 the minimum period for which the person is disqualified from obtaining a licence is 5 years.

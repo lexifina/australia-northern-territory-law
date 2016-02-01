@@ -7,7 +7,7 @@
 (3) If more than one breath analysis was carried out, the lower of the BrAC indicated is taken to be the BrAC of the person at the relevant time.
 (4) If a sample of a person's blood is taken in accordance with section 29AAK:
 (a) the BAC indicated by analysis of the sample is taken to be the BAC of the person at the relevant time; and
-(b) any prohibited drug detected in the person's blood is taken to have been present in the person's blood at the relevant time.
+(b) any prohibited drug detected in the person's blood is taken to have been present in the person's body at the relevant time.
 (5) If the person's blood is analysed because the person was taken to a hospital or health centre with injuries that may have been caused in a crash:
 (a) the BAC indicated by the analysis is taken to be the BAC of the person at the time of the crash; and
-(b) any prohibited drug detected in the person's blood is taken to have been present in the person's blood at the time of the crash.
+(b) any prohibited drug detected in the person's blood is taken to have been present in the person's body at the time of the crash.

@@ -11,6 +11,7 @@ For a second or subsequent offence –20 penalty units or imprisonment for 12 mo
 (ii) a medium range breath or blood alcohol content;
 (b) driving under the influence of alcohol or a drug;
 (c) failing to provide a sufficient sample of breath for a breath analysis;
+(ca) failing to submit to a saliva test;
 (d) failing to give a sample of blood for analysis;
 (e) driving with alcohol in the breath or blood (if the person, at the time of the previous offence, was of a class of person mentioned in section 24(1)).
 (3) If a court finds a person guilty of a relevant offence relating to the influence of a drug only, the person's licence to drive is automatically cancelled and the person is disqualified from obtaining a licence:
@@ -27,7 +28,7 @@ Notes
 (4) A relevant offence that is a second or subsequent offence is an immediate suspension offence.
 (5) Evidence other than the result of a breath analysis or blood test may be given in a court to show the concentration of alcohol in a person's breath or blood or to show that a person was or was not under the influence of alcohol or a drug.
 (6) A court may find that a person was, at the relevant time, under the influence of alcohol or a drug:
-(a) without there being evidence of the concentration of alcohol in the person's breath or blood or of a prohibited drug in the person's blood; or
+(a) without there being evidence of the concentration of alcohol in the person's breath or blood or of a prohibited drug in the person's body; or
 (b) even though the evidence showed the person had:
 (i) a BrAC of less than 0.05 grams of alcohol per 210 litres of exhaled breath; or
 (ii) a BAC of less than 0.05 grams of alcohol per 100 millilitres of blood.

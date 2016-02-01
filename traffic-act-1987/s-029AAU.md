@@ -1,6 +1,7 @@
 # 29AAU Evidence by certificate
 (1) In any proceedings in a court, a certificate in the relevant prescribed form purporting to be signed by:
 (a) a person authorised by the Commissioner under this Act to use a prescribed breath analysis instrument for this Act; or
+(aa) a person authorised by the Commissioner under section 27B to use a device for obtaining a sample of saliva for this Act; or
 (b) a member of the staff of a hospital or health centre; or
 (c) an authorised analyst or a person employed by an authorised analyst;
 is prima facie evidence of the matters stated in the certificate and the facts on which they are based.
