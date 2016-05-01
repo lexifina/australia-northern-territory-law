@@ -720,9 +720,9 @@ the OHS inspector must make a copy of the warrant available to the occupier.
 (b) the consent may be withdrawn.
 (6) The consent of a person is not effective for subclause (2) unless the consent is voluntary.
 52 Warrant to enter premises (other than regulated business premises)
-(1) An OHS inspector may apply to a magistrate for a warrant authorising the OHS inspector, with any assistance as the OHS inspector thinks necessary, to exercise the powers mentioned in clause 51(1) in relation to particular premises (other than a residence).
+(1) An OHS inspector may apply to a Local Court Judge for a warrant authorising the OHS inspector, with any assistance as the OHS inspector thinks necessary, to exercise the powers mentioned in clause 51(1) in relation to particular premises (other than a residence).
 (2) The application must be supported by evidence on oath (whether oral or by affidavit) that specifies the grounds on which the OHS inspector is applying for the warrant.
-(3) If the magistrate is satisfied there are reasonable grounds for issuing the warrant, the magistrate may issue the warrant.
+(3) If the Local Court Judge is satisfied there are reasonable grounds for issuing the warrant, the Local Court Judge may issue the warrant.
 (4) A warrant issued under subclause (3) must state:
 (a) the name of the OHS inspector;
 (b) whether the inspection may be carried out at any time or only during specified hours of the day;

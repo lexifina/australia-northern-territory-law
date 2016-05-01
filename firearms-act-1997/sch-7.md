@@ -5,7 +5,7 @@ A proceeding must be conducted with as little formality and technicality, and wi
 2 Tribunal not bound by rules of evidence
 The Tribunal is not bound by the rules of evidence but may inform itself on any matter in the manner that it thinks fit.
 3 Appearance and representation of parties
-(1) The Registrar must give the parties to proceedings before the Tribunal not less than 14 days notice in writing of the time, date and place of the proceedings.
+(1) The secretary to the Tribunal must give the parties to proceedings before the Tribunal not less than 14 days notice in writing of the time, date and place of the proceedings.
 (2) A party is entitled to appear before the Tribunal personally or to be represented by a legal practitioner or other representative.
 (3) A legal practitioner or other representative appearing before the Tribunal has the same liabilities, protection and immunity as a legal practitioner has in appearing for a party in proceedings before the Supreme Court.
 (4) A party must be allowed a reasonable opportunity to call or give evidence, to examine or cross-examine witnesses and to make submissions to the Tribunal.

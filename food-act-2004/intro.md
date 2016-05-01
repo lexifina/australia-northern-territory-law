@@ -1,2 +1,2 @@
-FOOD ACT
+FOOD ACT 2004
 An Act providing for the safety and suitability of food for human consumption and for related purposes

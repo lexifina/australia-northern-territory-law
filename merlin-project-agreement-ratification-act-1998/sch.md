@@ -24,7 +24,7 @@ mineral lease means mineral lease N1154 granted to the Company on 15 June 1998, 
 Mortgage means any mortgage, charge, assignment, encumbrance or other dealing by way of security provided in relation to finance and facilities arranged for the purpose of developing or operating the Merlin Project.
 ore means ore known as kimberlite containing diamonds together with any associated minerals which must necessarily be mined in conjunction with the kimberlite.
 Services means the services of engineers, surveyors, architects and other professional consultants, experts and specialists, project managers, manufacturers, wholesalers, retailers, suppliers and Contractors and includes any other service necessary or incidental to the construction, continued operation or care and maintenance of the Merlin Project.
-(2) This Agreement shall be interpreted in accordance with the Interpretation Act as if it were a document subject to interpretation in accordance with that Act.
+(2) This Agreement shall be interpreted in accordance with the Interpretation Act 1978 as if it were a document subject to interpretation in accordance with that Act.
 2. Ratification by Parliament
 (1) This Agreement, other than subclause (2) (which shall commence on the date this Agreement is signed by all parties), shall have no force or effect and shall not be binding on any party unless and until it is signed by all parties and ratified by the Legislative Assembly of the Northern Territory of Australia, with the assent as provided by the Northern Territory (Self Government) Act 1978 (Commonwealth).
 (2) The Territory shall take all necessary action to have submitted to the Legislative Assembly at the earliest practicable date a Bill for an Act to ratify this Agreement.
@@ -34,9 +34,9 @@ This Agreement shall commence on the date that it has been ratified in accordanc
 (1) The Territory shall enact and maintain legislation to give effect to any agreement between the Territory and the Company for the provision of security for the Merlin Project.
 (2) In order to give effect to the security provisions, the Territory shall, at its discretion, make available such personnel as it considers appropriate from the Northern Territory Police Force Gold Squad. Nothing in this provision shall require the Territory to meet the cost of any personnel or medical practitioners required for the implementation of the security provisions other than the provision of Northern Territory Police Force personnel.
 (3) The Company shall enter into an arrangement with the Northern Territory Minerals Council to provide a contribution to the costs of any assistance provided by the Northern Territory Police Force Gold Squad.
-5. Royalty under Mineral Royalty Act
+5. Royalty under Mineral Royalty Act 1982
 (1) The Company shall not, by virtue only of this Agreement, be exempt from rent, royalty, duties, fees, levies, taxes or any other impost except as may be provided in this clause 5.
-(2) Royalty shall be payable in respect of the Merlin Project in accordance with the provisions of the Mineral Royalty Act, and, for the purpose of calculating such royalty, the Mineral Royalty Act is modified to the extent necessary to give effect to this clause.
+(2) Royalty shall be payable in respect of the Merlin Project in accordance with the provisions of the Mineral Royalty Act 1982, and, for the purpose of calculating such royalty, the Mineral Royalty Act 1982 is modified to the extent necessary to give effect to this clause.
 (3) For the purposes only of determining gross realization and operating costs in respect of the Merlin Project:
 (a) the production unit is to be treated as though it includes the treatment and sorting facility or facilities at Perth in the State of Western Australia used by the Company for the purposes of the Merlin Project; and
 (b) the saleable mineral commodity is to be deemed to have left the production unit at the time that treatment and sorting at the treatment and sorting facility or facilities at Perth are complete.
@@ -46,7 +46,7 @@ The Company shall:
 (i) when reasonably required by the Territory to do so, provide evidence of the currency of the insurance required under this sub-clause;
 (ii) not do or omit to do or permit to be done or omitted any act whereby any insurance required under this sub-clause may be rendered void or voidable;
 (iii) indemnify the Territory against all losses and damages suffered by the Territory as a result of a breach by the Company of this sub-clause.
-(5) Where there has been a removal without sale of a saleable mineral commodity from the production unit for the Merlin Project, then the value of that saleable mineral commodity for the purposes of section 4A(3) of the Mineral Royalty Act shall be as follows:
+(5) Where there has been a removal without sale of a saleable mineral commodity from the production unit for the Merlin Project, then the value of that saleable mineral commodity for the purposes of section 4A(3) of the Mineral Royalty Act 1982 shall be as follows:
 (i) where the Company has nominated in writing to the Territory that saleable mineral commodity is to be withheld from sale by the Company, the value shall be the value attributed to such saleable mineral commodity by an independent Valuer appointed by the Territory. The Territory shall appoint a Valuer for the purposes of conducting a valuation in accordance with this subclause within 30 days of receipt of notification by the Company that saleable mineral commodity is to be withheld from sale. In the event that the Territory fails to appoint a Valuer within 30 days, the Company may appoint the Valuer. For the purpose of allowing the valuation to be conducted, the Company shall ensure that no cutting or polishing or further treatment of the saleable mineral commodity is undertaken until such time as the Territory has notified the Company in writing that the valuation has been completed. The costs of any valuations conducted under this sub-clause shall be shared equally by the Territory and the Company ;
 (ii) in every other case, the value of the saleable mineral commodity shall be calculated in accordance with the following formula:
 GR = SP + EV – EV(previous year) + AOP
@@ -62,8 +62,8 @@ AOP is:
 (B) the amount included in AOP in any previous royalty year in respect of any saleable mineral commodity where the sales proceeds for that saleable mineral commodity are included in the SP calculation in the current royalty year
 and the result may be a negative amount.
 For the purpose of this subclause, on hand includes in the possession of a sales agent and a transport carrier.
-(6) Words used in this clause and defined in the Mineral Royalty Act have the same meaning as in that Act for the purposes of this clause, and this clause is to be interpreted as though it were part of that Act.
-(7) The Mineral Royalty Act shall apply to this clause as though this clause were part of that Act.
+(6) Words used in this clause and defined in the Mineral Royalty Act 1982 have the same meaning as in that Act for the purposes of this clause, and this clause is to be interpreted as though it were part of that Act.
+(7) The Mineral Royalty Act 1982 shall apply to this clause as though this clause were part of that Act.
 6. Infrastructure
 (1) The Territory shall use its best endeavours to comply with any request by the Company for the issue of any necessary consents, permits, licences, easements, rights of way, approvals or mining tenements to allow construction, maintenance and operation of all infrastructure and facilities which the Company determines are required for the Merlin Project.
 (2) Nothing in this clause shall require the Territory to take any action which might be required as a pre-requisite to the issue of such consent, permits, licences, easements, rights of way, approvals or mining tenements pursuant to the Native Title Act 1993 of the Commonwealth or any Territory legislation relating to native title.

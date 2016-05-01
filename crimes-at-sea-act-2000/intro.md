@@ -1,5 +1,5 @@
-Crimes at Sea act
-An Act to give effect to a cooperative scheme for dealing with crimes at sea, to repeal the Criminal Law (Offences at Sea) Act and for related purposes
+Crimes at Sea act 2000
+An Act to give effect to a cooperative scheme for dealing with crimes at sea, to repeal the Criminal Law (Offences at Sea) Act 1979 and for related purposes
 WHEREAS:
 1. The Commonwealth, the States of the Commonwealth and the Territory have agreed to a cooperative scheme to apply the criminal law of the States of the Commonwealth and the Territory extraterritorially in the areas adjacent to the coast of Australia.
 2. Under the scheme, the criminal law of a State of the Commonwealth or of the Territory is to apply in the area adjacent to the State or to the Territory:

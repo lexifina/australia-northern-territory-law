@@ -9,9 +9,9 @@ section 130 | Sexual intercourse or gross indecency by provider of services to m
 section 131 | Attempts to procure child under 16 years
 section 134 | Incest, regardless of the age of the victim
 section 138 | Bestiality
-section 176 | Stupefying in order to commit crime, if the crime is a serious sex offence
+section 176 | Stupefying in order to commit indictable offence, if the offence is a serious sex offence
 section 188(2)(k) | Aggravated indecent assault
 section 193 | Assaults with intent to commit an offence, if that offence is a serious sex offence
 section 213 | Unlawful entry of building, if the offence intended to be committed is a serious sex offence
-Summary Offences Act
+Summary Offences Act 1923
 section 47AC | Loitering by sexual offender

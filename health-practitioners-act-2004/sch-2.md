@@ -11,7 +11,7 @@ section 18B(3)
 (2) The Minister may remove a member from office if the member:
 (a) is absent from 3 consecutive meetings of the regulatory body without the permission of the regulatory body; or
 (b) becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with the member's creditors or makes an assignment of the member's remuneration or estate for their benefit; or
-(c) is found guilty in the Territory or elsewhere of a crime or an offence punishable by imprisonment; or
+(c) is found guilty in the Territory or elsewhere of an offence punishable by imprisonment; or
 (d) fails, without reasonable excuse, to comply with the member's obligation under Schedule 3, clause 5; or
 (e) is found guilty of an offence against this Act.
 (3) The Minister may remove a member from office if satisfied that the member:

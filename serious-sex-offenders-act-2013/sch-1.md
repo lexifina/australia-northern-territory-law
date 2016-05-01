@@ -15,7 +15,7 @@ section 201 | Abduction, enticement or detention of child under 16 years for imm
 section 202B | Sexual servitude
 section 202C | Conducting business involving sexual servitude
 section 202D | Deceptive recruiting for sexual services
-Prostitution Regulation Act
+Prostitution Regulation Act 1992
 section 14 | Allowing infant to take part in prostitution
 section 15 | Obtaining payment in respect of prostitution services provided by infant
 section 16 | Entering into agreement for provision of prostitution services by infant

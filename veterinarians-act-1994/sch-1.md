@@ -12,7 +12,7 @@ A member may resign office by writing signed by him or her and delivered to the 
 (b) is found guilty:
 (i) in the Territory, of an offence punishable by imprisonment for 6 months or more; or
 (ii) elsewhere, of an offence that would have been an offence so punishable if it had been committed in the Territory;
-(c) is found guilty of an offence under the Poisons and Dangerous Drugs Act, Medicines, Poisons and Therapeutic Goods Act or Animal Welfare Act;
+(c) is found guilty of an offence under the Poisons and Dangerous Drugs Act 1983, Medicines, Poisons and Therapeutic Goods Act 2012 or Animal Welfare Act 1999;
 (d) is, in the opinion of the Minister, incapable of fulfilling his or her duties satisfactorily;
 (e) is found by the Board, after it has held a hearing under Part 5, to be guilty of misconduct; or
 (f) has failed, without reasonable excuse or the permission of the Board, to attend 3 consecutive meetings of the Board.
