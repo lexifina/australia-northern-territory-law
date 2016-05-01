@@ -9,8 +9,8 @@ section 160 | Manslaughter
 section 161A | Violent act causing death
 section 165 | Attempt to murder
 section 166 | Threats to kill
-section 175 | Disabling in order to commit crime
-section 176 | Stupefying in order to commit crime
+section 175 | Disabling in order to commit indictable offence
+section 176 | Stupefying in order to commit indictable offence
 section 177 | Acts intended to cause serious harm or prevent apprehension
 section 181 | Serious harm
 section 182 | Attempting to injure by explosive substances
@@ -20,7 +20,7 @@ section 188 | Common assault other than in circumstances mentioned in section 18
 section 188A | Assaults on workers
 section 189 | Unlawful stalking
 section 189A | Assaults on police
-section 190 | Assaults on the Administrator or judges or magistrates
+section 190 | Assaults on the Administrator or judges
 section 191 | Assaults on member of crew of aircraft
 section 193 | Assaults with intent to commit an offence
 section 194 | Kidnapping for ransom
