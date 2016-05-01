@@ -20,12 +20,13 @@ section 168(2)
 18. Utility, safety and hygiene services located in, or related to, buildings.
 19. Access to and egress from buildings.
 20. The management and use of buildings, places and temporary structures used or proposed to be used for the purposes of public assembly.
-21. The issue, duration, revocation and suspension of occupancy permits.
-22. The imposition, variation and rescission of conditions of occupancy permits.
-23. The manner and form of, and the fees payable in connection with, occupancy permits and applications for occupancy permits.
-24. The variation of the application of the Regulations to or in respect of the holder of an occupancy permit or the owner or occupier of a building, place or temporary structure used for public assembly, to which an occupancy permit relates.
+20A. The control, regulation and standards for places of public assembly, temporary structures and related building applications.
+21. The issue, duration, revocation and suspension of occupancy certification.
+22. The imposition, variation and rescission of conditions of occupancy certification.
+23. The manner and form of, and the fees payable in connection with, occupancy certification and applications for occupancy certification.
+24. The variation of the application of the Regulations to or in respect of the holder of occupancy certification or the owner or occupier of a building, place or temporary structure used for public assembly, to which occupancy certification relates.
 25. Making, keeping and production of records and returns.
-26. Keeping of registers of occupancy permits.
+26. Keeping of registers of occupancy certification.
 27. Building permits.
 28. Proceedings of the Practitioners Board.
 29. Proceedings of the Appeals Board.
@@ -51,7 +52,6 @@ section 168(2)
 49. The threshold value for building work that may only be carried out by building practitioners.
 50. The threshold value for building work carried out by owner-builders.
 51. The method for determining the value of building work for the purposes of this Act.
-52. The procedure for issuing substantial compliance certificates, including making applications, conducting inspections and directing work to be carried out.
 53. Exemption certificates.
 54. The making and giving of declarations.
 55. Consumer protection in relation to prescribed residential building work carried out, or to be carried out, by a residential builder in connection with a building owned by a public authority.
