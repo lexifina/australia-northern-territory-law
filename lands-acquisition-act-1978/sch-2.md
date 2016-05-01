@@ -43,7 +43,7 @@ in each case calculated at the date when, in all the circumstances, it was or wo
 The Tribunal shall not take into account:
 (a) any special suitability or adaptability of the acquired land for a purpose for which it could only be used:
 (i) in pursuance of a power conferred by law; or
-(ii) by the Commonwealth or the Territory, a statutory corporation to which the Financial Management Act applies, or a council constituted under the Local Government Act;
+(ii) by the Commonwealth or the Territory, a statutory corporation to which the Financial Management Act 1995 applies, or a council constituted under the Local Government Act 2008;
 (b) any increase in value of the acquired land resulting from its use or development contrary to law;
 (c) any increase or decrease in the amount referred to in rule 2(a) arising from:
 (i) the carrying out; or
