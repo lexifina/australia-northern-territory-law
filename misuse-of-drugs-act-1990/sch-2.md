@@ -19,9 +19,19 @@ Allylprodine | 2.00 g | 100.00 g
 Alphacetylmethadol | 10.00 g | 500.00 g
 Alphameprodine | 0.20 g | 10.00 g
 Alphamethadol | 0.20 g | 10.00 g
+Alpha-methyltryptamine | 2.00 g | 100.00 g
 Alphaprodine | 25.00 g | 1.25 kg
 2-Amino-1-(2,5-dimethoxy-4-methyl) phenylpropane (STP, DOM) | 0.50 g | 10.00 g
-Amphetamine | 2.00 g | 100.00 g
+N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (ADB-FUBINACA) | 50.00 g | 500.00 g
+N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (5-FLUORO-ADB-PINACA) | 50.00 g | 50.00 g
+N-(1-amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (ADB-PINACA) | 50.00 g | 500.00 g
+(S)-N-(1-amino-3-methyl-1-oxobutan-2-yl)-1- (5-fluoropentyl)-1H-indazole-3-carboxamide (5-FLUORO-AB-PINACA) | 50.00 g | 500.00 g
+(S)-N-(1-amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (AB-PINACA) | 50.00 g | 500.00 g
+N-[(1S)-1-(aminocarbonyl)-2-methylpropyl]-1-[(4-fluorophenyl)methyl]-1H-indazole-3-carboxamide (AB-FUBINACA) | 50.00 g | 500.00 g
+5-(2-Aminopropyl)Benzofuran (5-APB) | 2.00 g | 100.00 g
+6-(2-Aminopropyl)Benzofuran (6-APB) | 2.00 g | 100.00 g
+5-(2-Aminopropyl)-2,3-dihydrobenzofuran (5-ADPB) | 2.00 g | 100.00 g
+6-(2-Aminopropyl)-2,3-dihydrobenzofuran (6-ADPB) | 2.00 g | 100.00 g
 Amylobarbitone | 20.00 g | 1.00 kg
 Anileridine | 25.00 g | 1.25 kg
 Benzethidine | 10.00 g | 500.00 g
@@ -63,6 +73,7 @@ Desomorphine | 2.00 g | 100.00 g
 Dextromoramide | 2.00 g | 100.00 g
 Dextropropoxyphene, except when: (a) in divided preparations containing 135 mg or less of dextropropoxyphene per dosage unit; or (b) in liquid preparations containing 2.5% or less of dextropropoxyphene | 27.00 g | 1.35 kg
 Diampromide | 5.00 g | 250.00 g
+3,4-dichloro-N-[[1-(dimethylamino)cyclohexyl]methyl] benzamide (AH-7921) | 2.00 g | 100.00 g
 Diethylthiambutene | 5.00 g | 250.00 g
 N,N-Diethyltryptamine (DET) | 2.00 g | 100.00 g
 Difenoxin, except in preparations containing, per dosage unit. 0.5 mg or less of difenoxin and a quantity of atropine sulphate equivalent to at least 5% of the dose of difenoxin | 2.00 g | 100.00 g
@@ -76,6 +87,8 @@ Dimethoxyethylamphetamine | 0.50 g | 25.00 g
 Dimethoxymethamphetamine | 0.50 g | 25.00 g
 Dimethoxymethylenedioxyamphetamine | 0.50 g | 25.00 g
 Dimethoxyphenethylamine | 0.50 g | 25.00 g
+2-(2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (25H–NBOMe) | 0.50 g | 25.00 g
+Dimethyamylamine (DMAA) | 2.00 g | 100.00 g
 3-(2-Dimethylaminoethyl)-4-hydroxyindole (Psilocine, Psilotsin) | 0.10 g | 5.00 g
 3-(1,2-Dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo (b,d)pyran (DMHP) | 2.00 g | 100.00 g
 Dimethylthiambutene | 20.00 g | 1.00 kg
@@ -96,6 +109,7 @@ Etoxeridine | 5.00 g | 250.00 g
 Fenetylline | 2.00 g | 100.00 g
 Fentanyl | 0.005 g | 0.25 g
 Fluorofentanyl | 0.005 g | 0.25 g
+Fluoromethcathinone | 2.00 g | 100.00 g
 (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone *(XLR11) | 50.0 g | 500.00 g
 1-(5-Fluoropentyl)-3-(2-iodobenzoyl)indole *(AM-694) | 50.00 g | 500.00 g
 1-(5-Fluoropentyl)-3-(1-naphthoyl)indole *(AM-2201) | 50.00 g | 500.00 g
@@ -117,7 +131,6 @@ Hydroxypethidine | 5.00 g | 250.00 g
 2-(4-iodo-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (25I-NBOMe) | 0.50 g | 25.00 g
 Isomethadone | 2.00 g | 100.00 g
 Ketobemidone | 2.00 g | 100.00 g
-Ketamine | 0.002 g | 0.10 g
 Khat leaf | 250.00 g | 5.00 kg
 Levomethorphan | 2.00 g | 100.00 g
 Levomoramide | 2.00 g | 100.00 g
@@ -128,25 +141,25 @@ Metazocine | 7.00 g | 350.00 g
 Methadone | 2.00 g | 100.00 g
 Methaqualone | 50.00 g | 2.50 kg
 Methcathinone | 2.00 g | 100.00 g
-Methoxyethylenedioxyamphetamine | 0.50 g | 25.00 g
+5-methoxy-N,N-diallyltryptamine | 2.00 g | 100.00 g
+5-methoxy- α -methyltryptamine (5-MeO-AMT) | 2.00 g | 100.00 g
 Methoxyethylenedioxyphenylethylamine | 0.50 g | 25.00 g
-Methoxyamphetamine | 0.50 g | 25.00 g
-Methoxymethylenedioxyamphetamine (MMDA) | 0.50 g | 25.00 g
 Methoxymethylenedioxyphenethylamine | 0.50 g | 25.00 g
 4-Methoxyphenyl(1butyl-1h-indol-3-yl)-methanone *(RCS-4 (C4)) | 50.00 g | 500.00 g
 2-(4-Methoxyphenyl)-1-(1-pentyl-1h-indol-3-yl)-ethanone *(JWH-201) | 50.0 g | 500.00 g
 2-(2-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-250) | 50.00 g | 500.00 g
 2-(3-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-302) | 50.0 g | 500.00 g
 Methoxyphenylethylamine | 0.50 g | 25.00 g
-Methylenedioxyamphetamine (MDA); | 0.50 g | 25.00 g
-Methylenedioxyethylamphetamine (MDEA) | 0.50 g | 25.00 g
+α-methylamino-valerophenone (pentedrone) | 2.00 g | 100.00 g
+Methylenedioxymethcathinone (methylone) | 2.00 g | 100.00 g
+Methylenedioxypyrovalerone (MDPV) | 2.00 g | 100.00 g
 2-Methyl-3-morpholino-1,1-diphenylpropane Carboxylic Acid (Moramide intermediate) | 8.00 g | 400.00 g
 1-Methyl-4-phenylpiperidine-4-carboxylic acid (Pethidine intermediate C) | 10.00 g | 500.00 g
 1-Methyl-4-phenyl-4-propionoxypiperidine (MPPP) | 2.00 g | 100.00 g
 Methyldesorphine | 2.00 g | 100.00 g
 Methyldihydromorphine | 2.00 g | 100.00 g
-Methylenedioxymethamphetamine (MDMA) | 0.50 g | 25.00 g
 Methylfentanyl | 0.005 g | 0.25 g
+Methylmethcathinone | 2.00 g | 100.00 g
 Methylphenidate | 2.00 g | 100.00 g
 Methylthiofentanyl | 0.005 g | 0.25 g
 Metopon | 2.00 g | 100.00 g
@@ -162,6 +175,7 @@ N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide *(AKB48) | 50.0 g | 500.00 g
 1-[(N-methylpiperidin-2-yl)methyl]-3-(adamant-1-oyl) indole *(AM-1248) | 50.0 g | 500.00 g
 Nabilone | 0.40 g | 20.00 g
 Naphthalen-1-yl-(1-butylindol-3-yl)methanone *(JWH-073) | 50.00 g | 500.00 g
+N-1-naphthalenyl-1-pentyl-1H-indole-3-carboxamide (NNEI) | 50.00 g | 500.00 g
 Naphthoylindoles | 50.0 g | 500.00 g
 Naphthoylpyrroles | 50.0 g | 500.00 g
 Naphthylmethylindenes | 50.0 g | 500.00 g
@@ -211,6 +225,9 @@ Properidine | 25.00 g | 1.25 kg
 Propiram | 10.00 g | 500.00 g
 1-Propyl-2-methyl-3-(1-naphthoyl)indole *(JWH-015) | 50.0 g | 500.00 g
 Psilocybin and its derivatives | 0.10 g | 5.00 g
+Pyrrolidinobutiophenone | 2.00 g | 100.00 g
+Pyrrolidinopentiophenone | 2.00 g | 100.00 g
+Pyrrolidinopropiophenone | 2.00 g | 100.00 g
 Quinalbarbitone | 20.00 g | 1.00 kg
 Racemethorphan | 2.00 g | 100.00 g
 Racemoramide | 2.00 g | 100.00 g
