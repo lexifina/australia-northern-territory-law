@@ -1,6 +1,6 @@
-## Schedule 2 Dangerous drugs
+## Schedule 2 Other dangerous drugs
 section 3
-COLUMN 1 Dangerous drug or prohibited plant | COLUMN 2 Traffickable quantity | COLUMN 3 Commercial quantity
+COLUMN 1 Substance or thing | COLUMN 2 Traffickable quantity | COLUMN 3 Commercial quantity
 Acetorphine | 2.00 g | 100.00 g
 Acetyl-a-methylfentanyl | 0.005 g | 0.25 g
 Acetyldihydrocodeine, except when compounded with one or more other medicaments: | 2.00 g | 100.00 g
@@ -12,8 +12,8 @@ Adamantoylindoles | 50.0 g | 500.00 g
 Adamantylamidoindazoles | 50.0 g | 500.00 g
 Adamantylamidoindoles | 50.0 g | 500.00 g
 Alfentanil | 0.005 g | 0.25 g
-Alkoxyamphetamines and bromo-substituted alkoxyamphetamines, except where separately specified in this Schedule | 0.50 g | 25.00 g
-Alkoxyphenethylamines and alkyl-substituted alkoxyphene-thylamines, except where separately specified in this Schedule | 0.50 g | 25.00 g
+Alkoxyamphetamines and substituted alkoxyamphetamines except if separately specified in this Schedule | 0.50 g | 25.00 g
+Alkoxyphenethylamines and substituted alkoxyphenylethylamines except if separately specified in this Schedule | 0.50 g | 25.00 g
 Alkythioamphetamines | 0.50 g | 25.00 g
 Allylprodine | 2.00 g | 100.00 g
 Alphacetylmethadol | 10.00 g | 500.00 g

@@ -1,6 +1,6 @@
-## Schedule 1
+## Schedule 1 Dangerous drugs
 section 3
-Column 1 Dangerous drug | Column 2 Traffickable quantity | Column 3 Commercial quantity
+Column 1 Substance or thing | Column 2 Traffickable quantity | Column 3 Commercial quantity
 Amphetamine | 2.00 g | 40.00 g
 Heroin | 2.00 g | 40.00 g
 Ketamine | 0.002 g | 0.10 g
