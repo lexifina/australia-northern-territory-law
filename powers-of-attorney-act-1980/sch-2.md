@@ -4,9 +4,9 @@ Place of execution of instrument | Persons who can witness execution
 The Territory | a commissioner for oaths
 a member of the Legislative Assembly
 a legal practitioner
-a person holding office under the Supreme Court Act, Justices of the Peace Act, Local Court Act or Registration Act
+a person holding office under the Supreme Court Act 1979, Justices of the Peace Act 1991, Local Court Act 2015 or Registration Act 1927
 a police officer
-a person licensed as a conveyancing agent or real estate agent under the Agents Licensing Act
+a person licensed as a conveyancing agent or real estate agent under the Agents Licensing Act 1979
 a Notary Public
 any other person approved by the Registrar-General
 A State or another Territory | any person approved by Registrar-General's directions
