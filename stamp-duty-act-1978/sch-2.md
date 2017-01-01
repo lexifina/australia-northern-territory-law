@@ -35,7 +35,7 @@ Conveyances
 8 Conveyance to a former bankrupt from the estate of the former bankrupt (except where the bankrupt takes the property as trustee of a trust).
 9 Grant of a mining tenement, or of a statutory licence or permission used in or in connection with a business undertaking, unless, in the opinion of the Commissioner, the grant forms part of a wider transaction amounting, in effect, to a transfer of the mining tenement, licence or permission.
 10 Transfer under the Commercial Passenger (Road) Transport Act of a taxi licence or an agreement to make such a transfer.
-11 Temporary transfer agreement under section 12A of the Fisheries Act unless, in the opinion of the Commissioner, the transfer forms part of a wider transaction amounting, in effect, to the permanent transfer of the licence.
+11 Transfer of a licence for a fixed period under section 16A of the Fisheries Act unless, in the opinion of the Commissioner, the transfer forms part of a wider transaction amounting, in effect, to the permanent transfer of the licence.
 12 Grant of an estate in fee simple or other lesser estate in land from the Crown other than:
 (a) a grant of an estate in fee simple or lesser estate after the surrender of a convertible Crown lease held over the same land the subject of the grant where:
 (i) the grantee was not the person who surrendered the convertible Crown lease; and
