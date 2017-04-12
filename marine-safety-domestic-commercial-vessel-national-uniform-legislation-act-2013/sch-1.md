@@ -1,6 +1,6 @@
 ## Part 1 Preliminary matters
 Short title
-This Act may be cited as the Marine Safety (Domestic Commercial Vessel) (National Uniform Legislation) Act.
+This Act may be cited as the Marine Safety (Domestic Commercial Vessel) (National Uniform Legislation) Act 2013.
 Commencement
 This Act commences on the day fixed by the Administrator by Gazette notice.
 Purpose of Act
@@ -39,9 +39,9 @@ Application of Commonwealth laws as laws of Territory
 had not taken effect.
 Interpretation of Commonwealth domestic commercial vessel national law
 (1) The Acts Interpretation Act 1901 (Cth) applies as a law of the Territory in relation to the interpretation of the applied provisions, and so applies as if the applied provisions were a Commonwealth Act or were regulations or other legislative instruments under a Commonwealth Act, as the case requires.
-(2) The Interpretation Act does not apply to the applied provisions.
+(2) The Interpretation Act 1978 does not apply to the applied provisions.
 Note for subsection (2)
-Even though the Interpretation Act does not apply to the applied provisions, it applies to this Act and to instruments made under this Act.
+Even though the Interpretation Act 1978 does not apply to the applied provisions, it applies to this Act and to instruments made under this Act.
 ## Part 3 Functions and powers under applied provisions
 Functions and powers of National Regulator and other authorities and officers
 The National Regulator and other authorities and officers referred to in the applied provisions have the same functions and powers under the applied provisions as they have under the Commonwealth domestic commercial vessel national law, as that law applies to the Commonwealth.
@@ -104,23 +104,9 @@ For the purposes of sections 10 and 13, a reference in a Commonwealth law to a p
 Regulations of Territory
 (1) The Administrator may make regulations under this Act.
 (2) The regulations may not be inconsistent with this Act or the applied provisions.
-## Part 8 Repeal and transitional provisions
+## Part 8 Repeal
 Regulations repealed
 The Regulations specified in Schedule 1 are repealed.
-Transitional regulations
-(1) The Administrator may make regulations for this Part.
-(2) A regulation may provide for a matter of a transitional nature:
-(a) because of the enactment of this Act; or
-(b) to otherwise allow or facilitate the transition from the operation of the former Act to the Marine Safety National Law.
-(3) The regulation may have retrospective operation to a day not earlier than the commencement day.
-(4) However, to the extent to which the regulation has retrospective operation, it does not operate to the disadvantage of a person (other than the Territory or a Territory authority) by:
-(a) decreasing the person's rights; or
-(b) imposing liabilities on the person.
-(5) The regulation must declare it is made under this section.
-(6) This section, and each regulation made under it, expire 1 year after the commencement day.
-(7) In this section:
-commencement means the commencement of section 21.
-former Act means the Marine Act as in force immediately before commencement.
 ## Schedule 1 Repealed Regulations
 section 21
 Marine Amendment Regulations 2007 | Subordinate Legislation No. 38 of 2007
