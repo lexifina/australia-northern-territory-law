@@ -1,4 +1,4 @@
-AGRICULTURAL AND VETERINARY CHEMICALS (NORTHERN TERRITORY) ACT
+AGRICULTURAL AND VETERINARY CHEMICALS (NORTHERN TERRITORY) ACT 1994
 An Act to apply certain laws of the Commonwealth relating to agricultural and veterinary chemical products as laws of the Northern Territory, and for other purposes
 RECOGNISING:
 (a) that the protection of the health and safety of human beings, animals and the environment is essential to the well-being of society and can be enhanced by putting in place a system to regulate agricultural chemical products and veterinary chemical products;
