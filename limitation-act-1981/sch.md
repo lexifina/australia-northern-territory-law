@@ -20,12 +20,12 @@ Number and year of Act | Short title | How affected
 No. 237 of 1881 | Marine Board and Navigation Act, 1881 | Section 374 ceases to have effect in the Northern Territory as a law of the Northern Territory.
 Part IV
 Number and year of Act | Short title | Amendment
-No. 380 of 1886 | The Real Property Act | Omit section 215
-No. 26 of 1928 | Justices Act | Omit sections 194, 195 and 196 Omit from section 197 the word "such"
-No. 13 of 1940 | Lottery and Gaming Act | Omit section 96
-No. 6 of 1941 | Local Courts Act | Omit section 286
-No. 18 of 1955 | Local Government Act | Omit sections 404 and 415
-No. 8 of 1959 | Housing Act | Omit section 35
-No. 35 of 1963 | Sheriff Act | Omit section 24
-No. 36 of 1974 | Compensation (Fatal Injuries) Act | Omit section 9
-No. 1 of 1975 | Cyclone Disaster Emergency Act | Omit section 15
+No. 380 of 1886 | The Real Property Act 1886 | Omit section 215
+No. 26 of 1928 | Justices Act 1928 | Omit sections 194, 195 and 196 Omit from section 197 the word "such"
+No. 13 of 1940 | Lottery and Gaming Act 1940 | Omit section 96
+No. 6 of 1941 | Local Courts Act 1941 | Omit section 286
+No. 18 of 1955 | Local Government Act 1955 | Omit sections 404 and 415
+No. 8 of 1959 | Housing Act 1959 | Omit section 35
+No. 35 of 1963 | Sheriff Act 1963 | Omit section 24
+No. 36 of 1974 | Compensation (Fatal Injuries) Act 1974 | Omit section 9
+No. 1 of 1975 | Cyclone Disaster Emergency Act 1975 | Omit section 15
