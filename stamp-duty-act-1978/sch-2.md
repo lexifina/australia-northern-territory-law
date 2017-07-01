@@ -42,6 +42,7 @@ Conveyances
 (ii) the grant, in the opinion of the Commissioner, forms part of a wider transaction amounting, in effect, to a transfer of the estate in the land; or
 (b) a grant of an estate in fee simple or convertible Crown lease for which monetary consideration is given or agreed to be given (whether or not the consideration is subject to specified conditions and whether or not those conditions have been met); or
 (c) a grant of a mining tenement.
+12A Conveyance of a renewable energy certificate under the Renewable Energy (Electricity) Act 2000 (Cth).
 13 Transfer under the Petroleum Act, the Energy Pipelines Act, the Petroleum (Submerged Lands) Act or the Petroleum (Prospecting and Mining) Act (repealed) of a lease, licence, permit or other authority, or any agreement to make such a transfer.
 14 Conveyance of dutiable property to an exempt entity if the property is to be used solely by the entity for an exempt use.
 Leases
