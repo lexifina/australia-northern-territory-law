@@ -1,21 +1,21 @@
-## Schedule 2 Local distribution systems
+## Schedule 2 Local electricity systems
 section 9
-1 Darwin distribution system
-The distribution system:
+1 Darwin electricity system
+The electricity system (being the apparatus, electric lines, equipment, plant and buildings used to convey or control the conveyance of electricity):
 (a) located in the Darwin region; and
 (b) operated, as at 1 July 2015, by Power and Water Corporation;
 but not including the Darwin to Katherine 132kV power line described in item 5.
-2 Katherine distribution system
-The distribution system:
+2 Katherine electricity system
+The electricity system (being the apparatus, electric lines, equipment, plant and buildings used to convey or control the conveyance of electricity):
 (a) located in the Katherine region; and
 (b) operated, as at 1 July 2015, by Power and Water Corporation;
 but not including the Darwin to Katherine 132kV power line described in item 5.
-3 Tennant Creek distribution system
-The distribution system:
+3 Tennant Creek electricity system
+The electricity system (being the apparatus, electric lines, equipment, plant and buildings used to convey or control the conveyance of electricity):
 (a) located in the Tennant Creek region; and
 (b) operated, as at 1 July 2015, by Power and Water Corporation.
-4 Alice Springs distribution system
-The distribution system:
+4 Alice Springs electricity system
+The electricity system (being the apparatus, electric lines, equipment, plant and buildings used to convey or control the conveyance of electricity):
 (a) located in the Alice Springs region; and
 (b) operated, as at 1 July 2015, by Power and Water Corporation.
 5 Darwin to Katherine 132kV power line
