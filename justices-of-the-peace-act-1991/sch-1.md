@@ -1,7 +1,7 @@
 ## Schedule 1
 section 6
 Supreme Court Judge
-Master of the Supreme Court
+Associate Judge
 Registrar of the Supreme Court
 Local Court Judge
 Registrar of the Local Court
