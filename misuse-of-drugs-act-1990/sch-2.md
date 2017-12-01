@@ -52,9 +52,9 @@ Butobarbitone | 20.00 g | 1.00 kg
 Butorphanol | 2.00 g | 100.00 g
 Cannabis oil | 1.00 g | 25.00 g
 Cannabis plant | not less than 5 nor more than 19 plants | not less than 20 plants
-Cannabis plant material (being any part of the Cannabis plant, including the flowering or fruiting tops, leaves, stalks and seeds | 50.00 g | 500.00 g
+Cannabis plant material (being any part of the Cannabis plant, including the flowering or fruiting tops, leaves, stalks and seeds) other than permissible Cannabis seeds | 50.00 g | 500.00 g
 Cannabis resin | 10.00 g | 100.00 g
-Cannabis seed | 10.00 g | 100.00 g
+Cannabis seed, other than permissible Cannabis seeds | 10.00 g | 100.00 g
 Cathinone | 2.00 g | 100.00 g
 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (25C-NBOMe) | 0.50 g | 25.00 g
 Clonitazene | 5.00 g | 250.00 g
@@ -237,7 +237,12 @@ Salvia Divinorum, including extracts and other substances structurally derived f
 Secbutobarbitone | 20.00 g | 1.00 kg
 Sufentanil | 0.005 g | 0.25 g
 Tenocyclidine (TCP) | 2.00 g | 100.00 g
-Tetrahydrocannabinols and their alkyl homologues except: (a) when separately specified in this Schedule; (b) in hemp seed oil, containing 50 mg/kg or less of tetrahydrocannabinols, when labelled "Not for internal use" or "Not to be taken"; or (c) in products for purposes other than internal human use containing 50 mg/kg or less of tetrahydrocannabinols.
+Tetrahydrocannabinols and their alkyl homologues except:
+(a) if separately specified in this Schedule; or (b) in hemp seed oil:
+(i) containing more than 10 and not more than 50 mg/kg or less of tetrahydrocannabinols, when labelled "Not for internal use" or "Not to be taken"; or (ii) containing not more than 10 mg/kg of tetrahydrocannabinols; or
+(c) in products for purposes other than internal human use containing 50 mg/kg or less of tetrahydrocannabinols; or
+(d) in products made from permissible Cannabis seeds and intended for human consumption as a food that contain not more than 5 mg/kg of tetrahydrocannabinols; or
+(e) in products made from permissible Cannabis seeds and intended for human consumption as a beverage that contain not more than 2 mg/kg of tetrahydrocannabinols.
 Tetramethoxyamphetamine | 0.50 g | 25.00 g
 Thebacon | 2.00 g | 100.00 g
 Thebaine | 2.00 g | 100.00 g
@@ -248,5 +253,5 @@ Trimeperidine | 10.00 g | 500.00 g
 Trimethoxyamphetamine | 0.50 g | 25.00 g
 Trimethoxyphenethylamine (mescaline) and other substances structurally derived from methoxy-phenylethylamine, except: (a) methoxyphenamine; or (b) where separately specified in this Schedule | 7.50 g | 375.00 g
 Trimethoxyphenyl-aminobutane | 0.50 g | 25.00 g
-Anabolic Steroids: Danazol Dromostanolone propionate Ethylestrenol Fluoxymesterone Methandriol Methyltestosterone Nandrolone decanoate Nandrolone phenpropionate | 10.00 g 12.00 g 10.00 g 12.00 g 32.00 g 48.00 g 6.00 g 8.00 g | 500.00 g 600.00 g 500.00 g 600.00 g 1.60 kg 2.40 kg 300.00 g 400.00 g
-Oxandrolone Oxymetholone Stanozolol Testolactone Testosterone Testosterone cypionate Testosterone enanthate Testosterone propionate except anabolic steroids in products packaged for ovulation control or in quantities which can lawfully be prescribed as a Schedule 4 substance under the Medicines, Poisons and Therapeutic Goods Act | 12.00 g 300.00 g 7.20 g 1.20 kg 2.40 g 32.00 g 32.00 g 12.00 g | 600.00 g 15.00 kg 360.00 g 6.00 kg 120.00 g 1.60 kg 1.60 kg 600.00 g
+Anabolic Steroids: Danazol Dromostanolone propionate Ethylestrenol Fluoxymesterone Methandriol Methyltestosterone Nandrolone decanoate Nandrolone phenpropionate Oxandrolone Oxymetholone Stanozolol Testolactone Testosterone Testosterone cypionate Testosterone enanthate | 10.00 g 12.00 g 10.00 g 12.00 g 32.00 g 48.00 g 6.00 g 8.00 g 12.00 g 300.00 g 7.20 g 1.20 kg 2.40 g 32.00 g 32.00 g | 500.00 g 600.00 g 500.00 g 600.00 g 1.60 kg 2.40 kg 300.00 g 400.00 g 600.00 g 15.00 kg 360.00 g 6.00 kg 120.00 g 1.60 kg 1.60 kg
+Testosterone propionate except anabolic steroids in products packaged for ovulation control or in quantities which can lawfully be prescribed as a Schedule 4 substance under the Medicines, Poisons and Therapeutic Goods Act | 12.00 g | 600.00 g
