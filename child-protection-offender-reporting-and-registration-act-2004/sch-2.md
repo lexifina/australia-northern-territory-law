@@ -8,10 +8,10 @@ section 12(3)
 6. An offence against section 188(1) of the Criminal Code committed in the circumstances referred to in subsection (2)(k) of that section (indecent assault) – where the victim is a child.
 7. An offence against section 193 of the Criminal Code (assaults with intent to commit an offence) – where the intent is to commit a reportable offence.
 8. An offence against section 201 of the Criminal Code (abduction, enticement or detention of child under 16 years for immoral purpose).
-9. An offence against section 13 of the Prostitution Regulation Act (causing or inducing infant to take part in prostitution).
-10. An offence against section 14 of the Prostitution Regulation Act (allowing infant to take part in prostitution).
-11. An offence against section 15 of the Prostitution Regulation Act (obtaining payment in respect of prostitution services provided by infant).
-12. An offence against section 16 of the Prostitution Regulation Act (entering into agreement for provision of prostitution services by infant).
+9. An offence against section 13 of the Prostitution Regulation Act 1992 (causing or inducing infant to take part in prostitution).
+10. An offence against section 14 of the Prostitution Regulation Act 1992 (allowing infant to take part in prostitution).
+11. An offence against section 15 of the Prostitution Regulation Act 1992 (obtaining payment in respect of prostitution services provided by infant).
+12. An offence against section 16 of the Prostitution Regulation Act 1992 (entering into agreement for provision of prostitution services by infant).
 13. An offence against section 50BC of the Crimes Act 1914 (Cth) (sexual conduct involving child under 16 years).
 14. An offence against section 50BD of the Crimes Act 1914 (Cth) (inducing child under 16 years to be involved in sexual conduct).
 15. An offence against section 50DA or 50DB of the Crimes Act 1914 (Cth) (benefiting from offence and encouraging offence, respectively).

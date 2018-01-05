@@ -11,6 +11,6 @@ section 12(2)
 8. An offence against section 202B(2) or (3) of the Criminal Code (sexual servitude) – where the victim is a child.
 9. An offence against section 202C(2) or (3) of the Criminal Code (conducting business involving sexual servitude) – where the victim is a child.
 10. An offence against section 202D(2) of the Criminal Code (deceptive recruiting for sexual services) – where the victim is a child.
-11. An offence committed against section 60 to 69 (inclusive), 70(2), 71, 72 or 74 of the Criminal Law Consolidation Act – where the victim was a child.
+11. An offence committed against section 60 to 69 (inclusive), 70(2), 71, 72 or 74 of the Criminal Law Consolidation Act 1876 – where the victim was a child.
 12. An offence against section 50BA of the Crimes Act 1914 (Cth) (sexual intercourse with child under 16 years).
 13. An offence against section 50BB of the Crimes Act 1914 (Cth) (inducing child under 16 years to engage in sexual intercourse).
