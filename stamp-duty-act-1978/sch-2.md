@@ -33,7 +33,7 @@ Conveyances
 (d) the effect of the conveyance is that both parties to the conveyance will own the place of residence to which the conveyance relates in equal shares; and
 (e) no other person takes an interest under the conveyance.
 8 Conveyance to a former bankrupt from the estate of the former bankrupt (except where the bankrupt takes the property as trustee of a trust).
-9 Grant of a mining tenement, or of a statutory licence or permission used in or in connection with a business undertaking, unless, in the opinion of the Commissioner, the grant forms part of a wider transaction amounting, in effect, to a transfer of the mining tenement, licence or permission.
+9 Grant of a resource interest, or of a statutory licence or permission used in or in connection with a business undertaking, unless, in the opinion of the Commissioner, the grant forms part of a wider transaction amounting, in effect, to a transfer of the resource interest, licence or permission.
 10 Transfer under the Commercial Passenger (Road) Transport Act of a taxi licence or an agreement to make such a transfer.
 11 Transfer of a licence for a fixed period under section 16A of the Fisheries Act unless, in the opinion of the Commissioner, the transfer forms part of a wider transaction amounting, in effect, to the permanent transfer of the licence.
 12 Grant of an estate in fee simple or other lesser estate in land from the Crown other than:
@@ -41,9 +41,8 @@ Conveyances
 (i) the grantee was not the person who surrendered the convertible Crown lease; and
 (ii) the grant, in the opinion of the Commissioner, forms part of a wider transaction amounting, in effect, to a transfer of the estate in the land; or
 (b) a grant of an estate in fee simple or convertible Crown lease for which monetary consideration is given or agreed to be given (whether or not the consideration is subject to specified conditions and whether or not those conditions have been met); or
-(c) a grant of a mining tenement.
+(c) a grant of a resource interest.
 12A Conveyance of a renewable energy certificate under the Renewable Energy (Electricity) Act 2000 (Cth).
-13 Transfer under the Petroleum Act, the Energy Pipelines Act, the Petroleum (Submerged Lands) Act or the Petroleum (Prospecting and Mining) Act (repealed) of a lease, licence, permit or other authority, or any agreement to make such a transfer.
 14 Conveyance of dutiable property to an exempt entity if the property is to be used solely by the entity for an exempt use.
 Leases
 15 Lease that is a residence contract under the Retirement Villages Act.

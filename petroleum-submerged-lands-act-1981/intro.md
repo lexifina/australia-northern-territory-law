@@ -1,4 +1,4 @@
-Petroleum (Submerged Lands) act
+Petroleum (Submerged Lands) act 1981
 An Act to make provision with respect to the exploration for and the exploitation of the petroleum resources, and certain other resources, of certain submerged lands adjacent to the coasts of the Northern Territory and for other purposes
 PREAMBLE
 WHEREAS in accordance with international law Australia as a coastal State has sovereign rights over the continental shelf beyond the limits of Australian territorial waters for the purpose of exploring it and exploiting its natural resources:

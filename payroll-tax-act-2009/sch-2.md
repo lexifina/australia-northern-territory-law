@@ -5,8 +5,10 @@ Part 1 Introduction to Schedule
 This Schedule sets out provisions that apply only in this jurisdiction.
 2 Definitions
 In this Schedule:
+baseline count, see clause 20A.
 financial year means the financial year commencing on 1 July 2009 or on 1 July in any subsequent financial year.
 group threshold amount, see clause 8 of Schedule 1.
+resident employee, see clause 20A.
 Part 2 Calculation of monthly payroll tax
 Division 1 Rate of payroll tax
 3 Rate of payroll tax
@@ -116,7 +118,65 @@ For a part-time employee, the exemption may apply to wages paid or payable for p
 (a) a female is or was pregnant with the employee's unborn child; or
 (b) the employee's child has been born and the date of the birth.
 Note for subclause (6)
-Section 79 of the Taxation Administration Act requires these records to be kept for at least 5 years unless the Commissioner authorises earlier destruction.
+Section 79 of the Taxation Administration Act 2007 requires these records to be kept for at least 5 years unless the Commissioner authorises earlier destruction.
+Division 4 Hiring resident employees
+20A Definitions
+In this Division:
+baseline count, in respect of an employer, means the total number of resident employees employed by the employer on 30 April 2018.
+resident employee means an employee whose principal place of residence is in the Territory.
+20B Relocating or replacing employees with resident employees on or after 1 May 2018
+(1) Wages are exempt wages if:
+(a) the wages are paid or payable to a resident employee; and
+(b) the resident employee was an employee of the employer on 30 April 2018; and
+(c) the resident employee formerly resided outside the Territory but relocated to a principal place of residence in the Territory on or after 1 May 2018 and before 1 July 2020.
+Example for subclause (1)
+A fly-in fly-out employee relocates to the Territory on 1 September 2018. The employer can claim the exemption, regardless of the baseline count.
+(2) Wages are exempt wages if:
+(a) the wages are paid or payable to a resident employee; and
+(b) the resident employee was hired on or after 1 May 2018 and before 1 July 2020; and
+(c) the resident employee was hired to replace a former employee whose principal place of residence was outside the Territory; and
+(d) the former employee was an employee of the employer on 30 April 2018; and
+(e) the replacement occurred within 6 months of when the former employee ceased to be an employee.
+Example for subclause (2)
+A fly-in fly-out employee, hired before 1 May 2018, ceases to be employed. The position is filled within 6 months by a new employee who lives in the Territory. The employer can claim an exemption, regardless of the baseline count.
+20C Hiring new resident employees on or after 1 May 2018
+(1) Wages are exempt wages if:
+(a) the wages are paid or payable to a resident employee; and
+(b) the resident employee was hired on or after 1 May 2018 and before 1 July 2020.
+(2) The number of resident employees for which the exemption under subclause (1) is available in a month is limited to the number of resident employees, calculated on the last day of the month, that exceeds the baseline count, less the number of any resident employees mentioned in clause 20B.
+Example for clause 20C
+An employer had 50 resident employees on 30 April 2018 (baseline count). None of the resident employees were of the kind mentioned in clause 20B. In May 2018, 3 resident employees resigned and were replaced by 4 more resident employees. Under this clause the exemption is only available for 1 of those 4 resident employees.
+20D Other conditions
+(1) The exemptions under this Division are available only in respect of wages paid or payable during the 2-year period beginning on the date the resident employee's wages first became eligible for the exemption.
+Example for subclause (1)
+If a resident employee is hired on 1 September 2018 and the wages are eligible for the exemption, the exemption is available only until 31 August 2020.
+(2) The exemptions under this Division apply in relation to:
+(a) a full-time employee; and
+(b) a part-time employee; and
+(c) a person taken to be an employee under Part 3, Division 7 of this Act.
+(3) The exemptions under this Division do not apply in relation to:
+(a) a casual employee; or
+(b) a person taken to be an employee under Part 3, Division 8 of this Act.
+20E Record keeping
+An employer wishing to claim an exemption under this Division must obtain and keep sufficient records to satisfy the requirements for the claim.
+Note for clause 20E
+Section 79 of the Taxation Administration Act 2007 requires these records to be kept for at least 5 years unless the Commissioner authorises earlier destruction.
+20F Power to vary or refuse
+(1) The Commissioner may make an order under subclause (2) if satisfied that:
+(a) despite the appearance of an increase in the number of resident employees after 30 April 2018, in substance, no material change in that number occurred; or
+(b) the claim, the baseline count or other information on which a claim is made is not based on an accurate reflection of the employer's situation or the circumstance of the employer's employees; or
+(c) the claim is not justified by any material benefit to the employment of resident employees; or
+(d) the structure of the employer's business has significantly changed since 30 April 2018.
+(2) The Commissioner may, by order:
+(a) vary or refuse, in whole or in part, a claim for the exemption; or
+(b) vary the baseline count for an employer, or allocate baseline counts among employers.
+20G Guidelines
+(1) The Commissioner may issue written guidelines about exemptions and other matters under this Division.
+(2) A guideline may be of general or specific application.
+(3) A claim for an exemption is taken to be a valid claim to the extent that it complies with the guidelines in force under this clause.
+(4) A guideline does not affect:
+(a) the exercise by the Commissioner of a power under this Act; or
+(b) the right of a person to have the Commissioner exercise a power under this Act.
 Part 5 Government bodies – special provisions
 21 Application of Act to Government Business Divisions and statutory corporations
 (1) A Government Business Division is taken to be an employer for this Act.
@@ -124,5 +184,5 @@ Part 5 Government bodies – special provisions
 (3) If a Government Business Division is not a corporation, this Act applies to it as if it were a corporation.
 (4) In this clause:
 Government Business Division means an Agency or a part of an Agency that:
-(a) is a Government Business Division as defined in section 3(1) of the Financial Management Act; and
+(a) is a Government Business Division as defined in section 3(1) of the Financial Management Act 1995; and
 (b) is not excluded by regulation from the operation of this clause.
