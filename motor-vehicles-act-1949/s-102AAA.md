@@ -1,7 +1,7 @@
 # 102AAA Cancellation of licence to drive commercial passenger vehicle for disqualifying offence
 (1) The Registrar must cancel the licence of a licensee to drive a commercial passenger vehicle on becoming aware the licensee was convicted of a disqualifying offence (whether or not the conviction occurred after the commencement of this section).
 (2) Subsection (1) does not apply if:
-(a) the licensee's criminal record for the conviction is a spent record within the meaning of the Criminal Records (Spent Convictions) Act; or
+(a) the licensee's criminal record for the conviction is a spent record within the meaning of the Criminal Records (Spent Convictions) Act 1992; or
 (b) the licensee was discharged without any penalty being imposed for the conviction.
 (3) If the conviction occurs on or after the commencement of this section, subsection (1) does not apply if:
 (a) the Chief Executive Officer has previously decided under this Act the licensee may hold, or continue to hold, the licence despite the conviction; or

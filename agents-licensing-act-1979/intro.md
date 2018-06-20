@@ -1,2 +1,2 @@
-AGENTS LICENSING act
+AGENTS LICENSING act 1979
 An Act to provide for the licensing of certain agents, the registration of representatives of those licensed agents and for related purposes

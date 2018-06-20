@@ -1,8 +1,8 @@
 ## Schedule 3 Savings and transitional provisions
 section 340
 Part 1 Transitional matters for period before Consumer Affairs and Fair Trading Amendment (National Uniform Legislation) Act 2010
-1 Application of Interpretation Act
-The provisions of this Part do not prejudice the operation in relation to the repeals effected by this Act of section 12 of the Interpretation Act so far as that section is consistent with those provisions.
+1 Application of Interpretation Act 1978
+The provisions of this Part do not prejudice the operation in relation to the repeals effected by this Act of section 12 of the Interpretation Act 1978 so far as that section is consistent with those provisions.
 3 Door to Door Sales
 Notwithstanding the repeal of the enactments specified in paragraph 2 of Schedule 2, the Door to Door Sales Ordinance 1967 as amended shall, on and after the day on which the repeal takes effect, continue to have effect in relation to agreements to which it applied immediately before that day.
 4 Motor Vehicle Dealers
@@ -28,10 +28,10 @@ Part 2 Transitional matters for Consumer Affairs and Fair Trading Amendment (Nat
 In this Part:
 amendment Act means the Consumer Affairs and Fair Trading Amendment (National Uniform Legislation) Act 2010.
 commencement means the commencement of section 13 of the amendment Act.
-new Act means the Consumer Affairs and Fair Trading Act as in force immediately after the commencement.
-old Act means the Consumer Affairs and Fair Trading Act as in force immediately before the commencement.
-2 Interpretation Act not affected
-This Part does not limit Part III of the Interpretation Act.
+new Act means the Consumer Affairs and Fair Trading Act 1990 as in force immediately after the commencement.
+old Act means the Consumer Affairs and Fair Trading Act 1990 as in force immediately before the commencement.
+2 Interpretation Act 1978 not affected
+This Part does not limit Part III of the Interpretation Act 1978.
 3 Authorised officers
 A person who, immediately before the commencement, was an authorised officer for the purposes of a Part of the old Act is taken to be an authorised officer for the same Part of the new Act.
 4 Proceedings already commenced

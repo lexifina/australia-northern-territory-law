@@ -1,2 +1,2 @@
-SEXUAL OFFENCES (EVIDENCE AND PROCEDURE) ACT
+SEXUAL OFFENCES (EVIDENCE AND PROCEDURE) ACT 1983
 An Act relating to evidence and procedure in the examination of witnesses and the trial of persons in respect of sexual offences
