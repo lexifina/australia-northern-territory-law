@@ -7,8 +7,8 @@ Conveyances
 3 Conveyance for the purposes of a compulsory transfer of business under Part 4 of the Financial Sector (Business Transfer and Group Restructure) Act 1999 (Cth).
 4 Statutory vesting:
 (a) by which property vests in a company only because of its registration under Part 5B.1 of the Corporations Act 2001; or
-(b) by which property held by a person for or on behalf of an association vests in the association under section 12 of the Associations Act only because of its incorporation under that Act; or
-(c) by which property vests in the executor or administrator of a deceased person's estate under section 52 of the Administration and Probate Act.
+(b) by which property held by a person for or on behalf of an association vests in the association under section 12 of the Associations Act 2003 only because of its incorporation under that Act; or
+(c) by which property vests in the executor or administrator of a deceased person's estate under section 52 of the Administration and Probate Act 1969.
 5 Conveyance during the winding-up of a company of its property to a shareholder of the company where the shareholder is entitled to the property on a distribution in specie unless the conveyance is or is part of a tax avoidance scheme.
 6 Conveyance:
 (a) that the Commissioner is satisfied is made solely for the purpose of effecting the appointment of a new trustee on the retirement of a trustee or as an additional trustee, if:
@@ -34,8 +34,8 @@ Conveyances
 (e) no other person takes an interest under the conveyance.
 8 Conveyance to a former bankrupt from the estate of the former bankrupt (except where the bankrupt takes the property as trustee of a trust).
 9 Grant of a resource interest, or of a statutory licence or permission used in or in connection with a business undertaking, unless, in the opinion of the Commissioner, the grant forms part of a wider transaction amounting, in effect, to a transfer of the resource interest, licence or permission.
-10 Transfer under the Commercial Passenger (Road) Transport Act of a taxi licence or an agreement to make such a transfer.
-11 Transfer of a licence for a fixed period under section 16A of the Fisheries Act unless, in the opinion of the Commissioner, the transfer forms part of a wider transaction amounting, in effect, to the permanent transfer of the licence.
+10 Transfer under the Commercial Passenger (Road) Transport Act 1991 of a taxi licence or an agreement to make such a transfer.
+11 Transfer of a licence for a fixed period under section 16A of the Fisheries Act 1988 unless, in the opinion of the Commissioner, the transfer forms part of a wider transaction amounting, in effect, to the permanent transfer of the licence.
 12 Grant of an estate in fee simple or other lesser estate in land from the Crown other than:
 (a) a grant of an estate in fee simple or lesser estate after the surrender of a convertible Crown lease held over the same land the subject of the grant where:
 (i) the grantee was not the person who surrendered the convertible Crown lease; and
@@ -45,27 +45,24 @@ Conveyances
 12A Conveyance of a renewable energy certificate under the Renewable Energy (Electricity) Act 2000 (Cth).
 14 Conveyance of dutiable property to an exempt entity if the property is to be used solely by the entity for an exempt use.
 Leases
-15 Lease that is a residence contract under the Retirement Villages Act.
+15 Lease that is a residence contract under the Retirement Villages Act 1995.
 16 Lease to the Territory, to a Government Business Division declared by regulation to be a Government Business Division to which this exemption applies or to an authority of the Territory other than a Government Business Division.
 17 Lease to the Commonwealth or to an authority of the Commonwealth.
 18 Lease of property to an exempt entity if the property is to be used solely by the entity for an exempt use.
 Insurance
 19 An insurance cover-note in pursuance of which a duly stamped policy is issued within 3 months of the date of the cover-note.
 20 A policy of insurance issued to the original insured or the insured's personal representative in pursuance of a cover-note which has been duly stamped as a policy.
-21 A policy of insurance taken out as required under the Return to Work Act.
+21 A policy of insurance taken out as required under the Return to Work Act 1986.
 22 A policy of medical benefits insurance issued by a person registered as a private health insurer under Part 4-3 of the Private Health Insurance Act 2007 (Cth) that provides hospital benefits or medical benefits (or both) whether or not other benefits are also provided.
 22A A life policy issued by a life insurer (other than a life insurance rider).
-22B An authorised RBI policy, as defined in section 54CB of the Building Act, issued on or after 1 July 2015 in accordance with Part 5A of the Building Act.
-22C A fidelity certificate, as defined in section 54D of the Building Act, issued on or after 1 July 2015 in accordance with Part 5A of the Building Act.
+22B An authorised RBI policy, as defined in section 54CB of the Building Act 1982, issued on or after 1 July 2015 in accordance with Part 5A of the Building Act 1982.
+22C A fidelity certificate, as defined in section 54D of the Building Act 1982, issued on or after 1 July 2015 in accordance with Part 5A of the Building Act 1982.
 Motor vehicle certificates of registration
 23 Any of the following motor vehicle certificates of registration:
 (a) a motor vehicle certificate of registration issued to the person in whose name the vehicle was last registered before it was issued (whether registered in the Territory or elsewhere and whether or not that registration has expired) other than:
-(i) a motor vehicle certificate of registration issued in respect of a motor vehicle that:
-(A) was at any time registered under the Interstate Road Transport Act 1985 (Cth); and
-(B) is being registered under the Motor Vehicles Act by a person who has, until so registering the motor vehicle, never paid any stamp duty in relation to the motor vehicle under any law in force in the Commonwealth or a State or Territory of the Commonwealth; or
 (ii) a motor vehicle certificate of registration issued in respect of a motor vehicle that:
 (A) is a motor vehicle in which seating is provided for not less than 12 persons; and
-(B) is being registered under the Motor Vehicles Act by a person who has, until so registering the motor vehicle, never paid any stamp duty in relation to that motor vehicle under any law in force in the Commonwealth or a State or Territory of the Commonwealth; or
+(B) is being registered under the Motor Vehicles Act 1949 by a person who has, until so registering the motor vehicle, never paid any stamp duty in relation to that motor vehicle under any law in force in the Commonwealth or a State or Territory of the Commonwealth; or
 (iii) a motor vehicle certificate of registration, or a motor vehicle certificate of registration belonging to a class of motor vehicle certificates of registration, prescribed for the purposes of this subparagraph;
 (b) a motor vehicle certificate of registration issued following a conveyance of the motor vehicle:
 (i) to a person who is the spouse, parent, child or stepchild of the person in whose name the vehicle was last registered (whether in the Territory or elsewhere) before the issue of the motor vehicle certificate of registration; or
@@ -92,10 +89,10 @@ other than:
 (i) a motorised wheelchair; or
 (ii) an experimental or research vehicle that has no readily ascertainable market value; or
 (iii) a vehicle that has been brought into the Territory principally to take part in, or be part of, a specific event or specific events; or
-(iv) registered under the Motor Vehicles Act as an enthusiast vehicle; or
+(iv) registered under the Motor Vehicles Act 1949 as an enthusiast vehicle; or
 (v) a trailer that has a gross vehicle mass of not more than 4.5 t;
 Note for subparagraph (v)
-A caravan is a trailer within the meaning of the definition trailer in the Motor Vehicles Act.
+A caravan is a trailer within the meaning of the definition trailer in the Motor Vehicles Act 1949.
 (k) a motor vehicle certificate of registration issued:
 (i) to a veteran who is eligible to receive a pension at the rate specified by section 22(4) or 24(4) of the Veterans' Entitlements Act 1986 (Cth); and
 (ii) in respect of a motor vehicle for the veteran's non-commercial use;
