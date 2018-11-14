@@ -1,10 +1,10 @@
 ## Schedule 3
 section 25
 NORTHERN TERRITORY OF AUSTRALIA
-Juries Act
+Juries Act 1962
 JURY PRECEPT
 To the Sheriff,
-In pursuance of the Juries Act, I order you to summon before the Supreme Court of the Northern Territory of Australia to be held at the Court House at on the day of , 19 ,
+In pursuance of the Juries Act 1962, I order you to summon before the Supreme Court of the Northern Territory of Australia to be held at the Court House at on the day of , 19 ,
 persons of the Territory qualified by law as jurors to make a jury for all such matters as shall be required of them and to return into the Supreme Court on that date:
 (a) this precept;
 (b) the names of the jurors summoned;
