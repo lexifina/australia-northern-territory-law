@@ -45,9 +45,9 @@ Note 2: IPP 2.1 does not override any existing legal obligations not to disclose
 Note 3: A public sector organisation is also liable to the requirements of IPP 9 if it transfers personal information to a person outside the Territory.
 2.2 If a public sector organisation uses or discloses personal information under IPP 2.1(g), the organisation must make a written note of the use or disclosure.
 2.3 In this IPP:
-child, see section 13 of the Care and Protection of Children Act.
-exploitation, see section 16 of the Care and Protection of Children Act.
-harm, see section 15 of the Care and Protection of Children Act.
+child, see section 13 of the Care and Protection of Children Act 2007.
+exploitation, see section 16 of the Care and Protection of Children Act 2007.
+harm, see section 15 of the Care and Protection of Children Act 2007.
 IPP 3 Data quality
 3.1 A public sector organisation must take reasonable steps to ensure that the personal information it collects, uses or discloses is accurate, complete and up to date.
 IPP 4 Data security
