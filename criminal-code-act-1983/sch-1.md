@@ -2,6 +2,7 @@
 section 1, definition Schedule 1 provision
 Section 66 (Offences relating to riots)
 Section 103A (Threats or reprisals relating to persons involved in criminal investigations or judicial proceedings or against public officers)
+Part IV (Offences against the administration of law and justice and against public authority), Division 1 (Disclosure of confidential information and corruption and abuse of office) (other than sections 83, 85 and 86)
 Part VI (Offences against the person and related matters), Division 1A (Preliminary matters), Subdivision 2 (Interpretation)
 Part VI (Offences against the person and related matters), Division 3 (Homicide: Suicide: Concealment of Birth: Abortion) (other than sections 165, 166 and 170)
 Part VI (Offences against the person and related matters), Division 3A (Recklessly endangering life and serious harm, negligently causing serious harm and related offences involving vehicles and vessels)
