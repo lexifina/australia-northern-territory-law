@@ -1,6 +1,6 @@
 ## Schedule 1 Repealed Acts
 section 186
-Education Act | Act No. 77, 1979
+Education Act 1979 | Act No. 77, 1979
 Education Act (No. 2) 1979 | Act No. 145, 1979
 Education Amendment Act 1981 | Act No. 32, 1981
 Education Amendment Act 1982 | Act No. 95, 1982
