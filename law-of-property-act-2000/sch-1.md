@@ -5,11 +5,11 @@ When a question arises as to the title of the Crown to land in a case of escheat
 2. Writ of inquisition
 In the event of a question referred to in clause 1, a writ called a writ of inquisition is to be issued from the Court on the fiat of a Law Officer to the Local Court, and is to command the Local Court to make diligent inquiry into the matter and to certify under his, her or its hand and seal the facts respecting the failure of the heirs or next of kin of an intestate, the alienage of a grantee or any other facts that are necessary to establish whether the Crown has title to the land.
 3. Return of writ
-The writ of inquisition and the certificate of the Local Court is to be returned to the Court as soon as reasonably possible, and any person aggrieved by the certificate is entitled to traverse or object to the writ or certificate in the manner and within the time provided by the Supreme Court Rules or, if the Rules do not make provision for the making of the objection, not later that 1 month after the return of the writ.
+The writ of inquisition and the certificate of the Local Court is to be returned to the Court as soon as reasonably possible, and any person aggrieved by the certificate is entitled to traverse or object to the writ or certificate in the manner and within the time provided by the Supreme Court Rules 1987 or, if the Rules do not make provision for the making of the objection, not later that 1 month after the return of the writ.
 4. Writ to be returned before new grant made
 No grant of any land alleged to be escheated or to have become bona vacantia is to be made until after the writ of inquisition and a certificate finding the title of the land has been returned into the Court and the time for traversing the writ or certificate has expired.
 5. Effect of certificate
-Subject to this Schedule or the Supreme Court Rules, the certificate is conclusive evidence of the facts stated in it.
+Subject to this Schedule or the Supreme Court Rules 1987, the certificate is conclusive evidence of the facts stated in it.
 6. Saving
 Proceedings on a writ of inquisition do not prejudice any rights which, at the time of the death of the person that led to the issue of the writ, were vested in some other person.
 7. Procedure when waiver by the Crown

@@ -1,2 +1,2 @@
-Law of Property act
+Law of Property act 2000
 An Act to consolidate, amend and reform the law relating to conveyancing, property and contract, and for related purposes
