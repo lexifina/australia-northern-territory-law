@@ -39,9 +39,10 @@ GFS Australia means the publication of the Australian Bureau of Statistics known
 Government means the Territory Government.
 principles of sound fiscal management means the principles set out in clause 5.
 Territory public sector body means an Agency or other entity that is within the Territory non-financial public sector.
-Under Treasurer means the Chief Executive Officer of the Northern Territory Treasury.
 Uniform Presentation Framework means the minimum set of statistics that Commonwealth, State and Territory Governments have agreed to present in their budget and related documentation, as in force from time to time.
 (2) Other words and expressions used in this Schedule and in the GFS Australia have the same meaning as they have in the GFS Australia.
+Note for clause 3
+The Interpretation Act 1978 contains definitions and other provisions that may be relevant to this Framework.
 Part 3 Principles of sound fiscal management
 4 Formulation of Government fiscal policy
 (1) The Government’s fiscal policy is to be directed at maintaining the on-going economic prosperity and welfare of the people of the Territory and is therefore to be set in a sustainable medium-term framework.
@@ -65,11 +66,11 @@ Part 4 Fiscal strategy statement
 (4) If the Legislative Assembly is not sitting when a fiscal strategy statement is publicly released:
 (a) the statement still takes effect from its public release; and
 (b) the Treasurer must table the statement in the Legislative Assembly when it next sits (or as soon as practicable after then).
-7. Purpose of fiscal strategy statements
+7 Purpose of fiscal strategy statements
 The purpose of fiscal strategy statements is to increase public awareness of the Government’s fiscal strategy and to establish a benchmark for evaluating the Government’s conduct of fiscal policy.
-8. Fiscal strategy statement to be based on principles of sound fiscal management
+8 Fiscal strategy statement to be based on principles of sound fiscal management
 A fiscal strategy statement is to be based on the principles of sound fiscal management.
-9. Contents of fiscal strategy statement
+9 Contents of fiscal strategy statement
 (1) A fiscal strategy statement is to:
 (a) specify the Government’s medium-term fiscal objectives;
 (b) explain the broad strategic priorities on which the budget is or will be based;
@@ -114,7 +115,7 @@ Part 6 Final fiscal results report
 (1) The Treasurer must publicly release and table a final fiscal results report for each financial year no later than 4 months after the end of the financial year.
 (2) If the Legislative Assembly is not sitting when a final fiscal results report is released under subclause (1), the report does not have to be tabled in the Legislative Assembly until it next sits (or as soon as practicable after then), even if that is after the expiry of 4 months after the end of the financial year.
 (3) The final fiscal results report for a financial year may be incorporated in the fiscal outlook report for the next financial year if the next financial year’s budget is brought down within 4 months after the start of that financial year.
-(4) The final fiscal results report for a financial year may be incorporated in the Treasurer’s Annual Financial Statement required by section 9 of the Financial Management Act if the next financial year’s budget is brought down before the start of that year.
+(4) The final fiscal results report for a financial year may be incorporated in the Treasurer’s Annual Financial Statement required by section 9 of the Financial Management Act 1995 if the next financial year’s budget is brought down before the start of that year.
 16 Contents of final fiscal results report
 (1) A final fiscal results report is to include:
 (a) the financial result for the Territory general government sector and the Territory non-financial public sector for the financial year ending on the preceding 30 June;
