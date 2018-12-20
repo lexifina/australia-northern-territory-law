@@ -1,7 +1,7 @@
 ## Schedule 1 Form of writ
 section 27(1)
 NORTHERN TERRITORY OF AUSTRALIA
-Electoral Act
+Electoral Act 2004
 WRIT
 To:
 The Electoral Commission
