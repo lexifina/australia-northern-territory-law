@@ -6,4 +6,4 @@
 (c) the defendant did not know, and ought not reasonably be expected to have known, that the offence was to be or was being committed and took all reasonable steps to prevent or stop the commission of the offence; or
 (d) the defendant could not by the exercise of reasonable diligence have prevented the commission of the offence by the body corporate.
 (3) A person may be proceeded against and found guilty under a provision in pursuance of subsection (1) whether or not the body corporate has been proceeded against or found guilty under the provision.
-(4) Despite anything in this Part or the Environmental Offences and Penalties Act, a person is not liable to be punished by imprisonment for an offence if the person would not have been found guilty of the offence except for subsection (1).
+(4) Despite anything in this Part or the Environmental Offences and Penalties Act 1996, a person is not liable to be punished by imprisonment for an offence if the person would not have been found guilty of the offence except for subsection (1).

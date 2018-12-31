@@ -1,3 +1,3 @@
 ## Division 2 Environmental offences
 # 117AAA Application
-This Division does not apply in relation to a substance that is prescribed under the Waste Management and Pollution Control Act to be an ozone-depleting substance.
+This Division does not apply in relation to a substance that is prescribed under the Waste Management and Pollution Control Act 1998 to be an ozone-depleting substance.

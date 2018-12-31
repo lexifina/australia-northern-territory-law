@@ -6,5 +6,5 @@
 (b) the act or omission that constituted the offence took place without the defendant's authority, permission or consent;
 (c) the defendant did not know, and ought not reasonably be expected to have known, the offence was to be or was being committed and took all reasonable steps to prevent or stop the commission of the offence or a similar offence; or
 (d) the defendant could not by the exercise of reasonable diligence have prevented the commission of the offence by the person who committed the offence.
-(4) Despite anything in this Act or the Environmental Offences and Penalties Act, a person is not liable to be punished by imprisonment for an offence if the person would not have been found guilty of the offence except for subsection (1).
+(4) Despite anything in this Act or the Environmental Offences and Penalties Act 1996, a person is not liable to be punished by imprisonment for an offence if the person would not have been found guilty of the offence except for subsection (1).
 (5) For the purposes of this section, a reference to engaging in conduct is read as including a reference to failing or refusing to engage in conduct.
