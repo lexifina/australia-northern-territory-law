@@ -27,7 +27,7 @@ IPP 2 Use and disclosure
 (iii) in the case of disclosure – the organisation reasonably believes the recipient of the information will not disclose the information;
 (iv) if the information is health information – the use or disclosure is in accordance with guidelines issued by the Commissioner under section 86(1)(a)(iv) for this paragraph;
 (d) the organisation reasonably believes that the use or disclosure is necessary to lessen or prevent:
-(i) a serious and imminent threat to the individual's or another individual's life, health or safety; or
+(i) a serious or imminent threat to the individual's or another individual's life, health or safety; or
 (ii) a serious or imminent threat of harm to, or exploitation of, a child; or
 (iii) a serious threat to public health or public safety;
 (e) the organisation has reason to suspect that unlawful activity has been, is being or may be engaged in and uses or discloses the information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities;
