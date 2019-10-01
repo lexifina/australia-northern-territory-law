@@ -29,10 +29,10 @@ dwelling means a building, or part of a building, designed, constructed or adapt
 floor area, in relation to a building, includes all wall thicknesses of the external walls and all roof areas used as floors, but does not include verandahs, balconies or areas set aside for car parking or access to car parking.
 home occupation means an occupation or profession that is carried on in a dwelling or on the site of a dwelling, but does not include the use of a site as a medical consulting room.
 hostel includes boarding houses, guest houses, lodging houses and other premises used to provide board or lodging with communal toilet, ablution, dining or cooking facilities, but does not include bed and breakfast accommodation, hotel or motel.
-hotel means premises that require a licence under the Liquor Act 1978 and if, as a principal part of the business, alcoholic beverages are ordinarily sold to the public for consumption on the premises whether or not accommodation is provided for members of the public and whether or not meals are served, but does not include a motel or restaurant.
+hotel means premises that require a licence and public bar authority under the Liquor Act 2019 and if, as a principal part of the business, alcoholic beverages are ordinarily sold to the public for consumption on the premises whether or not accommodation is provided for members of the public and whether or not meals are served, but does not include a motel or restaurant.
 Lake Bennett locality means the area of land to which this instrument applies under clause 3.
 medical consulting room means a room or suite of rooms on the site of a single dwelling for use as a medical practitioner, dentist or person associated with health care.
-motel means premises wholly or principally used for the accommodation of travellers and the vehicles used by them, whether or not the building is also used to provide meals to the travellers or to members of the general public and whether or not the premises are licensed under the Liquor Act 1978.
+motel means premises wholly or principally used for the accommodation of travellers and the vehicles used by them, whether or not the building is also used to provide meals to the travellers or to members of the general public and whether or not the premises are licensed under the Liquor Act 2019.
 multiple dwellings means a building or group of buildings on a site that individually or collectively contain more than one dwelling but does not include a dependant unit.
 net floor area, in relation to a building, includes all the area between internal surfaces of external walls but does not include:
 (a) stairs, cleaners' cupboards, ablution facilities, lift shafts, escalators or tea rooms if tea rooms are provided as a standard facility in the building;
@@ -46,7 +46,7 @@ promotion sign means a device using words, letters or images exhibited for the p
 (a) goods, services or products not provided, produced or sold; or
 (b) events or activities that are not carried on,
 on the land or in the building on which the sign is constructed or erected.
-restaurant means premises or part of a hotel or motel in which meals are served to the public, whether or not the premises provide a drive-through service or require a licence under the Liquor Act 1978.
+restaurant means premises or part of a hotel or motel in which meals are served to the public, whether or not the premises provide a drive-through service or require a licence under the Liquor Act 2019.
 shop means premises used for the display and sale by retail, or for hire, of goods or services, but does not include a restaurant.
 single dwelling means a building containing one dwelling only.
 site means an area of land, whether consisting of one lot or more, the subject of an application to the consent authority.
