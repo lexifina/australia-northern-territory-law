@@ -1,5 +1,5 @@
-## SCHEDULE
-Section 3
+## Schedule
+section 3
 MEMORANDUM OF AGREEMENT BETWEEN THE COMMONWEALTH AND THE NORTHERN TERRITORY OF THE GRANTING OF COMMUNITY LIVING AREAS IN NORTHERN TERRITORY PASTORAL DISTRICTS
 Discussions were held between the Prime Minister and the Chief Minster of the Northern Territory on 6/7 September in relation to the question of Aboriginal living areas and Aboriginal land claims to stock routes and stock reserves in the Northern Territory.
 They agreed that action will be taken as a matter of urgency to give effect to the provisions of this Memorandum which constitute a package to be implemented in a cooperative and coordinated manner.
@@ -54,9 +54,9 @@ Any dispute will be determined in accordance with the procedures at Attachment B
 – provide that power to compulsorily acquire shall not extend to acquisition of a fee-simple interest.
 3. Mining Act
 – provide that a mineral lease cannot be granted in respect of living area within a specified (greater than the currently prescribed 50 m or 200 m) distance of the principal location of the community,
-– (N. B. the provisions of the Mining Act section 73 and Petroleum Act section 81 provide for compensation to be payable to owners or occupiers);
+– (N. B. the provisions of the Mining Act 1980 section 73 and Petroleum Act 1984 section 81 provide for compensation to be payable to owners or occupiers);
 4. General
-– provide that the grounds for acquisition for essential public purposes could be identified at the time of a grant and be registered as a memorial on the title under the Real Property Act;
+– provide that the grounds for acquisition for essential public purposes could be identified at the time of a grant and be registered as a memorial on the title under the Real Property Act 1886;
 – those protections and restrictions would apply to the current living areas held under Crown Lease (term) when leases surrendered in exchange for a freehold title;
 – where living areas are already held under freehold title, titles may be surrendered in exchange for a new freehold title in order to be subject to the same protections and restrictions.
 ATTACHMENT B
