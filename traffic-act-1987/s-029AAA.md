@@ -13,7 +13,8 @@ For a second or subsequent offence –20 penalty units or imprisonment for 12 mo
 (c) failing to provide a sufficient sample of breath for a breath analysis;
 (ca) failing to submit to a saliva test;
 (d) failing to give a sample of blood for analysis;
-(e) driving with alcohol in the breath or blood (if the person, at the time of the previous offence, was of a class of person mentioned in section 24(1)).
+(e) driving with alcohol in the breath or blood (if the person, at the time of the previous offence, was of a class of person mentioned in section 24(1));
+(f) failing to comply with a direction from a police officer to pull over for a breath test or a saliva test (or both).
 (3) If a court finds a person guilty of a relevant offence relating to the influence of a drug only, the person's licence to drive is automatically cancelled and the person is disqualified from obtaining a licence:
 (a) for a first offence – for a minimum period of 6 months; or
 (b) for a second or subsequent offence – for a minimum period of 12 months.

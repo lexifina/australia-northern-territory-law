@@ -1,9 +1,8 @@
 # 29AAF Requirement for saliva test
 (1) A police officer may, in the following circumstances, require a person to submit to a saliva test, or more than one saliva test, for the purpose of analysis by an authorised analyst to determine whether there is a prohibited drug in the person's body:
 (a) the person is a driver required to pull over under section 29AAB(1)(b);
-(b) the officer has reasonable cause to suspect the person:
-(i) has committed an offence against Division 3 or 4; or
-(ii) was the driver of a motor vehicle that was involved in a crash on a road, road-related area or public place.
+(ab) the person is a driver who the officer has reasonable cause to suspect has committed an offence under this Act or the Motor Vehicles Act 1949;
+(b) the officer has reasonable cause to suspect the person was the driver of a motor vehicle that was involved in a crash on a road, road-related area or public place.
 (2) The officer may only require the person to submit to a saliva test if not more than 4 hours has expired since the driver was pulled over or the offence, or crash, mentioned in subsection (1) occurred.
 (3) If a police officer requires a person to submit to a saliva test, the person must comply with the directions given by the officer or another police officer.
 (4) If a police officer requires a person to submit to a saliva test and:

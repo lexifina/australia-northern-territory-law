@@ -5,7 +5,8 @@ For a second or subsequent offence – 7.5 penalty units or imprisonment for 6 m
 (2) An offence against subsection (1) (a relevant offence) is a second or subsequent offence if the person has previously been found guilty of any of the following offences:
 (a) driving under the influence of alcohol or a drug;
 (b) driving with a prohibited drug in the body;
-(c) failing to submit to a saliva test.
+(c) failing to submit to a saliva test;
+(d) failing to comply with a direction from a police officer to pull over for a breath test or a saliva test (or both).
 (3) For subsection (2)(b), an offence for which an infringement notice was issued and not withdrawn is taken to be a previous finding of guilt for the offence.
 (4) If a court finds a person guilty of a relevant offence that is a second or subsequent offence, the person's licence to drive is automatically cancelled and the person is disqualified from obtaining a licence:
 (a) for a second offence – for a minimum period of 3 months; or

@@ -1,6 +1,9 @@
 # 29AAG Requirement to give blood sample
 (1) Subsection (2) applies if a police officer:
 (a) does not require a person to submit to a breath test or breath analysis for a reason mentioned in section 29AAC(6) and the officer reasonably believes that the concentration of alcohol in the person's breath or blood is such that the person has committed an offence against this Act; or
+(ab) has required the person to submit to a breath analysis under section 29AAC but the breath analysis instrument has failed to provide a result because of one of the following reasons:
+(i) the breath analysis instrument is malfunctioning;
+(ii) the person's BrAC is too high for the breath analysis instrument to measure; or
 (b) the officer has reasonable cause (whether or not as a result of a positive indication from a saliva test) to suspect the person's body contains a prohibited drug.
 (2) The officer may require the person to give a sample of blood for the purpose of analysis by an authorised analyst to determine if:
 (a) the person's blood contains alcohol in a concentration that constitutes the person having committed an offence against Division 2 or 4; or
