@@ -1,4 +1,4 @@
-## Schedule Implied provisions
+## Schedule 1 Implied provisions
 sections 16 to 24
 Division 1 Variations
 1 Variations must be agreed
@@ -25,7 +25,6 @@ Division 4 Making claims for payment
 (e) state the amount claimed; and
 (f) for a claim by the contractor – itemise and describe the obligations the contractor has performed and to which the claim relates in sufficient detail for the principal to assess the claim; and
 (g) for a claim by the principal – describe the basis for the claim in sufficient detail for the contractor to assess the claim; and
-(h) be signed by the claimant; and
 (i) be given to the party to which the claim is made.
 (2) For a claim by the contractor, the amount claimed must be calculated in accordance with this contract or, if this contract does not provide a way of calculating the amount, the amount claimed must be:
 (a) if this contract states that the principal must pay the contractor one amount (the contract sum) for the performance by the contractor of all of its obligations under this contract (the total obligations) – the proportion of the contract sum that is equal to the proportion that the obligations performed and detailed in the claim are of the total obligations; or
@@ -40,10 +39,10 @@ Division 5 Responding to payment claims
 (i) believes the claim should be rejected because the claim has not been made in accordance with this contract; or
 (ii) disputes the whole or part of the claim.
 (2) The party must:
-(a) within 14 days after receiving the payment claim:
+(a) within 10 working days after receiving the payment claim:
 (i) give the claimant a notice of dispute; and
 (ii) if the party disputes part of the claim – pay the amount of the claim that is not disputed; or
-(b) within 28 days after receiving the payment claim, pay the whole of the amount of the claim.
+(b) within 20 working days after receiving the payment claim, pay the whole of the amount of the claim.
 (3) The notice of dispute must:
 (a) be in writing; and
 (b) be addressed to the claimant; and
