@@ -1,5 +1,5 @@
 ## Schedule Reviewable decisions
-sections 41 and 41C
+section 41
 Section | Decision
 29 | Decision to grant, or refuse to grant, tobacco retail licence
 29A | Decision to grant, or refuse to grant, renewal of tobacco retail licence

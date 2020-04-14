@@ -1,5 +1,5 @@
 ## Schedule Reviewable decisions
-sections 166A and 166D
+section 166A
 Section | Decision
 25 | Decision to grant or refuse application
 25(12) | Decision regarding number of gaming machines authorised for use under the licence

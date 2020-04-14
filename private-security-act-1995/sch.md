@@ -1,5 +1,5 @@
 ## Schedule Reviewable decisions and affected persons
-sections 53E, 53F(1) and 53J
+section 53E
 Section | Decision | Affected person
 18 | Decision to refuse to grant licence | Applicant
 19 | Decision to impose condition on licence | Applicant

@@ -1,5 +1,5 @@
 ## Schedule 2 Reviewable decisions
-sections 78 and 81
+section 78
 Section | Decision
 64 | Decision to issue, or refuse to grant, licence
 65 | Decision to renew, or refuse to renew, licence
