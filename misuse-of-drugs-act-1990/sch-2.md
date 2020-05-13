@@ -63,6 +63,7 @@ Codeine except when compounded with one or more other medicaments: (a) in divide
 Codeine-N-oxide | 10.00 g | 500.00 g
 Codoxime | 10.00 g | 500.00 g
 Concentrate of Poppy Straw (the material arising when poppy straw has entered into a process for concentration of its alkaloids) | 250.00 g | 5.00 kg
+CUMYL-PeGACLONE (SGT-151) | 50.00 g | 500.00 g
 4-Cyano-2-dimethylamino-4, 4-diphenylbutane (Methadone intermediate) | 2.00 g | 100.00 g
 4-Cyano-1-methyl-4-phenylpiperidine (Pethidine intermediate A) | 10.00 g | 500.00 g
 Cyclobarbitone | 20.00 g | 1.00 kg
@@ -108,9 +109,12 @@ Etorphine | 5.00 g | 250.00 g
 Etoxeridine | 5.00 g | 250.00 g
 Fenetylline | 2.00 g | 100.00 g
 Fentanyl | 0.005 g | 0.25 g
+5-fluoro-AB-P7AICA | 50.00 g | 500.00 g
+5-fluoro CUMYL-P7AICA | 50.00 g | 500.00 g
 Fluorofentanyl | 0.005 g | 0.25 g
 Fluoromethcathinone | 2.00 g | 100.00 g
 (1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone *(XLR11) | 50.0 g | 500.00 g
+1-(5-fluoropentyl)-N-(1-methyl-1-phenylethyl)-1H-indazole-3-carboxamide (5-FLUORO-CUMYL-PINACA) | 50.00 g | 500.00 g
 1-(5-Fluoropentyl)-3-(2-iodobenzoyl)indole *(AM-694) | 50.00 g | 500.00 g
 1-(5-Fluoropentyl)-3-(1-naphthoyl)indole *(AM-2201) | 50.00 g | 500.00 g
 Furethidine | 1.00 g | 50.00 g
@@ -139,6 +143,7 @@ Levorphanol | 1.00 g | 50.00 g
 Mecloqualone | 60.00 g | 3.00 kg
 Metazocine | 7.00 g | 350.00 g
 Methadone | 2.00 g | 100.00 g
+Methanandamide | 50.00 g | 500.00 g
 Methaqualone | 50.00 g | 2.50 kg
 Methcathinone | 2.00 g | 100.00 g
 5-methoxy-N,N-diallyltryptamine | 2.00 g | 100.00 g
@@ -175,6 +180,7 @@ N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide *(AKB48) | 50.0 g | 500.00 g
 1-[(N-methylpiperidin-2-yl)methyl]-3-(adamant-1-oyl) indole *(AM-1248) | 50.0 g | 500.00 g
 Nabilone | 0.40 g | 20.00 g
 Naphthalen-1-yl-(1-butylindol-3-yl)methanone *(JWH-073) | 50.00 g | 500.00 g
+Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (NM2201) | 50.00 g | 500.00 g
 N-1-naphthalenyl-1-pentyl-1H-indole-3-carboxamide (NNEI) | 50.00 g | 500.00 g
 Naphthoylindoles | 50.0 g | 500.00 g
 Naphthoylpyrroles | 50.0 g | 500.00 g
@@ -238,8 +244,10 @@ Secbutobarbitone | 20.00 g | 1.00 kg
 Sufentanil | 0.005 g | 0.25 g
 Tenocyclidine (TCP) | 2.00 g | 100.00 g
 Tetrahydrocannabinols and their alkyl homologues except:
-(a) if separately specified in this Schedule; or (b) in hemp seed oil:
-(i) containing more than 10 and not more than 50 mg/kg or less of tetrahydrocannabinols, when labelled "Not for internal use" or "Not to be taken"; or (ii) containing not more than 10 mg/kg of tetrahydrocannabinols; or
+(a) if separately specified in this Schedule; or
+(b) in hemp seed oil:
+(i) containing more than 10 and not more than 50 mg/kg or less of tetrahydrocannabinols, when labelled "Not for internal use" or "Not to be taken"; or
+(ii) containing not more than 10 mg/kg of tetrahydrocannabinols; or
 (c) in products for purposes other than internal human use containing 50 mg/kg or less of tetrahydrocannabinols; or
 (d) in products made from permissible Cannabis seeds and intended for human consumption as a food that contain not more than 5 mg/kg of tetrahydrocannabinols; or
 (e) in products made from permissible Cannabis seeds and intended for human consumption as a beverage that contain not more than 2 mg/kg of tetrahydrocannabinols.
