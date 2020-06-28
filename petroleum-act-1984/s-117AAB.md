@@ -4,11 +4,6 @@ contaminant means a solid, liquid, gas or any combination of those substances an
 (a) noise, smoke, dust, fumes, odour or heat;
 (b) a prescribed substance or prescribed class of substances; and
 (c) a substance having a prescribed property or prescribed class of properties.
-environment means land, air, water, organisms and ecosystems and includes:
-(a) the well-being of humans;
-(b) structures made or modified by humans;
-(c) the amenity values of an area; and
-(d) economic, cultural and social conditions.
 environmental harm means:
 (a) any harm to or adverse effect on the environment; or
 (b) any potential harm (including the risk of harm and future harm) to or potential adverse effect on the environment,
