@@ -128,12 +128,12 @@ resident employee means an employee whose principal place of residence is in the
 (1) Wages are exempt wages if:
 (a) the wages are paid or payable to a resident employee; and
 (b) the resident employee was an employee of the employer on 30 April 2018; and
-(c) the resident employee formerly resided outside the Territory but relocated to a principal place of residence in the Territory on or after 1 May 2018 and before 1 July 2020.
+(c) the resident employee formerly resided outside the Territory but relocated to a principal place of residence in the Territory on or after 1 May 2018 and before 1 July 2021.
 Example for subclause (1)
 A fly-in fly-out employee relocates to the Territory on 1 September 2018. The employer can claim the exemption, regardless of the baseline count.
 (2) Wages are exempt wages if:
 (a) the wages are paid or payable to a resident employee; and
-(b) the resident employee was hired on or after 1 May 2018 and before 1 July 2020; and
+(b) the resident employee was hired on or after 1 May 2018 and before 1 July 2021; and
 (c) the resident employee was hired to replace a former employee whose principal place of residence was outside the Territory; and
 (d) the former employee was an employee of the employer on 30 April 2018; and
 (e) the replacement occurred within 6 months of when the former employee ceased to be an employee.
@@ -142,7 +142,7 @@ A fly-in fly-out employee, hired before 1 May 2018, ceases to be employed. The p
 20C Hiring new resident employees on or after 1 May 2018
 (1) Wages are exempt wages if:
 (a) the wages are paid or payable to a resident employee; and
-(b) the resident employee was hired on or after 1 May 2018 and before 1 July 2020.
+(b) the resident employee was hired on or after 1 May 2018 and before 1 July 2021.
 (2) The number of resident employees for which the exemption under subclause (1) is available in a month is limited to the number of resident employees, calculated on the last day of the month, that exceeds the baseline count, less the number of any resident employees mentioned in clause 20B.
 Example for clause 20C
 An employer had 50 resident employees on 30 April 2018 (baseline count). None of the resident employees were of the kind mentioned in clause 20B. In May 2018, 3 resident employees resigned and were replaced by 4 more resident employees. Under this clause the exemption is only available for 1 of those 4 resident employees.
