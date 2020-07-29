@@ -8,6 +8,7 @@ Part VI (Offences against the person and related matters), Division 3 (Homicide:
 Part VI (Offences against the person and related matters), Division 3A (Recklessly endangering life and serious harm, negligently causing serious harm and related offences involving vehicles and vessels)
 Section 176A (Drink or food spiking)
 Section 180A (Endangering occupants of vehicles and vessels)
+Section 186AA (Choking, strangling or suffocating in a domestic relationship)
 Section 192 (Sexual intercourse and gross indecency without consent)
 Part VI (Offences against the person and related matters), Division 7A (Distributing intimate images)
 Part VI (Offences against the person and related matters), Division 8 (Abortion)
