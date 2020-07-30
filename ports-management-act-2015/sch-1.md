@@ -1,7 +1,7 @@
 ## Schedule 1 Reviewable decisions
 section 145
 Reviewable decision | Affected person
-A decision by the regional harbourmaster for a designated port to withhold an approval under section 53(1) or impose a condition on such an approval | The person seeking to erect the jetty, wharf, pontoon, mooring or structure or to moor, anchor or otherwise fasten a floating structure or mooring buoy
+A decision by the regional harbourmaster for a designated port to withhold an approval under section 53(1) or impose a condition on such an approval | The person seeking to do the thing mentioned in section 53(1)(a), (b) or (c)
 A decision by the Minister to refuse an application under section 54(1) | The applicant
 A decision by the Minister under section 55(1) to suspend or cancel a licence under Part 6 | The licence holder
 A decision of a pilotage authority of a kind mentioned in section 84(1) | The person to whom the decision relates
