@@ -67,7 +67,7 @@ CUMYL-PeGACLONE (SGT-151) | 50.00 g | 500.00 g
 4-Cyano-2-dimethylamino-4, 4-diphenylbutane (Methadone intermediate) | 2.00 g | 100.00 g
 4-Cyano-1-methyl-4-phenylpiperidine (Pethidine intermediate A) | 10.00 g | 500.00 g
 Cyclobarbitone | 20.00 g | 1.00 kg
-1-Cyclohexylethyl-3-(2-methoxyphenylacetyl)indole *(RCS-8) | 50.00 g | 500.00 g
+1-Cyclohexylethyl-3-(2-methoxyphenylacetyl)indole (RCS-8) | 50.00 g | 500.00 g
 Cyclohexylphenols | 50.0 g | 500.00 g
 Cyclopropanoylindoles | 50.0 g | 500.00 g
 Desomorphine | 2.00 g | 100.00 g
@@ -113,22 +113,22 @@ Fentanyl | 0.005 g | 0.25 g
 5-fluoro CUMYL-P7AICA | 50.00 g | 500.00 g
 Fluorofentanyl | 0.005 g | 0.25 g
 Fluoromethcathinone | 2.00 g | 100.00 g
-(1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone *(XLR11) | 50.0 g | 500.00 g
+(1-(5-fluoropentyl)-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl) methanone (XLR11) | 50.0 g | 500.00 g
 1-(5-fluoropentyl)-N-(1-methyl-1-phenylethyl)-1H-indazole-3-carboxamide (5-FLUORO-CUMYL-PINACA) | 50.00 g | 500.00 g
-1-(5-Fluoropentyl)-3-(2-iodobenzoyl)indole *(AM-694) | 50.00 g | 500.00 g
-1-(5-Fluoropentyl)-3-(1-naphthoyl)indole *(AM-2201) | 50.00 g | 500.00 g
+1-(5-Fluoropentyl)-3-(2-iodobenzoyl)indole (AM-694) | 50.00 g | 500.00 g
+1-(5-Fluoropentyl)-3-(1-naphthoyl)indole (AM-2201) | 50.00 g | 500.00 g
 Furethidine | 1.00 g | 50.00 g
 Harmaline | 2.00 g | 100.00 g
 Harmine | 2.00 g | 100.00 g
 3-Hexyl-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo(b,d)pyran (Parahexyl) | 2.00 g | 100.00 g
-1-Hexyl-3-(1-naphthoyl)indole *(JWH-019) | 50.00 g | 500.00 g
+1-Hexyl-3-(1-naphthoyl)indole (JWH-019) | 50.00 g | 500.00 g
 Hydrocodone | 2.00 g | 100.00 g
 Hydromorphinol | 2.00 g | 100.00 g
 Hydromorphone | 2.00 g | 100.00 g
-2-[(1R,3S)-3-Hydroxycyclohexyl]-5-(2-methylnonan-2-yl)phenol *(Cannabicyclohexanol or CP 47,497 C8 homologue) | 50.00 g | 500.00 g
-2-[(1R,3S)-3-Hydroxycyclohexyl]-5-(2-methyloctan-2-yl)phenol *(CP 47,497) | 50.00 g | 500.00 g
+2-[(1R,3S)-3-Hydroxycyclohexyl]-5-(2-methylnonan-2-yl)phenol (Cannabicyclohexanol or CP 47,497 C8 homologue) | 50.00 g | 500.00 g
+2-[(1R,3S)-3-Hydroxycyclohexyl]-5-(2-methyloctan-2-yl)phenol (CP 47,497) | 50.00 g | 500.00 g
 Hydroxyfentanyl | 0.005 g | 0.25 g
-9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6A,7,10,10A-tetrahydrobenzo[c]chromen-1-ol *(HU-210) | 50.00 g | 500.00 g
+9-(Hydroxymethyl)-6,6-dimethyl-3-(2-methyloctan-2-yl)-6A,7,10,10A-tetrahydrobenzo[c]chromen-1-ol (HU-210) | 50.00 g | 500.00 g
 Hydroxymethylfentanyl | 0.005 g | 0.25 g
 Hydroxypethidine | 5.00 g | 250.00 g
 4-Hydroxybutanoic acid | 2.00 g | 100.00 g
@@ -150,10 +150,10 @@ Methcathinone | 2.00 g | 100.00 g
 5-methoxy- α -methyltryptamine (5-MeO-AMT) | 2.00 g | 100.00 g
 Methoxyethylenedioxyphenylethylamine | 0.50 g | 25.00 g
 Methoxymethylenedioxyphenethylamine | 0.50 g | 25.00 g
-4-Methoxyphenyl(1butyl-1h-indol-3-yl)-methanone *(RCS-4 (C4)) | 50.00 g | 500.00 g
-2-(4-Methoxyphenyl)-1-(1-pentyl-1h-indol-3-yl)-ethanone *(JWH-201) | 50.0 g | 500.00 g
-2-(2-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-250) | 50.00 g | 500.00 g
-2-(3-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone *(JWH-302) | 50.0 g | 500.00 g
+4-Methoxyphenyl(1butyl-1h-indol-3-yl)-methanone (RCS-4 (C4)) | 50.00 g | 500.00 g
+2-(4-Methoxyphenyl)-1-(1-pentyl-1h-indol-3-yl)-ethanone (JWH-201) | 50.0 g | 500.00 g
+2-(2-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone (JWH-250) | 50.00 g | 500.00 g
+2-(3-Methoxyphenyl)-1-(1-pentylindol-3-yl)ethanone (JWH-302) | 50.0 g | 500.00 g
 Methoxyphenylethylamine | 0.50 g | 25.00 g
 α-methylamino-valerophenone (pentedrone) | 2.00 g | 100.00 g
 Methylenedioxymethcathinone (methylone) | 2.00 g | 100.00 g
@@ -172,14 +172,14 @@ Morpheridine | 2.00 g | 100.00 g
 Morphine | 2.00 g | 100.00 g
 Morphine Methobromide | 2.00 g | 100.00 g
 Morphine-N-oxide | 2.00 g | 100.00 g
-(1-(2-Morpholin-4-ylethyl)indol-3-yl)-naphthalen-1-ylmethanone *(JWH-200) | 50.00 g | 500.00 g
+(1-(2-Morpholin-4-ylethyl)indol-3-yl)-naphthalen-1-ylmethanone (JWH-200) | 50.00 g | 500.00 g
 Muscimol | 2.00 g | 100.00 g
 Myrophine | 20.00 g | 1.00 kg
-N-adamantyl-1-fluoropentylindole-3-Carboxamide *(STS-135) | 50.0 g | 500.00 g
-N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide *(AKB48) | 50.0 g | 500.00 g
-1-[(N-methylpiperidin-2-yl)methyl]-3-(adamant-1-oyl) indole *(AM-1248) | 50.0 g | 500.00 g
+N-adamantyl-1-fluoropentylindole-3-Carboxamide (STS-135) | 50.0 g | 500.00 g
+N-(1-adamantyl)-1-pentyl-1H-indazole-3-carboxamide (AKB48) | 50.0 g | 500.00 g
+1-[(N-methylpiperidin-2-yl)methyl]-3-(adamant-1-oyl) indole (AM-1248) | 50.0 g | 500.00 g
 Nabilone | 0.40 g | 20.00 g
-Naphthalen-1-yl-(1-butylindol-3-yl)methanone *(JWH-073) | 50.00 g | 500.00 g
+Naphthalen-1-yl-(1-butylindol-3-yl)methanone (JWH-073) | 50.00 g | 500.00 g
 Naphthalen-1-yl 1-(5-fluoropentyl)-1H-indole-3-carboxylate (NM2201) | 50.00 g | 500.00 g
 N-1-naphthalenyl-1-pentyl-1H-indole-3-carboxamide (NNEI) | 50.00 g | 500.00 g
 Naphthoylindoles | 50.0 g | 500.00 g
@@ -201,15 +201,15 @@ Oxymorphone | 2.00 g | 100.00 g
 Parahexyl | – | –
 Pentazocine | 20.00 g | 1.00 kg
 Pentobarbitone | 20.00 g | 1.00 kg
-1-Pentyl-3-(4-chloro-1-naphthoyl)indole *(JWH-398) | 50.00 g | 500.00 g
-1-Pentyl-3-(2-chlorophenylacetyl)indole *(JWH-203) | 50.0 g | 500.00 g
-1-Pentyl-3-(4-ethyl-1-naphthoyl)indole *(JWH-210) | 50.0 g | 500.00 g
-1-Pentyl-1h-indol-3-yl-(1-naphthoyl)menthane *(JWH-175) | 50.00 g | 500.00 g
-1-Pentyl-3-[(4-methoxy)-benzoyl]indole *(RCS-4) | 50.00 g | 500.00 g
-1-Pentyl-3-(4-methoxynaphthoyl)indole *(JWH-081) | 50.00 g | 500.00 g
-1-Pentyl-3-(4-methyl-1-naphthoyl)indole *(JWH-122) | 50.00 g | 500.00 g
-1-Pentyl-3-(1-naphthoyl)indole *(JWH-018) | 50.00 g | 500.00 g
-(1-pentylindol-3-yl)-(2,2,3,3-tetramethylcyclopropyl)methanone *(UR144) | 50.0 g | 500.00 g
+1-Pentyl-3-(4-chloro-1-naphthoyl)indole (JWH-398) | 50.00 g | 500.00 g
+1-Pentyl-3-(2-chlorophenylacetyl)indole (JWH-203) | 50.0 g | 500.00 g
+1-Pentyl-3-(4-ethyl-1-naphthoyl)indole (JWH-210) | 50.0 g | 500.00 g
+1-Pentyl-1h-indol-3-yl-(1-naphthoyl)menthane (JWH-175) | 50.00 g | 500.00 g
+1-Pentyl-3-[(4-methoxy)-benzoyl]indole (RCS-4) | 50.00 g | 500.00 g
+1-Pentyl-3-(4-methoxynaphthoyl)indole (JWH-081) | 50.00 g | 500.00 g
+1-Pentyl-3-(4-methyl-1-naphthoyl)indole (JWH-122) | 50.00 g | 500.00 g
+1-Pentyl-3-(1-naphthoyl)indole (JWH-018) | 50.00 g | 500.00 g
+(1-pentylindol-3-yl)-(2,2,3,3-tetramethylcyclopropyl)methanone (UR144) | 50.0 g | 500.00 g
 Pethidine | 10.00 g | 500.00 g
 Phenadoxone | 10.00 g | 500.00 g
 Phenampromide | 10.00 g | 500.00 g
@@ -224,12 +224,12 @@ Phenylacetylindoles | 50.0 g | 500.00 g
 Pholcodine, except when compounded with one or more other medicaments: (a) in divided preparations containing not more than 100 mg of pholcodine per dosage unit; or (b) in undivided preparations with a concentration of not more than 2.5% of pholcodine | 5.00 g | 250.00 g
 Piminodine | 10.00 g | 500.00 g
 Piritramide | 1.00 g | 50.00 g
-Pravadoline *(WIN 48098) | 50.00 g | 500.00 g
+Pravadoline (WIN 48098) | 50.00 g | 500.00 g
 Proheptazine | 1.00 g | 50.00 g
 Prohibited plant, other than elsewhere described in this Schedule | not less than 5 nor more than 19 plants | not less than 20 plants
 Properidine | 25.00 g | 1.25 kg
 Propiram | 10.00 g | 500.00 g
-1-Propyl-2-methyl-3-(1-naphthoyl)indole *(JWH-015) | 50.0 g | 500.00 g
+1-Propyl-2-methyl-3-(1-naphthoyl)indole (JWH-015) | 50.0 g | 500.00 g
 Psilocybin and its derivatives | 0.10 g | 5.00 g
 Pyrrolidinobutiophenone | 2.00 g | 100.00 g
 Pyrrolidinopentiophenone | 2.00 g | 100.00 g

@@ -24,7 +24,7 @@ Annual final fiscal results report
 Pre-election fiscal outlook report
 (7) The Under Treasurer must publicly release a pre-election fiscal outlook report once an election is called.
 Sources of information
-(8) The Under Treasurer is responsible for preparation of all financial projections contained in the statements and reports required to be published under this Framework.
+(8) The Under Treasurer is responsible for the preparation of all financial projections contained in the statements and reports required to be published under this Framework.
 Part 2 Interpretation
 3 Interpretation
 (1) In this Framework, unless the contrary intention appears:
