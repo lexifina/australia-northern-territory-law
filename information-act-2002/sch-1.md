@@ -12,6 +12,7 @@ Transplantation and Anatomy Act 1979 | section 28(1)
 Mineral Royalty Act 1982 | section 50(1)
 Misuse of Drugs Act 1990 | section 24(2)
 Northern Territory Aboriginal Sacred Sites Act 1989 | section 38(1)
+Serious Sex Offenders Act 2013 | section 112
 Sexual Offences (Evidence and Procedure) Act 1983 | sections 11, 11A and 11B(1)
 Surveillance Devices Act 2007 | sections 15(1), 16(1) and 52(1) and (2)
 Taxation Administration Act 2007 | section 102(1)
