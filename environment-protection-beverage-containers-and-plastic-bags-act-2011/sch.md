@@ -1,30 +1,30 @@
 ## Schedule Agreements for coordinator arrangement provisions
 section 12(3)
 1 Definitions
-accepted containers means empty approved containers that:
-(a) are the subject of a primary coordinator's approved supplier arrangements; and
+accepted containers means empty permitted containers that:
+(a) are the subject of a primary coordinator's supplier arrangements; and
 (b) have been accepted by a secondary coordinator from an operator of an approved collection depot.
-market share, of a CDS coordinator, means the coordinator's share of the total number of all approved containers sold in the Territory during a quarter calculated by reference to the numbers stated in all of the sales declarations for that quarter.
-primary coordinator, in relation to approved containers, means a CDS coordinator who is a party to an approved supplier arrangement relating to those containers.
+market share, of a CDS coordinator, means the coordinator's share of the total number of all permitted containers sold in the Territory during a quarter calculated by reference to the numbers stated in all of the sales declarations for that quarter.
+primary coordinator, in relation to permitted containers, means a CDS coordinator who is a party to a supplier arrangement relating to those containers.
 sales declaration means a statutory declaration given under an agreement mentioned in clause 2.
-secondary coordinator, in relation to approved containers, means a CDS coordinator who:
+secondary coordinator, in relation to permitted containers, means a CDS coordinator who:
 (a) accepts the containers, when empty, from an operator with whom the coordinator has an approved operator arrangement; and
-(b) is not a party to the approved supplier arrangement relating to those containers.
+(b) is not a party to the supplier arrangement relating to those containers.
 2 Quarterly sales declaration
 (1) An agreement that each CDS coordinator must give to each other coordinator, in each quarter, a statutory declaration stating the following:
-(a) the total number of approved containers, by reference to material types, anticipated to be sold in the Territory during the current quarter;
-(b) the total number of approved containers, by reference to material types, actually sold in the Territory during the previous quarter;
-(c) an adjustment of the numbers of approved containers for the previous quarter, taking into account the difference between:
+(a) the total number of permitted containers, by reference to material types, anticipated to be sold in the Territory during the current quarter;
+(b) the total number of permitted containers, by reference to material types, actually sold in the Territory during the previous quarter;
+(c) an adjustment of the numbers of permitted containers for the previous quarter, taking into account the difference between:
 (i) the number anticipated to be sold during that quarter as stated in the previous statutory declaration; and
 (ii) the number actually sold during that quarter as stated for paragraph (b).
 (2) The agreement must require the statutory declaration to be given by a CDS coordinator within 7 days after the day on which the coordinator has been given all of the supplier sales documents for the previous quarter.
-(3) For subclause (1)(a), the total number of approved containers anticipated to be sold during the current quarter, by material type, is to be stated as the total number of those containers actually sold by the supplier in the previous quarter.
-(4) For subclause (1)(b), the total number of approved containers actually sold during the previous quarter is as specified in all of the supplier sales documents for that quarter.
+(3) For subclause (1)(a), the total number of permitted containers anticipated to be sold during the current quarter, by material type, is to be stated as the total number of those containers actually sold by the CDS supplier in the previous quarter.
+(4) For subclause (1)(b), the total number of permitted containers actually sold during the previous quarter is as specified in all of the supplier sales documents for that quarter.
 Notes for clause 2
-1 All of the statutory declarations for a quarter show the total sales in the Territory of approved containers by reference to material types.
-2 The numbers of approved containers stated by a CDS coordinator in the coordinator's statutory declaration indicate the market share of the coordinator relevant to the calculations mentioned in clauses 6, 7 and 8.
-3 Sorting empty approved containers
-An agreement that each coordinator must specify in each approved operator arrangement the material types (including categories of material types), into which empty approved containers must be sorted by the operator.
+1 All of the statutory declarations for a quarter show the total sales in the Territory of permitted containers by reference to material types.
+2 The numbers of permitted containers stated by a CDS coordinator in the coordinator's statutory declaration indicate the market share of the coordinator relevant to the calculations mentioned in clauses 6, 7 and 8.
+3 Sorting empty permitted containers
+An agreement that each coordinator must specify in each approved operator arrangement the material types (including categories of material types), into which empty permitted containers must be sorted by the operator.
 4 Weighing and counting accepted containers
 (1) An agreement about the method to be used by a secondary coordinator for the following:
 (a) weighing accepted containers;
