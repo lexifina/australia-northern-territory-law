@@ -12,3 +12,5 @@ Suspending or cancelling authority (section 169(2) or 171(2)) | Holder of author
 Notice to cease employment involving Schedule 7 substances or pesticides (section 172(4)(d)) | Employer and employee to whom notice relates
 Amount of compensation for forfeited thing (section 200) | Applicant
 Giving compliance notice (section 201) | Person who receives notice
+Refusing to give authorisation (section 243F(5)) | Person who receives notice
+Revocation of authorisation (section 243F(7)) | Person who receives notice
