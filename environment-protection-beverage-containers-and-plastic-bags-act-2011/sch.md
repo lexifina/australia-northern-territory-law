@@ -8,7 +8,7 @@ market share, of a CDS coordinator, means the coordinator's share of the total n
 primary coordinator, in relation to permitted containers, means a CDS coordinator who is a party to a supplier arrangement relating to those containers.
 sales declaration means a statutory declaration given under an agreement mentioned in clause 2.
 secondary coordinator, in relation to permitted containers, means a CDS coordinator who:
-(a) accepts the containers, when empty, from an operator with whom the coordinator has an approved operator arrangement; and
+(a) accepts the containers, when empty, from an operator with whom the coordinator has a operator arrangement; and
 (b) is not a party to the supplier arrangement relating to those containers.
 2 Quarterly sales declaration
 (1) An agreement that each CDS coordinator must give to each other coordinator, in each quarter, a statutory declaration stating the following:
@@ -24,7 +24,7 @@ Notes for clause 2
 1 All of the statutory declarations for a quarter show the total sales in the Territory of permitted containers by reference to material types.
 2 The numbers of permitted containers stated by a CDS coordinator in the coordinator's statutory declaration indicate the market share of the coordinator relevant to the calculations mentioned in clauses 6, 7 and 8.
 3 Sorting empty permitted containers
-An agreement that each coordinator must specify in each approved operator arrangement the material types (including categories of material types), into which empty permitted containers must be sorted by the operator.
+An agreement that each coordinator must specify in each operator arrangement the material types (including categories of material types), into which empty permitted containers must be sorted by the operator.
 4 Weighing and counting accepted containers
 (1) An agreement about the method to be used by a secondary coordinator for the following:
 (a) weighing accepted containers;
