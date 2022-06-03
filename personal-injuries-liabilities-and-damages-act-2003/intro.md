@@ -1,2 +1,2 @@
 Personal Injuries (Liabilities and Damages) Act 2003
-An Act to modify the law relating to the entitlement to damages for personal injuries, to clarify principles of contributory negligence, to fix reasonable limits on certain awards of damages for personal injuries, to provide for periodic payments of damages for personal injuries, and for related purposes
+An Act to modify the law relating to the entitlement to damages for personal injuries, to clarify principles of contributory negligence, to fix reasonable limits on certain awards of damages for personal injuries, to provide for periodic payments of damages for personal injuries, to introduce a scheme limiting payments to certain offenders, and for related purposes
