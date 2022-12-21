@@ -1,4 +1,4 @@
-## Schedule 6
+## Schedule 6 Oaths
 sections 58 and 59
 OATH BY JUROR IN A CRIMINAL TRIAL
 "I [promise/swear etc. as required by Oaths, Affidavits and Declarations Act 2010] to faithfully try the several issues joined between our Sovereign Lady the Queen and the inmate(s) at the bar and will give a true verdict according to the evidence. [So help me God! or as appropriate]"

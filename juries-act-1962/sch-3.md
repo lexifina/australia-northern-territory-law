@@ -1,4 +1,4 @@
-## Schedule 3
+## Schedule 3 Jury precept
 section 25
 NORTHERN TERRITORY OF AUSTRALIA
 Juries Act 1962

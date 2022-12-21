@@ -4,7 +4,6 @@ Part 1 Preliminary
 1 Definitions
 (1) In this scheme:
 adjacent area for a State has the meaning given by clause 14 of this Schedule.
-Area A of the Zone of Cooperation has the same meaning as in the Petroleum (Australia-Indonesia Zone of Cooperation) Act 1990 (Commonwealth).
 Australian ship means:
 (a) a ship registered in Australia; or
 (b) a ship that operates, or is controlled, from a base in Australia and is not registered under the law of another country; or
@@ -126,8 +125,6 @@ Part 4 Limitations and exclusions
 This scheme does not exclude the extraterritorial operation of State law to the extent that the State law is capable of operating extraterritorially consistently with the scheme.
 9 Exclusion of certain laws from ambit of scheme
 This scheme does not apply to State and Commonwealth laws excluded by regulation from the ambit of the scheme.
-10 Non-application of scheme to Area A of the Zone of Cooperation
-This scheme does not apply to Area A of the Zone of Cooperation.
 Part 5 Miscellaneous
 11 Interpretation
 The Acts Interpretation Act 1901 (Commonwealth) applies to this scheme in the same way as to a Commonwealth Act.
@@ -149,14 +146,11 @@ territorial sea has the same meaning as in the Seas and Submerged Lands Act 1973
 (b) the Coral Sea area (within the meaning of section 8(2) of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) other than the territorial sea within the Coral Sea area; and
 (c) the areas within the outer limits of the territorial sea adjacent to certain islands of Queensland as determined by proclamation on 4 February 1983 under section 7 of the Seas and Submerged Lands Act 1973 (Commonwealth); and
 (d) the space above and below the areas described in paragraphs (a), (b) and (c).
-(3) The adjacent area for Western Australia is so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to Western Australia as:
-(a) is within the outer limits of the continental shelf; and
-(b) is not within the Joint Petroleum Development Area,
-and includes the space above and below that area.
+(3) The adjacent area for Western Australia is:
+(a) so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to Western Australia as is within the outer limits of the continental shelf; and
+(b) the space above and below the area described in paragraph (a).
 (4) The adjacent area for the Northern Territory is:
-(a) so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to the Northern Territory as:
-(i) is within the outer limits of the continental shelf; and
-(ii) is not within the Joint Petroleum Development Area; and
+(a) so much of the area described in Schedule 1 to the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth) in relation to the Northern Territory as is within the outer limits of the continental shelf; and
 (b) the offshore area for the Territory of Ashmore and Cartier Islands (within the meaning of section 8(1) of the Offshore Petroleum and Greenhouse Gas Storage Act 2006 (Cth)) other than the territorial sea within that area; and
 (c) the space above and below the areas described in paragraphs (a) and (b).
 (5) However, the adjacent area for a State does not include any area inside the limits of any State or Territory.
@@ -164,8 +158,5 @@ and includes the space above and below that area.
 15 Baselines
 The baseline for a State is the part of the baseline of Australia’s territorial sea from which the part of the territorial sea that is within the adjacent area for that State is measured.
 16 Indicative map
-(1) A map showing the various areas that are relevant to this scheme appears in Appendix 1 to this scheme.
+(1) A map showing the various areas that are relevant to this scheme appears in Appendix 1 to Schedule 1 to the Crimes at Sea Act 2000 (Cth).
 (2) The map is intended to be indicative only. The provisions of this scheme and of the body of this Act prevail over the map if there is any inconsistency.
-APPENDIX 1
-clause 16
-MAP

@@ -1,4 +1,4 @@
-## Schedule 1 Repeal
+## Schedule 1 Repeals
 section 4
 Part I
 Number of Act | Act | Extent of Repeal
