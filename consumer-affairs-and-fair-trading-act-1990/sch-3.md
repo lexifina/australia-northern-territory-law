@@ -61,16 +61,6 @@ The reference in section 224(2)(c) of the Australian Consumer Law (NT) to procee
 (a) Part 6 of the old Act; or
 (b) Part VC or VI of the Trade Practices Act 1974 (Cth); or
 (c) equivalent provisions of a law of a State or another Territory.
-9 Transitional regulations
-(1) A regulation may provide for a matter of a transitional nature:
-(a) because of the enactment of the amendment Act; or
-(b) to otherwise allow or facilitate the transition from the operation of the old Act to the new Act.
-(2) The regulation may have retrospective operation to a day not earlier than the day of commencement.
-(3) However, to the extent to which the regulation has retrospective operation, it does not operate to the disadvantage of a person (other than the Territory or a Territory authority) by:
-(a) decreasing the person's rights; or
-(b) imposing liabilities on the person.
-(4) The regulation must declare it is made under this paragraph.
-(5) This paragraph, and each regulation made under it, expires 1 year after the commencement.
 Part 3 Transitional matters for Statute Law Amendment (Directors' Liability) Act 2015
 1 Offences – before and after commencement
 (1) Section 330, as inserted by the Statute Law Amendment (Directors' Liability) Act 2015, (the new section) applies in relation to a relevant offence committed by a body corporate after the commencement of Part 2, Division 4 of that Act (the commencement) only if:
@@ -79,3 +69,47 @@ Part 3 Transitional matters for Statute Law Amendment (Directors' Liability) Act
 (2) Section 330, as in force before the commencement:
 (a) continues to apply in relation to offences committed by a body corporate before the commencement; and
 (b) applies in relation to relevant offences committed by a body corporate after the commencement to which, as a result of subparagraph (1), the new section does not apply.
+Part 4 Transitional matters for Justice and Licensing Legislation Further Amendment Act 2022
+1 Definitions
+In this Part:
+amending Act means Part 3, Division 3 of the Justice and Licensing Legislation Further Amendment Act 2022.
+commencement means the commencement of the amending Act.
+2 Delegations
+A delegation by the Commissioner of any of the Commissioner's powers or functions under Part 10 or 14, other than a power or function under section 162, that is in force immediately before the commencement, is taken to be a delegation by the Director made under section 17B.
+3 Authorised officers
+(1) A person who, immediately before the commencement, is an authorised officer for Parts 10 and 14 is taken to have been appointed by the Director in relation to those Parts under section 18(4) as in force after the commencement.
+(2) A person who, immediately before the commencement, is an authorised officer for this Act is taken to have been appointed by the Commissioner in relation to this Act, other than Parts 10 and 14, under section 18(3) as in force after the commencement.
+4 Pending applications
+(1) Subparagraph (2) applies in relation to an application if, before the commencement:
+(a) the application had been made to the Commissioner under Part 10 or 14 (other than section 162); and
+(b) the Commissioner had not made a decision on the application.
+(2) The application must be dealt with and decided in accordance with this Act as in force immediately before the commencement.
+(3) The decision made by the Commissioner on the application is taken to be a decision made by the Director under this Act.
+5 Pending appeals
+(1) Subparagraph (2) applies in relation to an appeal if, before the commencement:
+(a) the appeal had been commenced under this Act; and
+(b) a decision on the appeal had not been made.
+(2) The appeal must be dealt with in accordance with this Act as in force immediately before the commencement.
+6 Appeals not yet commenced
+(1) Subparagraph (2) applies in relation to a decision if, before the commencement:
+(a) the decision had been made by the Commissioner and the period for appealing the decision had not expired; and
+(b) an appeal had not been commenced.
+(2) A person who would have been entitled to appeal against the decision under this Act as in force immediately before the commencement may do so under this Act as in force after the commencement as if the decision had been made by the Director.
+7 Continuation of ongoing documents and actions
+(1) On the commencement, an ongoing document continues with the same force and effect as if it had been issued by, or given to, the Director.
+(2) On the commencement, an ongoing action continues with the same force and effect as if it had been done by, or in relation to, the Director.
+(3) This paragraph applies subject to the other provisions of this Part.
+(4) In this paragraph, a reference to something done before the commencement includes a reference to something done after the commencement in accordance with this Part as if it had been done before the commencement.
+(5) In this paragraph:
+ongoing action means an action or thing that:
+(a) was done by, or in relation to, the Commissioner before the commencement in or for the exercise of a power or performance of a function under this Act that, on the commencement, is conferred on the Director; and
+(b) immediately before the commencement, had ongoing effect.
+ongoing document means a document that:
+(a) was issued by, or given to, the Commissioner before the commencement in or for the exercise of a power or performance of a function under this Act that, on the commencement, is conferred on the Director; and
+(b) immediately before the commencement, had ongoing effect.
+8 Offence provisions – before and after commencement
+(1) The offence provisions, as amended by the amending Act, apply only in relation to offences committed after the commencement.
+(2) The offence provisions, as in force before the commencement, continue to apply in relation to offences committed before the commencement.
+(3) For this paragraph, if any of the conduct constituting an offence occurred before the commencement, the offence is taken to have been committed before the commencement.
+(4) In this paragraph:
+offence provisions means the provisions of this Act that create or relate to offences (including in relation to criminal responsibility, defences and penalties).
