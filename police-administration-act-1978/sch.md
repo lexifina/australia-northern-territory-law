@@ -1,4 +1,4 @@
-## Schedule
+## Schedule Forms
 sections 26 and 32
 FORM 1
 FORM OF OATH TO BE TAKEN BY MEMBERS
@@ -10,4 +10,4 @@ Administered by me,
 FORM 3
 section 37A
 FORM OF OATH TO BE TAKEN BY MEMBER OF, OR DEPUTY OF MEMBER OF, POLICE ARBITRAL TRIBUNAL
-I,……………, [promise/swear etc. as required by Oaths, Affidavits and Declarations Act 2010] that I will bear true allegiance to Her Majesty Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her while acting as a member of the Police Arbitral Tribunal and that I will faithfully and impartially perform the duties of a member of the Police Arbitral Tribunal. [So help me God! or as appropriate]
+I,……………, [promise/swear etc. as required by Oaths, Affidavits and Declarations Act 2010] that I will bear true allegiance to Her Majesty, Queen Elizabeth the Second, Her Heirs and Successors according to law, that I will well and truly serve Her while acting as a member of the Police Arbitral Tribunal and that I will faithfully and impartially perform the duties of a member of the Police Arbitral Tribunal. [So help me God! or as appropriate]
