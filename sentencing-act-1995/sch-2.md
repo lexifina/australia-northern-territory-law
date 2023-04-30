@@ -24,5 +24,5 @@ section 190 | Assaults on the Administrator or judges
 section 191 | Assaults on member of crew of aircraft
 section 193 | Assaults with intent to commit an offence
 section 194 | Kidnapping for ransom
-section 211 | Robbery
+section 218 | Robbery
 section 212 | Assault with intent to steal

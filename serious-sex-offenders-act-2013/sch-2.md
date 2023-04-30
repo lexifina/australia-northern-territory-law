@@ -12,7 +12,7 @@ section 138
 section 176 | If the offence intended to be committed or facilitated is a serious sex offence
 section 188(2)(k)
 section 193 | If the offence intended to be committed is a serious sex offence
-section 213 | If the offence intended to be committed is a serious sex offence
+section 220 or 221 | If the offence intended to be committed is a serious sex offence
 Summary Offences Act 1923
 Provision of Act | Qualification
 section 47AC | Loitering by sexual offender
