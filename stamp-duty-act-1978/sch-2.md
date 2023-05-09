@@ -33,16 +33,16 @@ Conveyances
 (d) the effect of the conveyance is that both parties to the conveyance will own the place of residence to which the conveyance relates in equal shares; and
 (e) no other person takes an interest under the conveyance.
 8 Conveyance to a former bankrupt from the estate of the former bankrupt (except where the bankrupt takes the property as trustee of a trust).
-9 Grant of a resource interest, or of a statutory licence or permission used in or in connection with a business undertaking, unless, in the opinion of the Commissioner, the grant forms part of a wider transaction amounting, in effect, to a transfer of the resource interest, licence or permission.
-10 Transfer under the Commercial Passenger (Road) Transport Act 1991 of a taxi licence or an agreement to make such a transfer.
-11 Transfer of a licence for a fixed period under section 16A of the Fisheries Act 1988 unless, in the opinion of the Commissioner, the transfer forms part of a wider transaction amounting, in effect, to the permanent transfer of the licence.
+9 Grant of a resource interest unless, in the opinion of the Commissioner, the grant forms part of a wider transaction amounting in effect to a transfer of the resource interest.
+10 Conveyance of chattels as part of a transaction that:
+(a) includes a conveyance or grant of a lease, or an interest in a lease, of land for nil or only nominal dutiable value; and
+(b) does not include a conveyance of any other dutiable property.
 12 Grant of an estate in fee simple or other lesser estate in land from the Crown other than:
 (a) a grant of an estate in fee simple or lesser estate after the surrender of a convertible Crown lease held over the same land the subject of the grant where:
 (i) the grantee was not the person who surrendered the convertible Crown lease; and
 (ii) the grant, in the opinion of the Commissioner, forms part of a wider transaction amounting, in effect, to a transfer of the estate in the land; or
 (b) a grant of an estate in fee simple or convertible Crown lease for which monetary consideration is given or agreed to be given (whether or not the consideration is subject to specified conditions and whether or not those conditions have been met); or
 (c) a grant of a resource interest.
-12A Conveyance of a renewable energy certificate under the Renewable Energy (Electricity) Act 2000 (Cth).
 14 Conveyance of dutiable property to an exempt entity if the property is to be used solely by the entity for an exempt use.
 Leases
 15 Lease that is a residence contract under the Retirement Villages Act 1995.
