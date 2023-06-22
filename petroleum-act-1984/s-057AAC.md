@@ -1,0 +1,3 @@
+# 57AAC Grant relating to Aboriginal land or native title land
+(1) If any of the affected land to which an application for a petroleum interest comprises Aboriginal land, the Minister may grant a petroleum interest for that land only if the applicant has obtained any permit, consent or agreement required under the Land Rights Act.
+(2) If the Minister is satisfied that a grant of a petroleum interest will be a future act in relation to any of the land to be comprised in the petroleum interest, the Minister may grant the petroleum interest only if satisfied that all procedures under the Native Title Act relevant to the future act have been followed.

@@ -10,7 +10,7 @@ section 25(1)(a) | A decision to renew exploration permit if satisfied of certai
 section 25(1)(b) | A decision to renew exploration permit despite non-compliance
 section 25(2) | A decision to refuse to renew permit
 section 27 | A decision to grant or renew exploration permit subject to conditions
-section 28(2) | A decision to vary, suspend or waive a condition of exploration permit
+section 28(2) | A decision to vary a condition of exploration permit
 section 29(3) | A decision to grant production licence subject to conditions considered appropriate
 section 30(2) | A decision directing permittee to apply for production licence
 section 34(1) | A determination to grant or refuse retention licence
@@ -19,7 +19,7 @@ section 38(1)(b) | A decision indicating preparedness to renew retention licence
 section 38(2) | A decision indicating preparedness to renew retention licence
 section 38(3) | A decision to refuse to renew retention licence
 section 40 | A decision to grant a retention licence on conditions
-section 41(2) | A decision to vary, suspend or waive condition of retention licence
+section 41(2) | A decision to vary condition of retention licence
 section 42(2) | A decision to grant production licence subject to conditions considered appropriate
 section 43(2) | A decision to direct licensee to apply for production licence
 section 47(1) | A determination to grant production licence if satisfied of certain matters
@@ -29,13 +29,16 @@ section 52(1)(b) | A decision indicating preparedness to renew production licenc
 section 52(2) | A decision indicating preparedness to renew production licence
 section 52(3) | A decision to refuse to renew production licence
 section 54(1) | A decision to impose appropriate conditions on a production licence
-section 55(2) | A decision to vary, suspend or waive condition of production licence
+section 55(2) | A decision to vary condition of production licence
 section 57A(3) | A decision to grant or refuse to grant access authority
 section 57A(4) | A decision to impose conditions on access authority
-section 57A(5) | A decision to vary access authority area or condition
+section 57AAA | A decision to approve an application to recover petroleum on an approval basis
+section 57AAA(6) | A decision to approve an application to recover petroleum on an approval basis subject to conditions
+section 57AAA(8) or (9) | A decision to vary a condition
+section 61A(2)(a) | A decision to approve a plan
+section 61B(6) | A decision relating to the review of an approved plan
+section 61C(4) | A decision to vary a condition of an approved plan
 section 73(1C) | A decision to accept an application for surrender if satisfied of certain matters
-section 79(1) | A decision requiring security be lodged
-section 79(3) | A decision to vary amount of security
 section 119 | A decision to renew a permit or lease
 section 119(2B) or (2C) | A decision to give directions
 section 119(6) | A decision to grant a permit or licence

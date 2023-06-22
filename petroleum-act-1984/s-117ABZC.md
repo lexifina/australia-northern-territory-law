@@ -1,0 +1,2 @@
+# 117ABZC Contravention of 2 or more provisions
+If the conduct of a person constitutes a contravention of 2 or more provisions of this Act that are offences referred to in section 117ABT, an amount of civil penalty may be ordered to be paid by the person under this Division in relation to the contravention of any one or more of the provisions but the person is not liable to pay more than one amount as a civil penalty in relation to the same conduct.

@@ -1,19 +1,9 @@
-# 117AAC Environmental offences
-(1) A person must not, during the conduct of an operation authorised under this Act, intentionally do an act, or fail to do an act, that causes the release of a contaminant or waste material on, above or under land if:
-(a) he or she knows, or ought reasonably be expected to know, that serious environmental harm or material environmental harm will or might result from the release of the contaminant or waste material; and
-(b) the contaminant or waste material causes serious environmental harm to land all of which is within one kilometre of the site where the contaminant is released.
-(2) An offence against subsection (1) is an environmental offence level 1.
-(3) A person must not, during the conduct of an operation authorised under this Act, do an act, or fail to do an act, that causes the release of a contaminant or waste material on, above or under land if:
-(a) he or she knows, or ought reasonably be expected to know, that serious environmental harm or material environmental harm will or might result from the release of the contaminant or waste material; and
-(b) the contaminant or waste material causes serious environmental harm to land all of which is within one kilometre of the site where the contaminant or waste material is released.
-(4) An offence against subsection (3) is an environmental offence level 2.
-(5) A person must not, during the conduct of an operation authorised under this Act, intentionally do an act, or fail to do an act, that causes the release of a contaminant or waste material on, above or under land if:
-(a) he or she knows, or ought reasonably be expected to know, that serious environmental harm or material environmental harm will or might result from the release of the contaminant or waste material; and
-(b) the contaminant or waste material causes material environmental harm to land all of which is within one kilometre of the site where the contaminant or waste material is released.
-(6) An offence against subsection (5) is an environmental offence level 2.
-(7) A person must not, during the conduct of an operation authorised under this Act, do an act, or fail to do an act, that causes the release of a contaminant or waste material on, above or under land if:
-(a) he or she knows, or ought reasonably be expected to know, that serious environmental harm or material environmental harm will or might result from the release of the contaminant or waste material; and
-(b) the contaminant or waste material causes material environmental harm to land all of which is within one kilometre of the site where the contaminant or waste material is released.
-(8) An offence against subsection (7) is an environmental offence level 3.
-(9) A person must not, during the conduct of an operation authorised under this Act, do an act, or fail to do an act, that causes the release of a contaminant or waste material on, above or under land, if the contaminant or waste material causes an environmental nuisance to land all of which is within one kilometre of the site where the contaminant is released.
-(10) An offence against subsection (9) is an environmental offence level 4.
+# 117AAC Additional defences for environmental offences
+(1) It is a defence to a prosecution of an offence against section 117AAB if the conduct was authorised under another provision of this Act or another Act.
+Note for subsection (1)
+The defendant has an evidential burden in relation to the matters in subregulation (1) (see section 43BU of the Criminal Code).
+(2) If environmental harm is the result of the release of a contaminant or waste, it is a defence to a prosecution for an offence against section 117AAB, in relation to a particular contaminant or waste, if the defendant complied with:
+(a) a provision of an environment protection objective as defined in section 4(1) of the Waste Management and Pollution Control Act 1998 that fixed maximum allowable levels for the particular contaminant or waste; or
+(b) a condition of an approval, permit, lease, licence or other authorisation under this Act or another Act that fixed maximum allowable levels for the particular contaminant or waste.
+Note for subsection (2)
+The defendant has an evidential burden in relation to the matters in subregulation (2) (see section 43BU of the Criminal Code).

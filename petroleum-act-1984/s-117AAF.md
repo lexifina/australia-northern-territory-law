@@ -1,7 +1,8 @@
-## Division 3 Liabilities of employers and employees etc. under Division 2
-# 117AAF Actions etc. of employee or agent of body corporate are those of body corporate
-(1) If in proceedings for an offence against Division 2 it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show:
-(a) that the conduct was engaged in by a director, manager, employee or agent of the body corporate within the scope of his or her actual or apparent authority; and
-(b) that the director, manager, employee or agent had the relevant state of mind.
-(2) For the purposes of a prosecution for an offence against Division 2, conduct engaged in on behalf of a body corporate by a director, manager, employee or agent of the body corporate within the scope of his or her actual or apparent authority is taken to have been engaged in also by the body corporate.
-(3) For the purposes of this section, a reference to engaging in conduct is read as including a reference to failing or refusing to engage in conduct.
+# 117AAF Order to remedy breach
+(1) If a person is found guilty of an offence against this Act, the court may, in addition to any sanction that it may impose, make an order requiring the person to take specified steps, within a specified period, to remedy any matter caused by the commission of the offence that appears to the court to be within the person’s power to remedy.
+(2) The period in which an order under this section must be complied with may be extended, or further extended, by order of the court if an application for the extension is made before the period expires.
+(3) A person commits an offence if:
+(a) the person is subject to an order under this section; and
+(b) the person contravenes the order.
+Maximum penalty: 500 penalty units.
+(4) An offence against subsection (3) is an offence of strict liability.
