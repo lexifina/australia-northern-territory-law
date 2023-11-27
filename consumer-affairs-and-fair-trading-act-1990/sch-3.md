@@ -113,3 +113,41 @@ ongoing document means a document that:
 (3) For this paragraph, if any of the conduct constituting an offence occurred before the commencement, the offence is taken to have been committed before the commencement.
 (4) In this paragraph:
 offence provisions means the provisions of this Act that create or relate to offences (including in relation to criminal responsibility, defences and penalties).
+Part 5 Transitional matters for Statute Law Amendment (NTCAT Conferral of Jurisdiction) Act 2023
+1 Definitions
+In this Part:
+amending Act means the Statute Law Amendment (NTCAT Conferral of Jurisdiction) Act 2023.
+commencement means the commencement of Part 8 of the amending Act.
+former Act means this Act as in force immediately before the commencement.
+former appeal provisions means section 139, 151 or 269 of the former Act.
+2 Fair reporting objections and orders made before commencement
+(1) Section 119 of the former Act continues to apply after the commencement in relation to a notice of objection served on a reporting agency or trader by a person under section 119(1) of the former Act before the commencement.
+(2) Section 121 of the former Act continues to apply after the commencement in relation to an order made by the Local Court under section 119(6) of the former Act before the commencement.
+3 Fair reporting appeals not commenced before commencement
+(1) This paragraph applies to a person if, immediately before the commencement, the person:
+(a) was entitled to appeal to the Local Court under section 119(5) of the former Act; and
+(b) had not yet commenced an appeal.
+(2) The person may appeal to the Local Court under section 119(5) of the former Act, as if Part 8 of the amending Act had not commenced.
+(3) The Local Court must hear and determine the person's appeal in accordance with section 119(5) and (6) of the former Act, as if Part 8 of the amending Act had not commenced.
+(4) Section 119(7) of the former Act continues to apply after the commencement in relation to the person's appeal.
+(5) Section 121 of the former Act continues to apply after the commencement in relation to any order that is made by the Local Court under section 119(6) of the former Act on the person's appeal.
+4 Fair reporting appeals not determined before commencement
+(1) This paragraph applies in relation to an appeal to the Local Court that:
+(a) was commenced by a person under section 119(5) of the former Act; and
+(b) had not been finally determined by the Local Court before the commencement.
+(2) The Local Court must continue to hear and determine the person's appeal in accordance with section 119(5) and (6) of the former Act, as if Part 8 of the amending Act had not commenced.
+(3) Section 119(7) of the former Act continues to apply after the commencement in relation to the person's appeal.
+(4) Section 121 of the former Act continues to apply after the commencement in relation to any order that is made by the Local Court under section 119(6) of the former Act on the person's appeal.
+5 NTCAT review limited to decisions made after commencement
+Section 329A applies only in relation to a reviewable decision that is made after the commencement.
+6 Other appeals not commenced before commencement
+(1) This paragraph applies to a person if, immediately before the commencement, the person:
+(a) was entitled to appeal to the Local Court against a decision under the former appeal provisions; and
+(b) had not yet commenced an appeal against the decision.
+(2) The person may appeal to the Local Court against the decision in accordance with the former appeal provisions, as if Part 8 of the amending Act had not commenced.
+(3) The Local Court must hear and determine the person's appeal in accordance with the former appeal provisions, as if Part 8 of the amending Act had not commenced.
+7 Other appeals not determined before commencement
+(1) Subparagraph (2) applies in relation to an appeal to the Local Court that:
+(a) was commenced by a person under the former appeal provisions; and
+(b) had not been finally determined by the Local Court before the commencement.
+(2) The Local Court must continue to hear and determine the person's appeal in accordance with the former appeal provisions, as if Part 8 of the amending Act had not commenced.
