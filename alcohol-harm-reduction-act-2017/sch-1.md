@@ -1,9 +1,10 @@
 ## Schedule 1 Reviewable decisions
 section 32
-Reviewable decision | Affected person
-Making BDO by police under section 10(1)(c) or (d) | Adult for whom BDO is made
-Making BDO by BDR Registrar under Part 2, Division 4 | Adult for whom BDO is made
-Extension of BDO under Part 2, Division 4 | Adult subject to BDO
-Refusal to vary or revoke BDO on application under section 25(2) | Applicant
-Making income management order under section 27 | Adult for whom order is made
-Refusal to vary or revoke income management order under section 29(2)(c) | Adult subject to order
+Item | Reviewable decision | Affected person
+1 | Making BDO by BDR Registrar under section 21 | Adult for whom BDO is made
+2 | Extension of BDO by BDR Registrar under section 23 | Adult subject to BDO
+3 | Extension of BDO by police under section 24 | Adult subject to BDO
+4 | Refusal by BDR Registrar to vary or revoke BDO on application under section 25(2) | Applicant
+5 | Refusal by police to vary or revoke BDO or extension to BDO on application under section 25A(3) | Applicant
+6 | Making income management order by BDR Registrar under section 27 | Adult for whom order is made
+7 | Refusal by BDR Registrar to vary or revoke income management order under section 29(2)(c) | Adult subject to order
