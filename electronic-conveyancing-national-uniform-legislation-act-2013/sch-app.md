@@ -45,7 +45,7 @@ registry instrument means any document that may be lodged under the land titles 
 (a) creating, transferring, disposing of, mortgaging, charging, leasing or dealing with in any other way an estate or interest in land; or
 (b) getting something registered, noted or recorded in the titles register; or
 (c) getting the registration, note or record of something in the titles register changed, withdrawn or removed.
-responsible tribunal means the Supreme Court.
+responsible tribunal means NTCAT.
 this jurisdiction means the Territory.
 titles register means the land register kept under section 6 of the Land Title Act 2000 and any other register prescribed by regulation.
 ## Part 3 Miscellaneous matters
