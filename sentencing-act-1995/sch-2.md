@@ -16,13 +16,13 @@ section 181 | Serious harm
 section 182 | Attempting to injure by explosive substances
 section 185 | Setting man-traps
 section 186 | Harm
-section 188 | Common assault other than in circumstances mentioned in section 188(2)(k)
+section 188 | Common assault
 section 188A | Assaults on workers
 section 189 | Unlawful stalking
 section 189A | Assaults on police
 section 190 | Assaults on the Administrator or judges
 section 191 | Assaults on member of crew of aircraft
 section 193 | Assaults with intent to commit an offence
+section 193B | Assault with intent to steal
 section 194 | Kidnapping for ransom
 section 218 | Robbery
-section 212 | Assault with intent to steal
