@@ -4,14 +4,13 @@ Note for Schedule 2
 Serious sex offences are also offences of a sexual nature (see section 4, definition offence of a sexual nature, paragraph (a)).
 Criminal Code
 Provision of Act | Qualification
-section 125B | If the person possesses, distributes, sells or offers or advertises for distribution or sale child abuse material
-section 130 | If the victim is 16 years or more
-section 131
-section 134 | If the victim is 18 years or more
-section 138
+section 125B | If the person sells, distributes or possesses, or offers or advertises for sale or distribution, child abuse material
 section 176 | If the offence intended to be committed or facilitated is a serious sex offence
-section 188(2)(k)
 section 193 | If the offence intended to be committed is a serious sex offence
+section 208HC or 208HD
+section 208LB, 208LC or 208LD | If the victim is 16 years or more
+section 208MA | If the victim is 18 years or more
+section 208N
 section 220 or 221 | If the offence intended to be committed is a serious sex offence
 Summary Offences Act 1923
 Provision of Act | Qualification

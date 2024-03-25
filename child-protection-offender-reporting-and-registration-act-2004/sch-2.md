@@ -1,22 +1,15 @@
 ## Schedule 2 Class 2 offences
-section 12(3)
-1. An offence against section 125B of the Criminal Code (possession of child pornography and certain indecent articles).
-2. An offence against section 125C of the Criminal Code (publishing indecent articles) – where the article is indecent because it portrays a child who is under, or who looks like he or she is under, the age of 16 years.
-3. An offence against section 128 of the Criminal Code (sexual intercourse or gross indecency involving child over 16 years under special care).
-4. An offence against section 131 of the Criminal Code (attempts to procure child under 16 years).
-5. An offence against section 132 of the Criminal Code (indecent dealing with child under 16 years).
-6. An offence against section 188(1) of the Criminal Code committed in the circumstances referred to in subsection (2)(k) of that section (indecent assault) – where the victim is a child.
-7. An offence against section 193 of the Criminal Code (assaults with intent to commit an offence) – where the intent is to commit a reportable offence.
-8. An offence against section 201 of the Criminal Code (abduction, enticement or detention of child under 16 years for immoral purpose).
-9. An offence against section 12 of the Sex Industry Act 2019 (causing or allowing child to perform sex work or work in sex services business).
-10. An offence against section 13 of the Sex Industry Act 2019 (receiving payment from sex work by child).
-11. An offence against section 14 of the Sex Industry Act 2019 (agreeing to sex work by child).
-13. An offence against section 50BC of the Crimes Act 1914 (Cth) (sexual conduct involving child under 16 years).
-14. An offence against section 50BD of the Crimes Act 1914 (Cth) (inducing child under 16 years to be involved in sexual conduct).
-15. An offence against section 50DA or 50DB of the Crimes Act 1914 (Cth) (benefiting from offence and encouraging offence, respectively).
-16. An offence against section 271.4(1) or (2) of the Criminal Code Act 1995 (Cth) (trafficking in children to provide sexual services).
-17. An offence against section 271.7 of the Criminal Code Act 1995 (Cth) (domestic trafficking in children to provide sexual services).
-18. An offence against section 474.19 of the Criminal Code Act 1995 (Cth) (using a carriage service for child pornography material).
-19. An offence against section 474.20 of the Criminal Code Act 1995 (Cth) (possessing, controlling, producing, supplying or obtaining child pornography material for use through a carriage service).
-20. An offence against section 474.26 of the Criminal Code Act 1995 (Cth) (using a carriage service to procure persons under 16 years of age).
-21. An offence against section 474.27 of the Criminal Code Act 1995 (Cth) (using a carriage service to "groom" persons under 16 years of age).
+section 12(3)(a)
+1 Criminal Code
+Provision of Act | Qualification
+Section 125B
+Section 125C | If the article is indecent because it depicts, describes or represents a person who is under, or who looks to be under, 16 years of age
+Section 193 | If the intent is to commit a reportable offence
+Section 201, 208JC, 208JD, 208JE, 208JF, 208JG, 208JH, 208K, 208KA, 208KB or 208KC
+Section 208LE | If the victim is a child
+2 Sex Industry Act 2019
+Provision of Act | Qualification
+Section 12, 13 or 14
+3 Criminal Code (Cth)
+Provision of Act | Qualification
+Section 271.4, 271.7, 272.15A, 273A.1, 471.25A, 474.22, 474.22A, 474.23, 474.24A, 474.25A, 474.25B, 474.25C(ii) or (iii), 474.26, 474.27 or 474.27AA

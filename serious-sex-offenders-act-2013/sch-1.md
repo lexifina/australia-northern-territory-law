@@ -3,20 +3,9 @@ section 4, definition serious sex offence
 Criminal Code
 Provision of Act | Qualification
 section 125B | If the person produces child abuse material
-section 125E
-section 127
-section 128
-section 130 | If the victim is under 16 years
-section 131A
-section 132
-section 134 | If the victim is under 18 years
-section 186B
-section 192
-section 192B
-section 201
-section 202B
-section 202C
-section 202D
+section 125D, 186B, 201, 202B, 202C, 202D, 208H, 208HA, 208HB, 208J, 208JA, 208JB, 208JC, 208JD, 208JE, 208JF, 208JG, 208JH, 208JI, 208K, 208KA or 208KB
+section 208LB, 208LC or 208LD | If the victim is under 16 years
+section 208MA | If the victim is under 18 years
 Sex Industry Act 2019
 Provision of Act | Qualification
 section 12
