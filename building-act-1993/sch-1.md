@@ -40,6 +40,7 @@ section 168(2)
 37. Regulation of the approval, construction and use of temporary structures.
 38. Exemption of persons or classes of persons, or buildings or classes of buildings, or building work or classes of building work, from any or all of the provisions of this Act or the Regulations.
 39. Insurance requirements for persons carrying out building work, building certifiers and other building practitioners.
+39A. Continuing professional development requirements for building practitioners.
 40. Procedure for applications, referrals and appeals to the Appeals Board.
 41. The seal of the Appeals Board.
 42. Inspection of registers kept by the Director.
