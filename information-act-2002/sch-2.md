@@ -32,6 +32,7 @@ IPP 2 Use and disclosure
 (iii) a serious threat to public health or public safety;
 (e) the organisation has reason to suspect that unlawful activity has been, is being or may be engaged in and uses or discloses the information as a necessary part of its investigation of the matter or in reporting its concerns to relevant persons or authorities;
 (f) the use or disclosure is required or authorised by law;
+(fa) the use or disclosure of the information is in accordance with a processing arrangement between the organisation and another public sector organisation;
 (g) the organisation reasonably believes that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of a law enforcement agency:
 (i) preventing, detecting, investigating, prosecuting or punishing an offence or a breach of a prescribed law;
 (ii) enforcing a law relating to the confiscation of proceeds of crime;
@@ -123,7 +124,7 @@ IPP 10 Sensitive information
 (c) the individual is:
 (i) physically or legally incapable of giving consent to the collection; or
 (ii) physically unable to communicate his or her consent to the collection;
-and collecting the information is necessary to prevent or lessen a serious and imminent threat to the life or health of the individual or another individual; or
+and collecting the information is necessary to prevent or lessen a serious or imminent threat to the life or health of the individual or another individual; or
 (d) collecting the information is necessary to establish, exercise or defend a legal or equitable claim.
 10.2 Despite IPP 10.1, a public sector organisation may collect sensitive information about an individual if:
 (a) the collection:

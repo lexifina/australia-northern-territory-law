@@ -14,7 +14,7 @@ section 208N
 section 220 or 221 | If the offence intended to be committed is a serious sex offence
 Summary Offences Act 1923
 Provision of Act | Qualification
-section 47AC | Loitering by sexual offender
+section 47AC
 Criminal Code (Cth)
 Provision of Act | Qualification
 section 272.20
