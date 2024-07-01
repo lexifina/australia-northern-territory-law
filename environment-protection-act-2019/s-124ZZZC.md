@@ -1,0 +1,8 @@
+# 124ZZZC Offence to contravene direction
+(1) A person commits an offence if:
+(a) the person has been directed to publish a report under section 124ZZZB(1); and
+(b) the person contravenes the direction.
+Maximum penalty: 100 penalty units.
+(2) An offence against subsection (1) is an offence of strict liability.
+(3) It is a defence to a prosecution for an offence against subsection (1) if the defendant took reasonable steps and exercised due diligence to prevent the commission of the offence.
+(4) The defendant has a legal burden of proof in relation to a matter mentioned in subsection (3).
