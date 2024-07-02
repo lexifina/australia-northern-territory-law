@@ -1,4 +1,4 @@
-## Schedule
+## Schedule 1
 section 3
 Part A – Acts of South Australia Repealed
 The Water Conservation Amendment Act, 1889 | No. 463, 1889
