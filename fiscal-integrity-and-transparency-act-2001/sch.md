@@ -29,7 +29,6 @@ Part 2 Interpretation
 3 Interpretation
 (1) In this Framework, unless the contrary intention appears:
 Australian accounting standards means the Australian Accounting Standard 31 (Financial Reporting by Governments) issued by the Australian Accounting Standards Board, as in force from time to time.
-borrowing amount limit, for Part 3, see clause 5(1)(ca).
 budget means the annual Territory budget.
 budget year means the financial year to which a budget relates.
 election means a general election of members of the Legislative Assembly.
@@ -53,38 +52,12 @@ Part 3 Principles of sound fiscal management
 (a) the Government must formulate and apply spending and taxing policies with consideration to the effect of these policies on employment and the economic prosperity and development of the Territory;
 (b) the Government must formulate and apply spending and taxing policies so as to give rise to a reasonable degree of stability and predictability;
 (c) the Government must ensure that funding for current services is to be provided by the current generation;
-(ca) the Government must ensure that the Territory's borrowings, excluding leases, in relation to the Territory non-financial public sector does not exceed $15 billion (the borrowing amount limit);
 (d) the Government must manage financial risks faced by the Territory prudently (having regard to economic circumstances), including by maintaining Territory debt at prudent levels.
 (2) The financial risks referred to in paragraph (1)(d) include the following risks:
 (a) risks arising from excessive debt;
 (b) commercial risks arising from ownership of public trading enterprises and public financial enterprises;
 (c) risks arising from erosion of the Territory’s revenue base;
 (d) risks arising from the management of assets and liabilities.
-(3) In this clause:
-borrowing means receiving money, property or other value with an obligation to repay, regardless of whether the repayment is of the same kind or same amount as the valued received.
-Examples for definition borrowing
-1 A loan.
-2 The issue of debentures, bonds or stock by any means or by discounted securities, promissory notes or any other security (not including equity shares).
-3 A lease of any real or personal property.
-4 Any other arrangement (or an arrangement of a kind) where there is an obligation to repay.
-5A Suspension of principle related to Territory's borrowings
-(1) The Treasurer may, by Gazette notice, while an emergency declaration is in force suspend the operation of the principle in clause 5(1)(ca) for a specified period of up to 12 months.
-(2) In this clause:
-emergency declaration means:
-(a) an emergency situation under section 18 of the Emergency Management Act 2013; or
-(b) a state of emergency under section 19 of the Emergency Management Act 2013; or
-(c) a state of disaster under section 21 of the Emergency Management Act 2013; or
-(d) a public health emergency under section 48 of the Public and Environmental Health Act 2011.
-5B Reporting in relation to Territory's borrowings
-(1) The Treasurer must prepare a report in accordance with subclause (2) within 3 months of the following:
-(a) the Government exceeding the borrowing amount limit;
-(b) the Government projecting it will exceed the borrowing amount limit at any time during the budget year or the following 3 budget years;
-(c) the Treasurer suspending the operation of the principle mentioned in clause 5(1)(ca).
-(2) The report must include the following details:
-(a) the reasons why the borrowing amount limit has been exceeded, or is projected to be exceeded, or suspended;
-(b) the actions the Government will take to address the borrowing amount limit being exceeded, or projected to be exceeded, or suspended;
-(c) the estimated impact of the actions mentioned in paragraph (b) for the budget year and the following 3 budget years.
-(3) The Treasurer must table the report in the Legislative Assembly within 6 sitting days after it is prepared.
 Part 4 Fiscal strategy statement
 6 Public release and tabling of fiscal strategy statements
 (1) The Treasurer must publicly release and table the first fiscal strategy statement for a particular Government at or before the time of the Government’s first budget.
