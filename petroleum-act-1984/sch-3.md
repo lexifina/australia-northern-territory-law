@@ -1,8 +1,7 @@
 ## Schedule 3 Reviewable decisions and interested persons
 section 57AB
 Reviewable decision | Interested persons
-A decision of the Minister to release specified blocks for exploration under section 16A(c) | A person directly affected by the decision The Land Council for the area in relation to which the decision applies A registered native title body corporate in relation to any part of the area to which the decision applies Any registered native title claimant in relation to any part of the area to which the decision applies A person who made a genuine and valid submission under section 16(2)(db) on the release of the blocks, other than an excluded third party submission
-A decision of the Minister to grant an exploration permit under section 20 | A person directly affected by the decision The Land Council for the exploration permit area A registered native title body corporate in relation to any part of the exploration permit area Any registered native title claimant in relation to any part of the exploration permit area A person who made a genuine and valid submission under section 19 on the application for the grant, other than an excluded third party submission
+A determination of the Minister not to release a block for exploration under section 16A(b)(ii) | An applicant for an exploration permit in respect of the block
 A determination of the Minister to refuse the grant of an exploration permit under section 20(3) | The applicant for the permit
 A decision of the Minister to refuse to renew an exploration permit under section 25(2) | The permittee
 A decision of the Minister as to conditions of an exploration permit on the grant of the permit | The applicant for the permit

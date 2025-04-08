@@ -9,7 +9,7 @@ section 13(7)(b) | A decision to refuse application
 section 13(8)(b) | A decision to later give, or again give, consent
 section 15A | Determination that applicant or associated entity is appropriate person to hold permit or licence
 section 16(1) | A decision to invite applications for grant of exploration permit
-section 16A | A decision to release blocks for exploration
+section 16A(b) | A determination to release or not release a block for exploration
 section 17(2) | A decision on which application has greatest merit
 section 20(3) | A determination to grant or refuse exploration permit
 section 23(3)(b) | A decision to accept application for renewal of exploration permit

@@ -4,7 +4,7 @@ Provision | Decision or determination
 section 9(1) | A decision to reserve blocks from exploration permit or licence
 section 10(1) | A decision to revoke or vary reservation of block
 section 15(3) or (4) | A decision to give directions
-section 16A | A decision to release blocks for exploration
+section 16A(b) | A determination to release or not release a block for exploration
 section 20(3) | A determination to grant or refuse exploration permit
 section 25(1)(a) | A decision to renew exploration permit if satisfied of certain matters
 section 25(1)(b) | A decision to renew exploration permit despite non-compliance
