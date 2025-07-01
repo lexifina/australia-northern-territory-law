@@ -43,12 +43,12 @@ Conveyances
 (ii) the grant, in the opinion of the Commissioner, forms part of a wider transaction amounting, in effect, to a transfer of the estate in the land; or
 (b) a grant of an estate in fee simple or convertible Crown lease for which monetary consideration is given or agreed to be given (whether or not the consideration is subject to specified conditions and whether or not those conditions have been met); or
 (c) a grant of a resource interest.
-14 Conveyance of dutiable property to an exempt entity if the property is to be used solely by the entity for an exempt use.
+14 Conveyance of dutiable property to an exempt entity.
 Leases
 15 Lease that is a residence contract under the Retirement Villages Act 1995.
 16 Lease to the Territory, to a Government Business Division declared by regulation to be a Government Business Division to which this exemption applies or to an authority of the Territory other than a Government Business Division.
 17 Lease to the Commonwealth or to an authority of the Commonwealth.
-18 Lease of property to an exempt entity if the property is to be used solely by the entity for an exempt use.
+18 Lease of property to an exempt entity.
 Insurance
 19 An insurance cover-note in pursuance of which a duly stamped policy is issued within 3 months of the date of the cover-note.
 20 A policy of insurance issued to the original insured or the insured's personal representative in pursuance of a cover-note which has been duly stamped as a policy.
