@@ -24,7 +24,11 @@ D is the deductible amount mentioned in clause 6 or 7 (as the case requires).
 R is the rate of payroll tax mentioned in clause 3.
 (2) If D is equal to or more than TW in respect of a month, the employer is not required to pay payroll tax in respect of that month.
 6 Deductible amount for employer who does not pay interstate wages
-(1) For an employer who pays or is liable to pay taxable wages in a month but does not pay and is not liable to pay interstate wages in that month, the deductible amount in respect of that month is an amount not exceeding $125 000 as determined in a manner approved by the Commissioner.
+(1) For an employer who pays or is liable to pay taxable wages in a month but does not pay and is not liable to pay interstate wages in that month, the deductible amount in respect of that month is an amount not exceeding the amount in dollars calculated in accordance with the following formula, as determined in a manner approved by the Commissioner:
+TA
+12
+where:
+TA is the threshold amount for the financial year as defined in Schedule 1, clause 1.
 (2) Subclause (1) applies whether the employer pays or is liable to pay wages for the whole of the month or only part of the month.
 7 Deductible amount for employer who pays interstate wages
 (1) The deductible amount for an employer who pays or is liable to pay taxable wages and interstate wages in a month is an amount determined in a manner approved by the Commissioner.
@@ -55,7 +59,11 @@ TW is the total taxable wages paid or payable by the employer concerned (as a me
 R is the rate of tax mentioned in clause 3.
 (3) For subclauses (1)(a) and (2)(a), if D is equal to or more than JTW or TW in respect of a month (as the case requires), the designated group employer is not required to pay payroll tax in respect of that month.
 10 Deductible amount for groups that do not pay interstate wages
-(1) For a group in which 1 or more members pay or are liable to pay taxable wages in a month but no members pay or are liable to pay interstate wages in that month, the deductible amount in respect of that month is an amount not exceeding $125 000 as determined in a manner approved by the Commissioner.
+(1) For a group in which 1 or more members pay or are liable to pay taxable wages in a month but no members pay or are liable to pay interstate wages in that month, the deductible amount in respect of that month is an amount not exceeding the amount in dollars calculated in accordance with the following formula, as determined in a manner approved by the Commissioner:
+TA
+12
+where:
+TA is the threshold amount for the financial year as defined in Schedule 1, clause 1.
 (2) Subclause (1) applies whether group members pay or are liable to pay wages for the whole of the month or only part of the month.
 11 Deductible amount for groups that pay interstate wages
 (1) The deductible amount for a group in which 1 or more members pay or are liable to pay taxable wages or interstate wages in a month is an amount determined in a manner approved by the Commissioner.
@@ -77,7 +85,7 @@ Part 3 Payroll tax for financial year
 (2) The designated group employer of the group is liable to pay as payroll tax for the financial year the amount of dollars calculated in accordance with the following formula:
 (3) In this clause:
 AD or annual deduction means the following:
-(a) if the amount worked out in accordance with the following formula is zero or a negative amount – zero;
+(a) if the amount worked out in accordance with the formula set out in paragraph (b) is zero or a negative amount – zero;
 (b) otherwise – the amount worked out in accordance with the following formula:
 GIW is the total interstate wages paid or payable by the members of the group during the relevant financial year.
 GTA, see Schedule 1, clause 8.
@@ -94,6 +102,14 @@ Division 1 Education and training
 Wages are exempt wages if they are paid or payable by a school or college (other than a technical school or a technical college) that:
 (a) provides education at or below, but not above, the secondary level of education; and
 (b) is carried on by a body corporate, society or association otherwise than for the purpose of profit or gain to the individual members of the body corporate, society or association and is not carried on by or on behalf of the Territory.
+17 Apprentices and trainees
+(1) Wages are exempt wages if they are paid or payable to an employee who is an apprentice or trainee.
+(2) Despite subsection (1), wages paid or payable to a trainee by an employer are not exempt wages if, immediately before the commencement of the trainee's traineeship with the employer, the trainee had been employed by the employer for a continuous period of:
+(a) for a full-time employee – 3 months or more; or
+(b) for a part-time or casual employee – 12 months or more.
+(3) In this clause:
+apprentice, see section 5 of the Training and Skills Development Act 2016.
+trainee, see section 6 of the Training and Skills Development Act 2016.
 Division 2 Health care service providers
 19 What is a health care service provider
 For Part 4, Division 3 of this Act, a health care service provider is:
