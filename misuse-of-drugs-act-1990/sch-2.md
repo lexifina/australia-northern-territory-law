@@ -2,7 +2,6 @@
 section 3
 COLUMN 1 Substance or thing | COLUMN 2 Traffickable quantity | COLUMN 3 Commercial quantity
 Acetorphine | 2.00 g | 100.00 g
-Acetyl-a-methylfentanyl | 0.005 g | 0.25 g
 Acetyldihydrocodeine, except when compounded with one or more other medicaments: | 2.00 g | 100.00 g
 (a) in divided preparations containing not more than 100 mg of acetyldihyd-rocodeine per dosage unit; or
 (b) in undivided preparations with a concentration of not more than 2.5% of acetyldihydrocodeine
@@ -11,7 +10,6 @@ Acetylmorphines | 2.00 g | 100.00 g
 Adamantoylindoles | 50.0 g | 500.00 g
 Adamantylamidoindazoles | 50.0 g | 500.00 g
 Adamantylamidoindoles | 50.0 g | 500.00 g
-Alfentanil | 0.005 g | 0.25 g
 Alkoxyamphetamines and substituted alkoxyamphetamines except if separately specified in this Schedule | 0.50 g | 25.00 g
 Alkoxyphenethylamines and substituted alkoxyphenylethylamines except if separately specified in this Schedule | 0.50 g | 25.00 g
 Alkythioamphetamines | 0.50 g | 25.00 g
@@ -57,7 +55,6 @@ Cannabis resin | 10.00 g | 100.00 g
 Cannabis seed, other than permissible Cannabis seeds | 10.00 g | 100.00 g
 Cathinone | 2.00 g | 100.00 g
 2-(4-chloro-2,5-dimethoxyphenyl)-N-[(2-methoxyphenyl)methyl]ethanamine (25C-NBOMe) | 0.50 g | 25.00 g
-Clonitazene | 5.00 g | 250.00 g
 Coca Leaf | 250.00 g | 5.00 kg
 Codeine except when compounded with one or more other medicaments: (a) in divided preparations containing 30 mg or less of codeine per dosage unit; or (b) in undivided preparations containing 1% or less of codeine | 10.00 g | 500.00 g
 Codeine-N-oxide | 10.00 g | 500.00 g
@@ -104,11 +101,9 @@ Ethylamphetamine | 2.00 g | 100.00 g
 Ethylmethylthiambutene | 10.00 g | 500.00 g
 Ethylmorphine, except when compounded with one or more other medicaments: (a) in divided preparations containing not more than 100 mg of ethylmorphine per dosage unit; or (b) in undivided preparations with a concentration of not more than 2.5% of ethylmorphine | 2.00 g | 100.00 g
 Eticyclidine (PCE) | 2.00 g | 100.00 g
-Etonitazene | 5.00 g | 250.00 g
 Etorphine | 5.00 g | 250.00 g
 Etoxeridine | 5.00 g | 250.00 g
 Fenetylline | 2.00 g | 100.00 g
-Fentanyl | 0.005 g | 0.25 g
 5-fluoro-AB-P7AICA | 50.00 g | 500.00 g
 5-fluoro CUMYL-P7AICA | 50.00 g | 500.00 g
 Fluorofentanyl | 0.005 g | 0.25 g
@@ -241,7 +236,6 @@ Racemorphan | 2.00 g | 100.00 g
 Rolicyclidine (PHP, PCPY) | 2.00 g | 100.00 g
 Salvia Divinorum, including extracts and other substances structurally derived from Salvia Divinorum | 7.50 g | 375.00 g
 Secbutobarbitone | 20.00 g | 1.00 kg
-Sufentanil | 0.005 g | 0.25 g
 Tenocyclidine (TCP) | 2.00 g | 100.00 g
 Tetrahydrocannabinols and their alkyl homologues except:
 (a) if separately specified in this Schedule; or
