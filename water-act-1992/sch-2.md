@@ -14,11 +14,12 @@ Item | Reviewable decision | Affected person
 17 | A decision of the Controller under section 65(2) to refuse to consent to a change in use of a bore | The person who applied for the consent
 19 | A decision of the Controller under section 67(1) to refuse to grant a licence to increase the water contained in an aquifer | The person who applied for the licence
 20 | A decision of the Controller under section 70 to give a direction | The person to whom the direction is given
+21 | A decision of the Controller under section 71AA to refuse to approve the transfer of an entitlement to water | The holder of the licence who applied for the transfer of water entitlement
 22 | A decision of the Controller under section 71G(1) to refuse to grant a licence to take water in respect of a development | The person who applied for the licence
 23 | A decision of the Controller under section 71H to grant a licence to take water | The person who applied for the licence
 24 | A decision of the Controller under section 71H to refuse to grant a licence to take water | The person who applied for the licence
-25 | A decision of the Controller under section 71J(3) to refuse to effect a trade of an entitlement to water | The person who applied for the trade
 27 | A decision of the Controller under section 74(1) to refuse to grant a waste discharge licence | The person who applied for the licence
 28 | A decision of the Minister under section 88A(1) to issue an action notice | The person to whom the notice is issued
 29 | A decision of the Controller under section 93(1) to amend or modify the terms or conditions of a licence | The holder of the licence
 30 | A decision of the Controller under section 93(2) to revoke or suspend a licence | The holder or former holder of the licence
+31 | A decision of the Controller under section 93A(4) to refuse to renew a permit or licence | The holder of the permit or licence

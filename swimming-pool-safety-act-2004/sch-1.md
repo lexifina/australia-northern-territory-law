@@ -1,7 +1,8 @@
-## Schedule Transitional provisions
+## Schedule 1 Transitional provisions
 section 58
+Part 1 Transitional matters for Swimming Pool Safety Act 2004
 1 Definitions
-In this Schedule:
+In this Part:
 certificate of registration means a certificate of registration in force under the repealed Act immediately before the commencement day.
 commencement day means the day on which this Act comes into operation.
 former compliance certificate means a compliance certificate in force under the repealed Act immediately before the commencement day.
@@ -45,3 +46,9 @@ repealed Act means the Swimming Pool Fencing Act 2002 as in force immediately be
 (1) A person who immediately before the commencement day was appointed as the Swimming Pool Fencing Authority under section 41(1) or (2) of the repealed Act is taken to be a person appointed as the Swimming Pool Safety Authority under section 38(1) or (2) respectively.
 (2) A person who immediately before the commencement day was appointed as an inspector under section 43(1) or (2) of the repealed Act is taken to be a person appointed as a swimming pool safety adviser under section 40(1) or (2) respectively.
 (3) A person who immediately before the commencement day was appointed as a member of the Review Committee established by the repealed Act is taken to be a person appointed as a member of the Review Committee established by this Act.
+Part 2 Transitional matters for Lands, Planning and Environment Legislation Amendment Act 2025
+8 Decisions reviewable by Review Committee
+(1) For section 48, as inserted by section 50 of the amending Act, a reviewable decision includes a decision that, immediately before the commencement, was subject to review by the Review Committee under Part 7 as in force before the commencement, but for which a review had not been applied for or determined before the commencement.
+(2) In this clause:
+amending Act means the Lands, Planning and Environment Legislation Amendment Act 2025.
+commencement means the commencement of section 50 of the amending Act.
