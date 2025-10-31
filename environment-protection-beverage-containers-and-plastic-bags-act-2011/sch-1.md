@@ -1,4 +1,4 @@
-## Schedule Agreements for coordinator arrangement provisions
+## Schedule 1 Agreements for coordinator arrangement provisions
 section 12(3)
 1 Definitions
 accepted containers means empty permitted containers that:
@@ -84,7 +84,7 @@ D is the amount received by the secondary coordinator from the proceeds of the s
 (2) The agreement must specify:
 (a) the time within which the auditor must conduct the audit and give the report; and
 (b) how the CDS coordinators will pay the auditor's costs.
-(3) An agreement that if, at any time, a CDS coordinator reasonably believes any of the relevant information given by another coordinator is inaccurate:
+(3) An agreement that if, at any time, a CDS coordinator believes on reasonable grounds that any of the relevant information given by another coordinator is inaccurate:
 (a) the coordinator may request the auditor named in the agreement mentioned in subclause (1) to audit the relevant information and give the coordinator a written report in relation to the information; and
 (b) if the auditor's report states that the relevant information is inaccurate, the coordinator who gave that information must pay the auditor's costs; and
 (c) if the auditor's report states that the relevant information is accurate, the coordinator who requested the audit must pay the auditor's costs.
