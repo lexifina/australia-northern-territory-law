@@ -8,14 +8,14 @@ Purpose of Act
 (2) Accordingly, this Act:
 (a) applies the Commonwealth domestic commercial vessel national law as a law of the Territory; and
 (b) makes provision to enable the Commonwealth domestic commercial vessel national law and the applied law of the Territory to be administered on a uniform basis by the Commonwealth (and by Territory officials as delegates of the Commonwealth) as if they constituted a single law of the Commonwealth.
-Definitions
+Interpretation
 (1) In this Act:
 applied provisions means the Commonwealth domestic commercial vessel national law that applies as a law of the Territory because of section 5.
-Commonwealth administrative laws means the following Commonwealth Acts, regulations or other legislative instruments:
-(a) the Administrative Appeals Tribunal Act 1975 (excluding Part IVA);
-(b) the Freedom of Information Act 1982;
-(c) the Ombudsman Act 1976;
-(d) the Privacy Act 1988;
+Commonwealth administrative laws means the following:
+(a) the Administrative Review Tribunal Act 2024 (Cth) (excluding Part 7);
+(b) the Freedom of Information Act 1982 (Cth);
+(c) the Ombudsman Act 1976 (Cth);
+(d) the Privacy Act 1988 (Cth);
 (e) the regulations and other legislative instruments in force under any of those Acts.
 Commonwealth domestic commercial vessel national law means the provisions of the following Acts, regulations or other legislative instruments:
 (a) the Marine Safety (Domestic Commercial Vessel) National Law of the Commonwealth (being provisions applying as a law of the Commonwealth because of section 4 of the Marine Safety (Domestic Commercial Vessel) National Law Act 2012 (Cth));
@@ -84,7 +84,7 @@ Application of Commonwealth administrative laws to applied provisions
 (b) is taken not to be a matter arising in relation to laws of the Territory.
 (3) Subsection (2) has effect for the purposes of a law of the Territory except as provided by the regulations made under this Act.
 (4) Any provision of a Commonwealth administrative law applying because of this section that purports to confer jurisdiction on a federal court is taken not to have that effect.
-(5) For the purposes of this section, a reference in a provision of the Administrative Appeals Tribunal Act 1975 (Cth) (as that provision applies as a law of this jurisdiction) to the whole or any part of Part IVA of that Act is taken to be a reference to the whole or any part of that Part as it has effect as a law of the Commonwealth.
+(5) For the purposes of this section, a reference in a provision of the Administrative Review Tribunal Act 2024 (Cth) (as that provision applies as a law of this jurisdiction) to the whole or any part of Part 7 of that Act is taken to be a reference to the whole or any part of that Part as it has effect as a law of the Commonwealth.
 Functions and powers conferred on Commonwealth officers and authorities
 (1) A Commonwealth administrative law applying because of section 13 that confers on a Commonwealth officer or authority a function or power also confers on the officer or authority the same function or power in relation to a matter arising in relation to the applied provisions.
 (2) In performing a function or exercising a power conferred by this section, the Commonwealth officer or authority must act as nearly as practicable as the officer or authority would act in performing or exercising the same function or power under the Commonwealth administrative law.

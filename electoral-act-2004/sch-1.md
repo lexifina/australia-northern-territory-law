@@ -5,8 +5,8 @@ Electoral Act 2004
 WRIT
 To:
 The Electoral Commission
-I request that you conduct an election in accordance with this Act for one member of the Legislative Assembly of the Northern Territory of Australia for the division of [insert name of division].*
-I request that you conduct a general election in accordance with this Act for all members of the Legislative Assembly of the Northern Territory of Australia.*
+I request that you conduct an election in accordance with the Electoral Act 2004 for one member of the Legislative Assembly of the Northern Territory of Australia for the division of [insert name of division].*
+I request that you conduct a general election in accordance with the Electoral Act 2004 for all members of the Legislative Assembly of the Northern Territory of Australia.*
 I fix the following dates for the election:
 [insert date] to be nomination day;
 [insert date] to be election day;
