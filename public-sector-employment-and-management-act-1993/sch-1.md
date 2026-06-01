@@ -2,7 +2,5 @@
 section 19(3)
 Agency | Office the holder of which is the Chief Executive Officer
 Police Civil Employment Unit | Commissioner of Police
-Ombudsman's Office | Ombudsman
 Auditor-General's Office | Auditor-General
-Office of the Independent Commissioner Against Corruption | Independent Commissioner Against Corruption
-Northern Territory Fire and Emergency Services | Commissioner of Fire and Emergency Services
+Northern Territory Fire and Emergency Services | Commissioner of Fire and Emergency Service
