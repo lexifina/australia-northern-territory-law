@@ -1,2 +1,2 @@
 MINERAL TITLES ACT 2010
-An Act about exploration for, and extraction and processing of, minerals and extractive minerals in the Territory, and for related purposes
+An Act regarding the exploration for, extraction of, processing of and title to minerals, extractive minerals and prescribed substances, for the regulation of activities on lands used for those purposes, and for related purposes
