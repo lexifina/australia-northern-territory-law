@@ -6,7 +6,7 @@ The constitution of a local government subsidiary for which the council is a con
 The notices and minutes of meetings of the council, local authorities, council committees and electors (sections 93(1), 97(3), 102(2) and 103(3)). | The material need not be available after 3 years from the day on which the meeting was scheduled, or if later, was held.
 The amounts of allowances payable by the council to its members and a statement of the expenses to be paid to members under this Act (sections 106(3) and 109). | The material need not be available after 3 years from the last day of the relevant financial year.
 The register of annual returns of interest, the register of declared conflicts and the register of declared gifts and benefits (section 117). | The material need not be available after 3 years from the conclusion of the next general election after the entry was made.
-The council's code of conduct (section 119(2)).
+The code of conduct prescribed under section 120.
 The council's budget and any amended budget (section 203(4) and (5)). | The material need not be available after 3 years from the last day of the financial year for which the budget or amended budget was adopted.
 A notice in relation to conditionally rateable land (section 219(5)). | The material need not be available after 3 years from the last day of the financial year during which the notice was published.
 Notice of the declaration of rates for the current financial year (section 241(1)). | The material need not be available after 3 years from the last day of the financial year during which the notice was published.
