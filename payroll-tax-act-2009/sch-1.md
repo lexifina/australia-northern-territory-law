@@ -7,7 +7,7 @@ ETA or employer's threshold amount, see clause 4.
 financial year means the financial year commencing on 1 July 2009 or on 1 July in any subsequent financial year.
 FY means the number of days in the financial year.
 GTA or group threshold amount, see clause 8.
-R means 5.5%.
+R is the rate of payroll tax applicable under section 7A.
 relevant financial year means the financial year to which the calculation of the relevant payroll tax relates.
 TA or threshold amount means $2 500 000.
 Part 2 Employers who are not members of group
