@@ -1,0 +1,25 @@
+The legal text in this repository
+
+Source: NT Legislation (https://legislation.nt.gov.au), Office of Parliamentary Counsel, Northern Territory of
+Australia. This is NOT an official version of Northern Territory legislation. For the official text go to
+https://legislation.nt.gov.au.
+
+Copyright in Northern Territory legislation is owned by the Northern Territory. Its copyright policy (Terms of Use,
+https://legislation.nt.gov.au/en/Footer/Terms-of-Use, in effect from 8 October 1996) grants permission to any person
+to publish or deal with any legislation of the Northern Territory on these conditions, which this repository keeps:
+- the publication must not indicate directly or indirectly that it is an official version of the material;
+- the arms of the Northern Territory must not be used in connection with the publication of the material; and
+- the material must be accurately reproduced in a context that does not mislead.
+The Northern Territory may revoke, vary or withdraw that permission on reasonable notice.
+
+Changes made: the text of each reprint of each Act has been split into one file per provision (section, schedule,
+schedule clause), with white space normalised (runs of spaces, tabs and line breaks are one space), soft hyphens left
+out and non-breaking hyphens written as hyphens, table rows written as one line with cells joined by " | ", and the
+history between reprints reconstructed into commits from each reprint's "as in force at" day and its endnotes. The
+tables of provisions, covers, running headers and endnotes are not reproduced. The Northern Territory arms are not
+reproduced. Neither the Office of Parliamentary Counsel nor the Northern Territory endorses this repository.
+
+The code, documentation and arrangement
+
+Copyright 2026 Lexifina. The scripts in tools/ and the documentation (README.md, REPRODUCE.md, SOURCES.md,
+corpus.json, changes.csv, ACTS.md, data/) are provided for Lexifina's use. This repository is private.
